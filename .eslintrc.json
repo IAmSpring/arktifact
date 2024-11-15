@@ -3,6 +3,24 @@
     "next",
     "next/core-web-vitals"
   ],
+  "rules": {
+    "@next/next/no-img-element": "warn",
+    "react/no-unescaped-entities": [
+      "error",
+      {
+        "forbid": [
+          {
+            "char": ">",
+            "alternatives": ["&gt;"]
+          },
+          {
+            "char": "}",
+            "alternatives": ["&#125;"]
+          }
+        ]
+      }
+    ]
+  },
   "parserOptions": {
     "project": "./tsconfig.json"
   }
