@@ -1,35 +1,26 @@
 # Arktifact Chronicles
 
-An epic NFT journey through humanity's greatest story, from tribal origins to cosmic enlightenment.
+[![Deploy Arktifact Chronicles](https://github.com/IAmSpring/arktifact/actions/workflows/deploy.yml/badge.svg)](https://github.com/IAmSpring/arktifact/actions/workflows/deploy.yml)
 
-## Quick Start
+Visit the live site: [Arktifact Chronicles](https://iamspring.github.io/arktifact/)
 
-```bash
-# Install dependencies
-npm install
+A Web3-enabled NFT collection platform built with Next.js, showcasing the Arktifact Chronicles series.
 
-# Run development server
-npm run dev
+## Features
 
-# Build for production
-npm run build
+- 🎨 Dynamic NFT Gallery
+- 🌐 Web3 Integration with MetaMask
+- 📱 Responsive Design
+- ⚡ Static Site Generation
+- 🔄 Continuous Deployment
 
-# Start production server
-npm start
-```
+## Tech Stack
 
-## Project Structure
-
-```
-arktifact-chronicles/
-├── app/                    # Next.js 13+ App Router
-├── components/            # React components
-├── data/                  # Content & configuration
-├── public/               # Static assets
-├── styles/              # Global styles
-├── types/               # TypeScript definitions
-└── utils/               # Helper functions
-```
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Web3/Ethereum Integration
 
 ## Development
 
