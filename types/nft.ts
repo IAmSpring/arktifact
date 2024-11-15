@@ -1,7 +1,9 @@
 export interface NFT {
+  name: string;
   id: string;
-  title: string;
-  description: string;
-  imageUrl: string;
-  openSeaUrl: string;
+  description?: string;
+  image: string;
+  attributes?: {
+    [key: string]: string | number;
+  };
 } 
