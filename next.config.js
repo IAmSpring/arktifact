@@ -4,17 +4,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // Required for static export
+  basePath: process.env.NODE_ENV === 'production' ? '/arktifact' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/arktifact/' : '',
   trailingSlash: true,
-  // Configure static API routes
-  async rewrites() {
-    return [
-      {
-        source: '/api/episode-files',
-        destination: '/api/episode-files.json',
-      },
-    ];
-  },
 }
 
 module.exports = nextConfig 
