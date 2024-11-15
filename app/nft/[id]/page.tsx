@@ -6,6 +6,13 @@ import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
+import allNFTs from '@/data/season1';
+
+export async function generateStaticParams() {
+  return allNFTs.map((nft) => ({
+    id: nft.id,
+  }));
+}
 
 // This would normally come from your API or database
 const dummyNFT = {
