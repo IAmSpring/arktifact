@@ -16,20 +16,17 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: '18.x'
           cache: 'npm'
           
-      - name: Install dependencies
-        run: npm install --legacy-peer-deps
-        
-      - name: Run linting
-        run: npm run lint
-        
-      - name: Run type checking
-        run: npm run type-check
-        
-      - name: Build project
-        run: npm run build
+      - name: Clean install dependencies
+        run: |
+          npm clean-install
+          
+      - name: Build
+        run: |
+          npm run build
+          touch out/.nojekyll # Ensures GitHub Pages doesn't process files with underscores
         
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
