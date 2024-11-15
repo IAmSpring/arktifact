@@ -114,3 +114,18 @@ npm run build
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# Deployment Environments
+
+## Production
+- URL: https://arktifact.com
+- Branch: main
+- Environment: production
+- Protection: Required reviews
+
+### Deployment Process
+1. Push to main branch
+2. Automated checks run
+3. Required reviewers approve
+4. Production build created
+5. Deploy to GitHub Pages

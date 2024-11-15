@@ -14,6 +14,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: production
 
     steps:
       - uses: actions/checkout@v3
@@ -35,9 +36,9 @@ jobs:
           npm run build
           touch out/.nojekyll
           cp CNAME out/
-          echo "arktifact.com" > out/CNAME
         env:
           NEXT_TELEMETRY_DISABLED: 1
+          NODE_ENV: production
           
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
