@@ -1,144 +1,226 @@
 import { NFT } from '@/types/nft';
 
-export const episode8NFTs: NFT[] = [
+const episode8NFTs: NFT[] = [
   {
-    name: "Memorial Portrait of Tanek",
-    description: "A dignified portrait honoring Tanek, the first protector whose spirit of strength and loyalty continues to inspire generations. This Arktifact embodies the timeless values that shaped humanity's journey.",
+    id: "tarin-guardian",
+    name: "Tarin, Guardian of the Future",
+    title: "Tarin, Guardian of the Future",
+    description: "Tarin, a wise and compassionate leader, stands as the protector of humanity's most advanced society. This Arktifact honors his commitment to guiding future generations with wisdom and love in Episode 8 of Arktifact.",
+    image_prompt: "A majestic figure in flowing, luminescent robes that blend advanced technology with organic elements. Tarin's serene expression radiates wisdom while cosmic energy patterns flow around him, symbolizing his role as protector of humanity's brightest future.",
+    image: "/images/episodes/8/tarin_guardian.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/tarin_guardian_of_the_future",
     attributes: [
       { trait_type: "Episode", value: "8" },
-      { trait_type: "Artifact Type", value: "Memorial Portrait" },
+      { trait_type: "Character Role", value: "Guardian of the Future" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Enduring Strength" }
+      { trait_type: "Symbolism", value: "Wisdom and Protection" }
     ],
-    image: "/images/nfts/episode8/tanek_memorial.png",
-    external_url: "https://opensea.io/assets/arktifact/tanek_memorial"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Tarin the Guardian"
+    }
   },
   {
-    name: "Memorial Portrait of Raskara",
-    description: "A thoughtful depiction of Raskara, humanity's first visionary, whose wisdom and intellectual curiosity laid the foundation for generations of thinkers and innovators.",
+    id: "riona-keeper",
+    name: "Riona, Keeper of the Cosmos",
+    title: "Riona, Keeper of the Cosmos",
+    description: "Riona, a visionary and guardian of interstellar knowledge, represents humanity's infinite curiosity and boundless spirit. Her legacy defines the era of cosmic unity in Episode 8.",
+    image_prompt: "An ethereal figure surrounded by holographic star maps and flowing cosmic energies. Riona's form seems to merge with the universe itself as she interfaces with advanced stellar cartography systems, her presence bridging the gap between humanity and the cosmos.",
+    image: "/images/episodes/8/riona_keeper.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/riona_keeper_of_the_cosmos",
     attributes: [
       { trait_type: "Episode", value: "8" },
-      { trait_type: "Artifact Type", value: "Memorial Portrait" },
+      { trait_type: "Character Role", value: "Keeper of the Cosmos" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Eternal Wisdom" }
+      { trait_type: "Symbolism", value: "Curiosity and Cosmic Unity" }
     ],
-    image: "/images/nfts/episode8/raskara_memorial.png",
-    external_url: "https://opensea.io/assets/arktifact/raskara_memorial"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Riona the Keeper"
+    }
   },
   {
-    name: "The Honor Seal",
-    description: "A sacred emblem that unifies symbols from every era of human history, awarded to those who embody the timeless values of strength, integrity, and wisdom that define humanity's legacy.",
+    id: "celestial-nexus",
+    name: "The Celestial Nexus",
+    title: "The Celestial Nexus",
+    description: "A vast, interconnected knowledge hub that spans both Earth and the stars. This structure symbolizes universal unity and the boundless pursuit of knowledge in Episode 8.",
+    image_prompt: "A breathtaking crystalline structure that seems to exist in multiple dimensions, with knowledge streams flowing between Earth and the cosmos. The architecture defies conventional physics, creating spaces where information and consciousness merge seamlessly.",
+    image: "/images/episodes/8/celestial_nexus.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/the_celestial_nexus",
     attributes: [
       { trait_type: "Episode", value: "8" },
-      { trait_type: "Artifact Type", value: "Symbol" },
+      { trait_type: "Artifact Type", value: "Knowledge Hub" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "United Legacy" }
+      { trait_type: "Symbolism", value: "Unity and Knowledge" }
     ],
-    image: "/images/nfts/episode8/honor_seal.png",
-    external_url: "https://opensea.io/assets/arktifact/honor_seal"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "The Celestial Nexus"
+    }
   },
   {
-    name: "Scroll of the Ages",
-    description: "A revered document containing the accumulated wisdom of humanity, preserving the core principles from each era as a guide for future generations to follow.",
+    id: "cosmic-harmony-sphere",
+    name: "Sphere of Cosmic Harmony",
+    title: "Sphere of Cosmic Harmony",
+    description: "A celestial object used for meditation, representing the alignment of humanity with the universe. This Arktifact embodies peace and unity on a cosmic scale in Episode 8.",
+    image_prompt: "A mesmerizing sphere that contains what appears to be a miniature galaxy in perfect balance. The object hovers in mid-air, its surface rippling with cosmic energies that respond to consciousness and meditation, creating a bridge between individual awareness and universal consciousness.",
+    image: "/images/episodes/8/cosmic_harmony_sphere.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/sphere_of_cosmic_harmony",
+    attributes: [
+      { trait_type: "Episode", value: "8" },
+      { trait_type: "Artifact Type", value: "Meditation Object" },
+      { trait_type: "Rarity", value: "Limited Edition" },
+      { trait_type: "Quantity Available", value: "100" },
+      { trait_type: "Series", value: "Arktifact" },
+      { trait_type: "Symbolism", value: "Peace and Unity" }
+    ],
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Sphere of Cosmic Harmony"
+    }
+  },
+  {
+    id: "eternal-peace-scroll",
+    name: "Scroll of Eternal Peace",
+    title: "Scroll of Eternal Peace",
+    description: "This scroll contains the timeless principles of unity, compassion, and peace that guide humanity in the Utopian Horizon. It represents the ethical foundations of a harmonious future in Episode 8.",
+    image_prompt: "An otherworldly scroll that emanates a soft, pulsing light. Its surface displays living text that shifts between different universal languages, the wisdom it contains manifesting as both written word and pure energy patterns.",
+    image: "/images/episodes/8/eternal_peace_scroll.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/scroll_of_eternal_peace",
     attributes: [
       { trait_type: "Episode", value: "8" },
       { trait_type: "Artifact Type", value: "Document" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Eternal Wisdom" }
+      { trait_type: "Symbolism", value: "Compassion and Peace" }
     ],
-    image: "/images/nfts/episode8/ages_scroll.png",
-    external_url: "https://opensea.io/assets/arktifact/ages_scroll"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Scroll of Eternal Peace"
+    }
   },
   {
-    name: "Lantern of the Legacy",
-    description: "A ceremonial lantern that illuminates remembrance ceremonies, its eternal flame symbolizing the unbroken chain of honor and wisdom passed down through generations.",
+    id: "cosmic-unity-emblem",
+    name: "Emblem of Cosmic Unity",
+    title: "Emblem of Cosmic Unity",
+    description: "A symbol worn by interstellar ambassadors, representing humanity's connection with the universe. This emblem embodies unity and shared purpose in Episode 8.",
+    image_prompt: "A luminous emblem that seems to contain the essence of multiple galaxies. Its surface shifts and flows with living light, displaying intricate patterns that represent the interconnectedness of all cosmic consciousness.",
+    image: "/images/episodes/8/cosmic_unity_emblem.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/emblem_of_cosmic_unity",
     attributes: [
       { trait_type: "Episode", value: "8" },
-      { trait_type: "Artifact Type", value: "Ceremonial Item" },
+      { trait_type: "Artifact Type", value: "Emblem" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Eternal Light" }
+      { trait_type: "Symbolism", value: "Unity and Purpose" }
     ],
-    image: "/images/nfts/episode8/legacy_lantern.png",
-    external_url: "https://opensea.io/assets/arktifact/legacy_lantern"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Emblem of Cosmic Unity"
+    }
   },
   {
-    name: "Unity Totem of the Cosmos",
-    description: "A sacred totem bearing symbols from every era of human history, representing the complete journey of humanity from its earliest days to its cosmic destiny.",
+    id: "utopia-blueprint",
+    name: "Blueprint of Utopia",
+    title: "Blueprint of Utopia",
+    description: "A detailed design of the utopian city, showcasing eco-integrated architecture and technology. This blueprint symbolizes a perfected society in harmony with nature and the cosmos in Episode 8.",
+    image_prompt: "A multidimensional blueprint showing the perfect integration of nature, technology, and cosmic energy. The plans reveal structures that exist in multiple planes of reality, with flowing lines of light indicating the paths of consciousness and energy throughout the utopian design.",
+    image: "/images/episodes/8/utopia_blueprint.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/blueprint_of_utopia",
     attributes: [
       { trait_type: "Episode", value: "8" },
-      { trait_type: "Artifact Type", value: "Sacred Symbol" },
+      { trait_type: "Artifact Type", value: "Blueprint" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Complete Journey" }
+      { trait_type: "Symbolism", value: "Harmony and Perfection" }
     ],
-    image: "/images/nfts/episode8/cosmos_totem.png",
-    external_url: "https://opensea.io/assets/arktifact/cosmos_totem"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Blueprint of Utopia"
+    }
   },
   {
-    name: "Emblem of the Ancestors",
-    description: "A distinguished emblem awarded to those who carry the blood of humanity's first leaders, symbolizing the unbroken line of honor and wisdom that connects past to present.",
+    id: "eternal-light-lantern",
+    name: "Lantern of Eternal Light",
+    title: "Lantern of Eternal Light",
+    description: "A sacred lantern symbolizing everlasting wisdom and enlightenment. It serves as a beacon of hope for all beings in the galaxy, representing peace in Episode 8.",
+    image_prompt: "A transcendent lantern that emits light in colors beyond the visible spectrum. Its crystalline structure contains what appears to be a captured star, eternally radiating wisdom and hope across dimensions.",
+    image: "/images/episodes/8/eternal_light_lantern.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/lantern_of_eternal_light",
     attributes: [
       { trait_type: "Episode", value: "8" },
-      { trait_type: "Artifact Type", value: "Symbol" },
+      { trait_type: "Artifact Type", value: "Lantern" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Ancestral Connection" }
+      { trait_type: "Symbolism", value: "Hope and Enlightenment" }
     ],
-    image: "/images/nfts/episode8/ancestor_emblem.png",
-    external_url: "https://opensea.io/assets/arktifact/ancestor_emblem"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Lantern of Eternal Light"
+    }
   },
   {
-    name: "Golden Landscape of Peace",
-    description: "A breathtaking view of humanity's ultimate achievement: a world where technology, nature, and wisdom exist in perfect harmony, embodying the dream of every generation that came before.",
+    id: "utopian-skyline",
+    name: "Utopian Skyline",
+    title: "Utopian Skyline",
+    description: "An aerial view of the utopian city, where nature and technology coexist seamlessly. This image represents humanity's highest achievements and harmony in Episode 8.",
+    image_prompt: "A breathtaking vista of an advanced civilization where the boundaries between nature, technology, and consciousness have dissolved. Crystal spires merge with living gardens while streams of light and energy flow between structures like conscious rivers, creating a perfect harmony of all elements.",
+    image: "/images/episodes/8/utopian_skyline.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/utopian_skyline",
+    attributes: [
+      { trait_type: "Episode", value: "8" },
+      { trait_type: "Artifact Type", value: "Landscape" },
+      { trait_type: "Rarity", value: "Limited Edition" },
+      { trait_type: "Quantity Available", value: "100" },
+      { trait_type: "Series", value: "Arktifact" },
+      { trait_type: "Symbolism", value: "Achievement and Harmony" }
+    ],
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Utopian Skyline"
+    }
+  },
+  {
+    id: "cosmic-reflection",
+    name: "Cosmic Reflection Scene",
+    title: "Cosmic Reflection Scene",
+    description: "A serene moment with Tarin and Riona under the cosmic expanse, reflecting on humanity's journey. This Arktifact represents unity, peace, and the enduring spirit of exploration in Episode 8.",
+    image_prompt: "A mystical scene where Tarin and Riona's forms blend with the cosmic energies around them as they contemplate the infinite. Multiple galaxies are visible in the background while their consciousness seems to extend beyond physical form, symbolizing humanity's ultimate evolution.",
+    image: "/images/episodes/8/cosmic_reflection.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/cosmic_reflection_scene",
     attributes: [
       { trait_type: "Episode", value: "8" },
       { trait_type: "Artifact Type", value: "Scene" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Perfect Harmony" }
+      { trait_type: "Symbolism", value: "Unity and Exploration" }
     ],
-    image: "/images/nfts/episode8/peace_landscape.png",
-    external_url: "https://opensea.io/assets/arktifact/peace_landscape"
-  },
-  {
-    name: "The Council of Ages",
-    description: "A powerful scene depicting representatives from every era gathered in symbolic unity, honoring the unique contributions each generation made to humanity's grand journey.",
-    attributes: [
-      { trait_type: "Episode", value: "8" },
-      { trait_type: "Artifact Type", value: "Scene" },
-      { trait_type: "Rarity", value: "Limited Edition" },
-      { trait_type: "Quantity Available", value: "100" },
-      { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "United Generations" }
-    ],
-    image: "/images/nfts/episode8/ages_council.png",
-    external_url: "https://opensea.io/assets/arktifact/ages_council"
-  },
-  {
-    name: "The Eternal Flame Scene",
-    description: "The final remembrance ceremony, where descendants gather to honor their ancestors' legacy. This powerful moment captures the culmination of humanity's journey and its promise to carry these values eternally forward.",
-    attributes: [
-      { trait_type: "Episode", value: "8" },
-      { trait_type: "Artifact Type", value: "Scene" },
-      { trait_type: "Rarity", value: "Limited Edition" },
-      { trait_type: "Quantity Available", value: "100" },
-      { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Eternal Legacy" }
-    ],
-    image: "/images/nfts/episode8/eternal_flame.png",
-    external_url: "https://opensea.io/assets/arktifact/eternal_flame"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Cosmic Reflection"
+    }
   }
-]; 
+];
+
+export default episode8NFTs; 

@@ -1,144 +1,226 @@
 import { NFT } from '@/types/nft';
 
-export const episode6NFTs: NFT[] = [
+const episode6NFTs: NFT[] = [
   {
-    name: "Tara, Guardian of Ethics",
-    description: "A commanding portrait of Tara in sleek, futuristic attire, backlit by soft light. Her calm, wise expression embodies her role as humanity's ethical compass in an age of advancing AI technology.",
+    id: "tanis-guardian",
+    name: "Tanis, Guardian of Balance",
+    title: "Tanis, Guardian of Balance",
+    description: "Tanis, the steadfast protector, oversees the equilibrium between nature and technology, symbolizing humanity's commitment to sustainability and harmony in Episode 6 of Arktifact.",
+    image_prompt: "A commanding figure in futuristic eco-conscious attire, Tanis stands at the intersection of nature and technology. Advanced sustainable tech surrounds them while living plants intertwine with the machinery, their expression showing both wisdom and determination.",
+    image: "/images/episodes/6/tanis_guardian.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/tanis_guardian_of_balance",
     attributes: [
       { trait_type: "Episode", value: "6" },
-      { trait_type: "Character Role", value: "Ethics Guardian" },
+      { trait_type: "Character Role", value: "Guardian of Balance" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Ethical Leadership" }
+      { trait_type: "Symbolism", value: "Harmony and Sustainability" }
     ],
-    image: "/images/nfts/episode6/tara_guardian.png",
-    external_url: "https://opensea.io/assets/arktifact/tara_guardian"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Tanis the Guardian"
+    }
   },
   {
-    name: "Rian, Futurist and Engineer",
-    description: "Captured at his console amidst holographic displays, Rian's curious and forward-thinking expression reflects his dedication to advancing technology while maintaining human values.",
+    id: "raka-innovator",
+    name: "Raka, Innovator of Tomorrow",
+    title: "Raka, Innovator of Tomorrow",
+    description: "Raka, a visionary in advanced technology and environmental solutions, represents progress and the future of human innovation in Episode 6.",
+    image_prompt: "A brilliant innovator working with holographic displays and sustainable tech. Raka is surrounded by floating digital interfaces and living plants, their workspace a perfect blend of cutting-edge technology and natural elements.",
+    image: "/images/episodes/6/raka_innovator.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/raka_innovator_of_tomorrow",
     attributes: [
       { trait_type: "Episode", value: "6" },
-      { trait_type: "Character Role", value: "Tech Visionary" },
+      { trait_type: "Character Role", value: "Innovator of Tomorrow" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Innovation and Vision" }
+      { trait_type: "Symbolism", value: "Progress and Innovation" }
     ],
-    image: "/images/nfts/episode6/rian_futurist.png",
-    external_url: "https://opensea.io/assets/arktifact/rian_futurist"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Raka the Innovator"
+    }
   },
   {
-    name: "AI Council Sphere",
-    description: "A luminous, semi-transparent sphere that facilitates dialogue between humans and AI during council meetings. This artifact symbolizes the bridge between artificial and human intelligence.",
+    id: "solar-nexus",
+    name: "Solar Nexus",
+    title: "Solar Nexus",
+    description: "The Solar Nexus is an advanced renewable energy hub that powers the city, symbolizing sustainable energy and environmental care in Episode 6.",
+    image_prompt: "A magnificent structure of crystalline solar panels and advanced energy collection systems. The Nexus glows with captured sunlight, its design both beautiful and functional, with energy streams visibly flowing to the surrounding city.",
+    image: "/images/episodes/6/solar_nexus.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/solar_nexus",
+    attributes: [
+      { trait_type: "Episode", value: "6" },
+      { trait_type: "Artifact Type", value: "Energy Hub" },
+      { trait_type: "Rarity", value: "Limited Edition" },
+      { trait_type: "Quantity Available", value: "100" },
+      { trait_type: "Series", value: "Arktifact" },
+      { trait_type: "Symbolism", value: "Sustainability and Energy" }
+    ],
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Solar Nexus"
+    }
+  },
+  {
+    id: "green-canopy-tower",
+    name: "Green Canopy Tower",
+    title: "Green Canopy Tower",
+    description: "An eco-friendly skyscraper filled with vertical gardens and sustainable architecture. This structure represents a future where nature and urban life are intertwined in Episode 6.",
+    image_prompt: "A breathtaking vertical garden skyscraper with living walls and terraced gardens spiraling upward. Solar panels blend seamlessly with greenery, while transparent eco-materials allow natural light to filter through the structure.",
+    image: "/images/episodes/6/green_canopy_tower.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/green_canopy_tower",
+    attributes: [
+      { trait_type: "Episode", value: "6" },
+      { trait_type: "Artifact Type", value: "Structure" },
+      { trait_type: "Rarity", value: "Limited Edition" },
+      { trait_type: "Quantity Available", value: "100" },
+      { trait_type: "Series", value: "Arktifact" },
+      { trait_type: "Symbolism", value: "Nature and Urban Harmony" }
+    ],
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Green Canopy Tower"
+    }
+  },
+  {
+    id: "digital-harmony-interface",
+    name: "Digital Harmony Interface",
+    title: "Digital Harmony Interface",
+    description: "A sleek digital interface used for seamless interaction between citizens and the smart city. This artifact symbolizes connectivity and unity in Episode 6.",
+    image_prompt: "A holographic interface with flowing organic designs, displaying real-time data about the city's sustainability metrics. The interface responds to touch with ripples of light, blending advanced technology with natural movement patterns.",
+    image: "/images/episodes/6/digital_harmony_interface.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/digital_harmony_interface",
     attributes: [
       { trait_type: "Episode", value: "6" },
       { trait_type: "Artifact Type", value: "Technology" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Human-AI Unity" }
+      { trait_type: "Symbolism", value: "Connectivity and Unity" }
     ],
-    image: "/images/nfts/episode6/council_sphere.png",
-    external_url: "https://opensea.io/assets/arktifact/council_sphere"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Digital Harmony Interface"
+    }
   },
   {
-    name: "Ethics Code Scroll",
-    description: "A digital document bearing the signatures of human and AI leaders, establishing the foundational principles for ethical AI integration in society.",
+    id: "emblem-progress",
+    name: "Emblem of Progress",
+    title: "Emblem of Progress",
+    description: "A symbol worn by future leaders, representing their commitment to a balanced and progressive society. This emblem stands for responsibility and hope in Episode 6.",
+    image_prompt: "A luminescent emblem combining organic and technological elements, with living crystal components that pulse with sustainable energy. The design incorporates both digital displays and growing plants, symbolizing the perfect balance of progress and nature.",
+    image: "/images/episodes/6/emblem_progress.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/emblem_of_progress",
     attributes: [
       { trait_type: "Episode", value: "6" },
-      { trait_type: "Artifact Type", value: "Document" },
+      { trait_type: "Artifact Type", value: "Emblem" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Ethical Guidelines" }
+      { trait_type: "Symbolism", value: "Responsibility and Hope" }
     ],
-    image: "/images/nfts/episode6/ethics_scroll.png",
-    external_url: "https://opensea.io/assets/arktifact/ethics_scroll"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Emblem of Progress"
+    }
   },
   {
-    name: "Holographic Interface",
-    description: "An advanced interactive display used by Tara and Rian for AI development discussions. This sleek technology represents the seamless integration of human creativity and artificial intelligence.",
+    id: "blueprint-harmony",
+    name: "Blueprint of Harmony",
+    title: "Blueprint of Harmony",
+    description: "This blueprint details a design for eco-conscious infrastructure, integrating technology with the environment. It represents innovation and ecological mindfulness in Episode 6.",
+    image_prompt: "A sophisticated holographic blueprint showing the integration of natural systems with advanced technology. The plans feature living architecture designs with flowing lines that represent the seamless merger of organic and technological elements.",
+    image: "/images/episodes/6/blueprint_harmony.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/blueprint_of_harmony",
     attributes: [
       { trait_type: "Episode", value: "6" },
-      { trait_type: "Artifact Type", value: "Technology" },
+      { trait_type: "Artifact Type", value: "Blueprint" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Technological Integration" }
+      { trait_type: "Symbolism", value: "Innovation and Ecology" }
     ],
-    image: "/images/nfts/episode6/holographic_interface.png",
-    external_url: "https://opensea.io/assets/arktifact/holographic_interface"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Blueprint of Harmony"
+    }
   },
   {
-    name: "Emblem of Unity",
-    description: "A distinguished badge worn by AI council members, featuring interlocking circuits and organic patterns that symbolize the harmonious relationship between human and artificial intelligence.",
+    id: "citizens-light",
+    name: "Citizen's Light",
+    title: "Citizen's Light",
+    description: "An energy-efficient light source used by citizens, symbolizing a society powered by sustainable practices. This Arktifact represents the collective commitment to a bright future in Episode 6.",
+    image_prompt: "A beautifully designed personal lighting device that harvests both solar and kinetic energy. The light emits a warm, natural glow through bio-luminescent elements, while its form suggests both technological advancement and organic growth.",
+    image: "/images/episodes/6/citizens_light.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/citizens_light",
     attributes: [
       { trait_type: "Episode", value: "6" },
-      { trait_type: "Artifact Type", value: "Symbol" },
+      { trait_type: "Artifact Type", value: "Lighting" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Collaborative Future" }
+      { trait_type: "Symbolism", value: "Sustainability and Community" }
     ],
-    image: "/images/nfts/episode6/unity_emblem.png",
-    external_url: "https://opensea.io/assets/arktifact/unity_emblem"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Citizen's Light"
+    }
   },
   {
-    name: "Guardian's Amulet",
-    description: "A small but significant amulet worn by Tara, representing her sacred duty to protect human values in an age of advancing artificial intelligence.",
+    id: "horizon-tomorrow",
+    name: "Horizon of Tomorrow",
+    title: "Horizon of Tomorrow",
+    description: "An aerial view of the futuristic city, with eco-friendly buildings and vast green spaces. This landscape captures humanity's vision of sustainable urban living in Episode 6.",
+    image_prompt: "A breathtaking panoramic view of a future city where nature and technology coexist perfectly. Vertical gardens climb sustainable skyscrapers, while solar collection surfaces shimmer like lakes among the greenery. Flying vehicles move silently between the structures.",
+    image: "/images/episodes/6/horizon_tomorrow.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/horizon_of_tomorrow",
     attributes: [
       { trait_type: "Episode", value: "6" },
-      { trait_type: "Artifact Type", value: "Symbol" },
+      { trait_type: "Artifact Type", value: "Landscape" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Ethical Protection" }
+      { trait_type: "Symbolism", value: "Future and Sustainability" }
     ],
-    image: "/images/nfts/episode6/guardian_amulet.png",
-    external_url: "https://opensea.io/assets/arktifact/guardian_amulet"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Horizon of Tomorrow"
+    }
   },
   {
-    name: "Landscape of Tomorrow",
-    description: "A breathtaking view of a futuristic city where nature and technology exist in perfect harmony, showcasing sustainable architecture and AI-integrated transportation systems.",
+    id: "night-reflection-future",
+    name: "Night of Reflection Scene",
+    title: "Night of Reflection Scene",
+    description: "A serene moment with Tanis and Raka under a starlit sky, discussing the balance between progress and preservation. This Arktifact symbolizes unity, wisdom, and hope for a better future in Episode 6.",
+    image_prompt: "A peaceful nighttime scene where Tanis and Raka share thoughts beneath a star-filled sky, surrounded by bioluminescent plants and subtle holographic displays. The city's sustainable lights create a gentle aurora in the background.",
+    image: "/images/episodes/6/night_reflection_future.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/night_of_reflection_scene",
     attributes: [
       { trait_type: "Episode", value: "6" },
       { trait_type: "Artifact Type", value: "Scene" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Balanced Progress" }
+      { trait_type: "Symbolism", value: "Unity and Reflection" }
     ],
-    image: "/images/nfts/episode6/tomorrow_landscape.png",
-    external_url: "https://opensea.io/assets/arktifact/tomorrow_landscape"
-  },
-  {
-    name: "Council of Minds",
-    description: "A powerful scene capturing a pivotal council meeting where human and AI representatives discuss the future of their shared society, embodying the spirit of collaborative progress.",
-    attributes: [
-      { trait_type: "Episode", value: "6" },
-      { trait_type: "Artifact Type", value: "Scene" },
-      { trait_type: "Rarity", value: "Limited Edition" },
-      { trait_type: "Quantity Available", value: "100" },
-      { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Shared Governance" }
-    ],
-    image: "/images/nfts/episode6/minds_council.png",
-    external_url: "https://opensea.io/assets/arktifact/minds_council"
-  },
-  {
-    name: "The AI Companion",
-    description: "A sophisticated yet approachable AI assistant model that represents the everyday integration of artificial intelligence in human life, emphasizing companionship and mutual understanding.",
-    attributes: [
-      { trait_type: "Episode", value: "6" },
-      { trait_type: "Artifact Type", value: "Technology" },
-      { trait_type: "Rarity", value: "Limited Edition" },
-      { trait_type: "Quantity Available", value: "100" },
-      { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "AI Integration" }
-    ],
-    image: "/images/nfts/episode6/ai_companion.png",
-    external_url: "https://opensea.io/assets/arktifact/ai_companion"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Night of Reflection"
+    }
   }
-]; 
+];
+
+export default episode6NFTs; 
