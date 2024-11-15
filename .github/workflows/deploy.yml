@@ -35,6 +35,9 @@ jobs:
           npm run build
           touch out/.nojekyll
           cp CNAME out/
+          cp public/robots.txt out/
+          cp public/sitemap.xml out/
+          cp public/manifest.json out/
         env:
           NEXT_TELEMETRY_DISABLED: 1
           

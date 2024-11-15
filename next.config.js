@@ -3,10 +3,10 @@ const nextConfig = {
   output: 'export',
   images: {
     unoptimized: true,
-    domains: ['iamspring.github.io']
+    domains: ['arktifact.com']
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/arktifact' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/arktifact/' : '',
+  basePath: '',
+  assetPrefix: '',
   trailingSlash: true,
 }
 
