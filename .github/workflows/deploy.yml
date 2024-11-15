@@ -12,10 +12,13 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     environment: production
-
+    env:
+      NEXT_PUBLIC_SITE_URL: ${{ vars.NEXT_PUBLIC_SITE_URL }}
+      NODE_ENV: ${{ vars.NODE_ENV }}
+    
     steps:
       - uses: actions/checkout@v3
         with:
@@ -26,19 +29,22 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18.x'
-          cache: 'npm'
           
-      - name: Install dependencies
-        run: npm install
+      - name: Install Dependencies
+        run: |
+          npm install
+          npm ci || npm install  # Fallback to npm install if ci fails
           
       - name: Build
         run: |
           npm run build
           touch out/.nojekyll
           cp CNAME out/
+          echo "arktifact.com" > out/CNAME
         env:
           NEXT_TELEMETRY_DISABLED: 1
-          NODE_ENV: production
+          NEXT_PUBLIC_SITE_URL: ${{ vars.NEXT_PUBLIC_SITE_URL }}
+          NODE_ENV: ${{ vars.NODE_ENV }}
           
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
@@ -48,6 +54,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           clean: true
           force: true
-          commit-message: "Deploy: ${{ github.sha }}"
+          target-folder: production
+          commit-message: "Deploy to production: ${{ github.sha }}"
           git-config-name: IAmSpring
           git-config-email: IAmSpring@users.noreply.github.com
+
+      - name: Update deployment status
+        if: success()
+        run: |
+          echo "::set-output name=deployment_status::success"
+          echo "::set-output name=environment_url::https://arktifact.com"
