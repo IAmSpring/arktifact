@@ -1,4 +1,4 @@
-name: Deploy Arktifact Chronicles
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -6,7 +6,6 @@ on:
   pull_request:
     branches: [ main ]
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write
   pages: write
@@ -18,6 +17,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
         
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -32,6 +34,7 @@ jobs:
         run: |
           npm run build
           touch out/.nojekyll
+          cp CNAME out/
         env:
           NEXT_TELEMETRY_DISABLED: 1
           
@@ -42,3 +45,7 @@ jobs:
           branch: gh-pages
           token: ${{ secrets.GITHUB_TOKEN }}
           clean: true
+          force: true
+          commit-message: "Deploy: ${{ github.sha }}"
+          git-config-name: IAmSpring
+          git-config-email: IAmSpring@users.noreply.github.com
