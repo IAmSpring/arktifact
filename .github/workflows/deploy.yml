@@ -19,9 +19,10 @@ jobs:
           node-version: '18.x'
           cache: 'npm'
           
-      - name: Clean install dependencies
+      - name: Install dependencies
         run: |
-          npm clean-install
+          rm -f package-lock.json || true
+          npm install
           
       - name: Build
         run: |
