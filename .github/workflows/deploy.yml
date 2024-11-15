@@ -35,9 +35,9 @@ jobs:
           npm run build
           touch out/.nojekyll
           cp CNAME out/
-          cp public/robots.txt out/
-          cp public/sitemap.xml out/
-          cp public/manifest.json out/
+          # Add security headers
+          echo '/*' > out/_headers
+          echo '  Strict-Transport-Security: max-age=31536000; includeSubDomains' >> out/_headers
         env:
           NEXT_TELEMETRY_DISABLED: 1
           
