@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arktifact.com/sitemap.xml 

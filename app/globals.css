@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+  --background-start-rgb: 17, 24, 39;
+  --background-end-rgb: 0, 0, 0;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-start-rgb));
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-8 py-4 rounded-full text-lg font-bold transition-all transform hover:scale-105 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 shadow-lg;
+  }
+
+  .btn-secondary {
+    @apply px-8 py-4 rounded-full text-lg font-bold transition-all transform hover:scale-105 border border-purple-500 hover:border-purple-400 hover:text-purple-400;
+  }
+}
+
+.hero-gradient {
+  @apply absolute inset-0 bg-gradient-to-b from-transparent via-gray-900/50 to-gray-900;
+}
