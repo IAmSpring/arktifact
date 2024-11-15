@@ -25,6 +25,7 @@ const NFTGrid = ({ nfts }: NFTGridProps) => {
             <div className="relative">
               <Image
                 {...imageDetails}
+                alt={nft.title || nft.name || 'NFT Image'}
                 className="w-full h-64 object-cover"
                 priority={false}
               />

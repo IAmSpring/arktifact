@@ -121,9 +121,11 @@ const BlogPage = () => {
                 <div className="p-8">
                   <div className="flex items-center gap-4 mb-6">
                     {featuredPost.authorAvatar && (
-                      <img 
+                      <Image 
                         src={featuredPost.authorAvatar} 
                         alt={featuredPost.author}
+                        width={48}
+                        height={48}
                         className="w-12 h-12 rounded-full"
                       />
                     )}
