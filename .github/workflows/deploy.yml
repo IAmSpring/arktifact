@@ -1,4 +1,4 @@
-name: Deploy Arktifact Chronicles
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -6,7 +6,6 @@ on:
   pull_request:
     branches: [ main ]
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write
   pages: write
@@ -32,6 +31,7 @@ jobs:
         run: |
           npm run build
           touch out/.nojekyll
+          cp CNAME out/
         env:
           NEXT_TELEMETRY_DISABLED: 1
           
