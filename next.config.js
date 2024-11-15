@@ -6,7 +6,7 @@ const nextConfig = {
     domains: ['arktifact.com', 'www.arktifact.com']
   },
   basePath: '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? 'https://arktifact.com' : '',
+  assetPrefix: '',
   trailingSlash: true,
   async headers() {
     return [
@@ -28,6 +28,10 @@ const nextConfig = {
           {
             key: 'Referrer-Policy',
             value: 'strict-origin-when-cross-origin'
+          },
+          {
+            key: 'Content-Security-Policy',
+            value: "default-src 'self'; img-src 'self' data: https:; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline';"
           }
         ],
       },
