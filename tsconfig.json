@@ -17,9 +17,10 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./*"],
-      "@types/*": ["./types/*"],
-      "@data/*": ["./data/*"],
-      "@scripts/*": ["./scripts/*"]
+      "@/data/*": ["./data/*"],
+      "@/types/*": ["./types/*"],
+      "@/components/*": ["./components/*"],
+      "@/utils/*": ["./utils/*"]
     },
     "plugins": [
       {
@@ -32,9 +33,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "data/**/*.ts",
-    "types/**/*.ts",
-    "scripts/**/*.ts"
+    "data/**/*.ts"
   ],
   "exclude": ["node_modules"]
 }
