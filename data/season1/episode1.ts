@@ -1,65 +1,99 @@
 import { NFT } from '@/types/nft';
 
-export const episode1NFTs: NFT[] = [
+const episode1NFTs: NFT[] = [
   {
+    id: "tanek-protector",
     name: "Tanek, the Protector",
-    description: "A powerful portrait of Tanek in traditional tribal attire, his spear held with quiet strength and determination. His eyes reflect the fierce dedication of a guardian, while his stance embodies the protective spirit that would shape generations to come.",
+    title: "Tanek, the Protector",
+    description: "Tanek, the fierce protector, stands as a symbol of loyalty and strength, defending his tribe with honor. This limited Arktifact commemorates his courage in Episode 1 of Arktifact.",
+    image_prompt: "A powerful portrait of Tanek in traditional tribal attire, his spear held with quiet strength and determination. His eyes reflect the fierce dedication of a guardian, while his stance embodies the protective spirit that would shape generations to come.",
+    image: "/images/episodes/1/tanek_protector.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/tanek_the_protector",
     attributes: [
       { trait_type: "Episode", value: "1" },
       { trait_type: "Character Role", value: "Protector" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Strength and Protection" }
+      { trait_type: "Symbolism", value: "Loyalty and Strength" }
     ],
-    image: "/images/nfts/episode1/tanek_protector.png",
-    external_url: "https://opensea.io/assets/arktifact/tanek_protector"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Tanek the Protector"
+    }
   },
   {
+    id: "raskara-thinker",
     name: "Raskara, the Thinker",
-    description: "Captured in a moment of contemplation by firelight, Raskara's thoughtful expression reveals the mind of humanity's first visionary. His early carvings in the earth beside him hint at the symbols that would become the foundation of honor.",
+    title: "Raskara, the Thinker",
+    description: "Raskara, a visionary in the tribe, is the first to carve symbols of honor, seeking unity and wisdom. This Arktifact celebrates his early role in defining the tribe's legacy.",
+    image_prompt: "Captured in a moment of contemplation by firelight, Raskara's thoughtful expression reveals the mind of humanity's first visionary. His early carvings in the earth beside him hint at the symbols that would become the foundation of honor.",
+    image: "/images/episodes/1/raskara_thinker.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/raskara_the_thinker",
     attributes: [
       { trait_type: "Episode", value: "1" },
-      { trait_type: "Character Role", value: "Visionary" },
+      { trait_type: "Character Role", value: "Thinker" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Wisdom and Innovation" }
+      { trait_type: "Symbolism", value: "Unity and Wisdom" }
     ],
-    image: "/images/nfts/episode1/raskara_thinker.png",
-    external_url: "https://opensea.io/assets/arktifact/raskara_thinker"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Raskara the Thinker"
+    }
   },
   {
-    name: "The First Honor Symbol",
-    description: "The original symbol of honor, hand-carved into eternal stone by Raskara. This primitive yet powerful marking became the seed from which all future symbols of unity would grow, its simple lines carrying profound meaning.",
+    id: "honor-symbol",
+    name: "The Honor Symbol",
+    title: "The Honor Symbol",
+    description: "The first symbol of honor, hand-carved by Raskara, embodies the values of unity and strength. This Arktifact marks the origins of a sacred legacy.",
+    image: "/images/episodes/1/honor_symbol.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/honor_symbol",
     attributes: [
       { trait_type: "Episode", value: "1" },
       { trait_type: "Artifact Type", value: "Symbol" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Unity and Legacy" }
+      { trait_type: "Symbolism", value: "Unity and Strength" }
     ],
-    image: "/images/nfts/episode1/honor_symbol.png",
-    external_url: "https://opensea.io/assets/arktifact/honor_symbol"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "The Honor Symbol"
+    }
   },
   {
-    name: "The Protector's Spear",
-    description: "Tanek's legendary spear, crafted with primitive tools yet deadly effective. Its stone tip and rawhide bindings tell the story of early human ingenuity, while its worn handle speaks of countless hunts in defense of the tribe.",
+    id: "first-spear",
+    name: "The First Spear",
+    title: "The First Spear",
+    description: "A handcrafted spear representing Tanek's dedication to his people. This Arktifact embodies protection and the strength of community in Episode 1.",
+    image: "/images/episodes/1/first_spear.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/the_first_spear",
     attributes: [
       { trait_type: "Episode", value: "1" },
       { trait_type: "Artifact Type", value: "Weapon" },
       { trait_type: "Rarity", value: "Limited Edition" },
       { trait_type: "Quantity Available", value: "100" },
       { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Protection and Provision" }
+      { trait_type: "Symbolism", value: "Protection and Strength" }
     ],
-    image: "/images/nfts/episode1/protector_spear.png",
-    external_url: "https://opensea.io/assets/arktifact/protector_spear"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "The First Spear"
+    }
   },
   {
+    id: "ancient-drum",
     name: "Ancient Drum of Gathering",
-    description: "The sacred drum that called the tribe together, its rhythms echoing through time. Adorned with earth-tone markings, each beat of this drum represented the heartbeat of the community.",
+    title: "Ancient Drum of Gathering",
+    description: "Used to call the tribe together, this drum symbolizes community and shared purpose. It marks a sacred bond that defines Episode 1's legacy.",
+    image: "/images/episodes/1/ancient_drum.jpg",
+    openSeaUrl: "https://opensea.io/assets/arkifact/ancient_drum",
     attributes: [
       { trait_type: "Episode", value: "1" },
       { trait_type: "Artifact Type", value: "Ceremonial Item" },
@@ -68,77 +102,12 @@ export const episode1NFTs: NFT[] = [
       { trait_type: "Series", value: "Arktifact" },
       { trait_type: "Symbolism", value: "Community and Unity" }
     ],
-    image: "/images/nfts/episode1/ancient_drum.png",
-    external_url: "https://opensea.io/assets/arktifact/ancient_drum"
-  },
-  {
-    name: "Elder's Carving Stone",
-    description: "A sacred tablet bearing the earliest records of tribal knowledge, its surface etched with hunting tactics and ancestral stories. This stone represents humanity's first attempts to preserve wisdom for future generations.",
-    attributes: [
-      { trait_type: "Episode", value: "1" },
-      { trait_type: "Artifact Type", value: "Knowledge Record" },
-      { trait_type: "Rarity", value: "Limited Edition" },
-      { trait_type: "Quantity Available", value: "100" },
-      { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Wisdom and Heritage" }
-    ],
-    image: "/images/nfts/episode1/elder_stone.png",
-    external_url: "https://opensea.io/assets/arktifact/elder_stone"
-  },
-  {
-    name: "Tribal Fire Pit",
-    description: "The central hearth where the tribe gathered, its flames casting warm light on faces young and old. This eternal fire symbolized the warmth of community and the light of shared purpose.",
-    attributes: [
-      { trait_type: "Episode", value: "1" },
-      { trait_type: "Artifact Type", value: "Location" },
-      { trait_type: "Rarity", value: "Limited Edition" },
-      { trait_type: "Quantity Available", value: "100" },
-      { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Community and Warmth" }
-    ],
-    image: "/images/nfts/episode1/fire_pit.png",
-    external_url: "https://opensea.io/assets/arktifact/fire_pit"
-  },
-  {
-    name: "Primitive Animal Totem",
-    description: "A masterfully carved wooden totem depicting a powerful wolf, embodying the protective spirit of the tribe. This sacred object represents the deep connection between the tribe and the natural world.",
-    attributes: [
-      { trait_type: "Episode", value: "1" },
-      { trait_type: "Artifact Type", value: "Totem" },
-      { trait_type: "Rarity", value: "Limited Edition" },
-      { trait_type: "Quantity Available", value: "100" },
-      { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Spirit and Nature" }
-    ],
-    image: "/images/nfts/episode1/animal_totem.png",
-    external_url: "https://opensea.io/assets/arktifact/animal_totem"
-  },
-  {
-    name: "Landscape of Origins",
-    description: "A breathtaking view of humanity's first settlement, showing the harmony between the tribe's dwellings and the untamed wilderness. This scene captures the raw beauty of Earth's pristine environment.",
-    attributes: [
-      { trait_type: "Episode", value: "1" },
-      { trait_type: "Artifact Type", value: "Landscape" },
-      { trait_type: "Rarity", value: "Limited Edition" },
-      { trait_type: "Quantity Available", value: "100" },
-      { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Origins and Nature" }
-    ],
-    image: "/images/nfts/episode1/origins_landscape.png",
-    external_url: "https://opensea.io/assets/arktifact/origins_landscape"
-  },
-  {
-    name: "The First Hunt",
-    description: "A dynamic scene capturing Tanek's legendary first hunt, his spear poised as he leads the tribe in pursuit of prey. This moment represents the perfect balance between strength and wisdom in early human society.",
-    attributes: [
-      { trait_type: "Episode", value: "1" },
-      { trait_type: "Artifact Type", value: "Scene" },
-      { trait_type: "Rarity", value: "Limited Edition" },
-      { trait_type: "Quantity Available", value: "100" },
-      { trait_type: "Series", value: "Arktifact" },
-      { trait_type: "Symbolism", value: "Leadership and Survival" }
-    ],
-    image: "/images/nfts/episode1/first_hunt.png",
-    external_url: "https://opensea.io/assets/arktifact/first_hunt"
+    fallback: {
+      width: 400,
+      height: 400,
+      text: "Ancient Drum"
+    }
   }
 ]; 
+
+export default episode1NFTs; 

@@ -6,15 +6,22 @@ const updateEpisodeFile = (episodeNumber: number) => {
 
 const episode${episodeNumber}NFTs: NFT[] = [
   {
-    id: "1",
-    name: "Arktifact Chronicles Episode ${episodeNumber} #1",
-    image: "/images/episodes/${episodeNumber}/1.jpg",
-    description: "Episode ${episodeNumber} NFT #1",
-    attributes: {
-      episode: ${episodeNumber},
-      rarity: "common"
+    id: \`ep${episodeNumber}-nft1\`,
+    name: \`Arktifact Chronicles Episode ${episodeNumber} #1\`,
+    title: \`Episode ${episodeNumber} Artifact\`,
+    image: \`/images/episodes/${episodeNumber}/1.jpg\`,
+    description: \`Episode ${episodeNumber} NFT #1\`,
+    openSeaUrl: \`https://opensea.io/assets/arktifact/ep${episodeNumber}-1\`,
+    attributes: [
+      { trait_type: "Episode", value: "${episodeNumber}" },
+      { trait_type: "Rarity", value: "Common" }
+    ],
+    fallback: {
+      width: 400,
+      height: 400,
+      text: \`Episode ${episodeNumber} #1\`
     }
-  },
+  }
   // Additional NFTs can be added here following the same structure
 ];
 
