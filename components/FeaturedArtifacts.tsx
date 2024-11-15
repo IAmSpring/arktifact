@@ -5,27 +5,34 @@ import { NFT } from '@/types/nft';
 import NFTCard from './NFTCard';
 import { fadeInUp, staggerContainer } from '@/utils/animations';
 import { placeholderImages } from '@/utils/placeholders';
+import Image from 'next/image';
 
 const FeaturedArtifacts = () => {
   const featuredNFTs: NFT[] = [
     {
       id: "honor-symbol",
+      name: "The Honor Symbol",
       title: "The Honor Symbol",
       description: "An ancient mark of unity among early tribes, symbolizing the first bonds of honor.",
+      image: placeholderImages.nfts.honorSymbol.src,
       imageUrl: placeholderImages.nfts.honorSymbol.src,
       openSeaUrl: "https://opensea.io/assets/arktifact/honor-symbol"
     },
     {
       id: "tanek-portrait",
+      name: "Tanek's Portrait",
       title: "Tanek's Portrait",
       description: "The legendary warrior who first united the tribes through strength and wisdom.",
+      image: placeholderImages.nfts.tanekPortrait.src,
       imageUrl: placeholderImages.nfts.tanekPortrait.src,
       openSeaUrl: "https://opensea.io/assets/arktifact/tanek-portrait"
     },
     {
       id: "ancient-drum",
+      name: "The Ancient Drum",
       title: "The Ancient Drum",
       description: "Used in sacred ceremonies to unite tribes and mark important gatherings.",
+      image: placeholderImages.nfts.ancientDrum.src,
       imageUrl: placeholderImages.nfts.ancientDrum.src,
       openSeaUrl: "https://opensea.io/assets/arktifact/ancient-drum"
     }
