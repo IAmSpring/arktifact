@@ -1,24 +1,46 @@
-// This is just for reference - you can manually update each file
-const episodeTemplate = (episodeNumber: number): string => `
-import { NFT } from '../../types/nft';
+import * as fs from 'fs';
+import * as path from 'path';
+
+const updateEpisodeFile = (episodeNumber: number) => {
+  const template = `import { NFT } from '../../types/nft';
 
 const episode${episodeNumber}NFTs: NFT[] = [
   {
     id: "1",
-    name: "NFT Name",
-    image: "/path/to/image.jpg",
-    description: "NFT Description",
+    name: "Arktifact Chronicles Episode ${episodeNumber} #1",
+    image: "/images/episodes/${episodeNumber}/1.jpg",
+    description: "Episode ${episodeNumber} NFT #1",
     attributes: {
-      // your attributes here
+      episode: ${episodeNumber},
+      rarity: "common"
     }
-  }
-  // ... add other NFTs
+  },
+  // Additional NFTs can be added here following the same structure
 ];
 
-export default episode${episodeNumber}NFTs;
-`;
+export default episode${episodeNumber}NFTs;`;
 
-// Episodes 5-8 need to be updated
+  const filePath = path.join(process.cwd(), 'data', 'season1', `episode${episodeNumber}.ts`);
+  
+  try {
+    // Create directories if they don't exist
+    const dir = path.dirname(filePath);
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+    }
+
+    // Write the file
+    fs.writeFileSync(filePath, template, 'utf8');
+    console.log(`✅ Successfully updated episode${episodeNumber}.ts`);
+  } catch (error) {
+    console.error(`❌ Error updating episode${episodeNumber}.ts:`, error);
+  }
+};
+
+// Update episodes 5-8
+console.log('🚀 Starting episode files update...');
 [5, 6, 7, 8].forEach(episodeNum => {
-  // Update each episode file with the correct type structure
-}); 
+  updateEpisodeFile(episodeNum);
+});
+console.log('✨ Episode files update complete!');
+

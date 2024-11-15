@@ -18,7 +18,8 @@
     "paths": {
       "@/*": ["./*"],
       "@types/*": ["./types/*"],
-      "@data/*": ["./data/*"]
+      "@data/*": ["./data/*"],
+      "@scripts/*": ["./scripts/*"]
     },
     "plugins": [
       {
@@ -32,7 +33,8 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "data/**/*.ts",
-    "types/**/*.ts"
+    "types/**/*.ts",
+    "scripts/**/*.ts"
   ],
   "exclude": ["node_modules"]
 }
