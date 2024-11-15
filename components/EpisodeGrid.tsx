@@ -1,11 +1,50 @@
-import { episodeData } from '@/data/episodes';
-import { placeholderImages } from '@/utils/placeholders';
+import { Episode, PlaceholderImages } from './types';
+
+// Define the placeholder images with proper types
+const placeholderImages: PlaceholderImages = {
+  episodes: {
+    ep1: {
+      src: '/images/ep1-placeholder.jpg',
+      fallback: {
+        width: '400',
+        height: '300',
+        text: 'Episode 1'
+      }
+    },
+    ep2: {
+      src: '/images/ep2-placeholder.jpg',
+      fallback: {
+        width: '400',
+        height: '300',
+        text: 'Episode 2'
+      }
+    }
+    // Add other episodes as needed
+  }
+};
+
+// Define your episode data
+const episodeData: Episode[] = [
+  {
+    number: 1,
+    title: "First Age",
+    subtitle: "The Beginning",
+    openSeaLink: "https://opensea.io/collection/episode-1"
+  },
+  {
+    number: 2,
+    title: "Second Age",
+    subtitle: "The Rise",
+    openSeaLink: "https://opensea.io/collection/episode-2"
+  }
+  // Add other episodes as needed
+];
 
 const EpisodeGrid = () => {
-  // Update episode data to use placeholders
-  const episodes = episodeData.map(episode => ({
+  // Update episode data to use placeholders with proper typing
+  const episodes: Episode[] = episodeData.map((episode: Episode) => ({
     ...episode,
-    thumbnail: placeholderImages.episodes[`ep${episode.number}`]
+    thumbnail: placeholderImages.episodes[`ep${episode.number}`].src
   }));
 
   return (
@@ -17,7 +56,7 @@ const EpisodeGrid = () => {
           </span>
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-          {episodes.map((episode) => (
+          {episodes.map((episode: Episode) => (
             <div 
               key={episode.number}
               className="relative group overflow-hidden rounded-lg transform transition-all hover:scale-105"
