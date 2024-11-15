@@ -12,6 +12,7 @@ export interface NFT {
   image: string;
   imageUrl?: string;
   openSeaUrl?: string;
+  external_url?: string;
   attributes?: NFTAttribute[];
   fallback?: {
     width: number;

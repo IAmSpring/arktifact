@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import { fadeInUp, staggerContainer } from '@/utils/animations';
 import Link from 'next/link';
 import { useState } from 'react';
+import Image from 'next/image';
 
 interface NFT {
   id: string;
@@ -115,10 +116,12 @@ const NFTMarketplace = () => {
                   ${nft.featured ? 'ring-2 ring-purple-500 ring-offset-2 ring-offset-gray-900' : ''}`}
               >
                 <div className="relative">
-                  <img 
+                  <Image 
                     src={nft.imageUrl} 
                     alt={nft.title}
-                    className="w-full h-64 object-cover"
+                    width={400}
+                    height={400}
+                    className="w-full h-64 object-cover rounded-t-lg"
                   />
                   <div className="absolute top-4 right-4 flex gap-2">
                     {nft.featured && (

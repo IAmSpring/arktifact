@@ -1,4 +1,5 @@
 import { Episode, PlaceholderImages } from './types';
+import Image from 'next/image';
 
 // Define the placeholder images with proper types
 const placeholderImages: PlaceholderImages = {
@@ -61,9 +62,11 @@ const EpisodeGrid = () => {
               key={episode.number}
               className="relative group overflow-hidden rounded-lg transform transition-all hover:scale-105"
             >
-              <img 
-                src={episode.thumbnail} 
+              <Image 
+                src={episode.thumbnail || '/images/placeholder.jpg'} 
                 alt={episode.title}
+                width={400}
+                height={300}
                 className="w-full h-64 object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-gray-900 to-transparent p-6 flex flex-col justify-end">

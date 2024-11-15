@@ -22,6 +22,7 @@ const NFTCard = ({ nft }: NFTCardProps) => {
           onError={() => setImageError(true)}
           placeholder="blur"
           priority={false}
+          alt={nft.title || nft.name || 'NFT Image'}
         />
         {imageError && (
           <div className="absolute inset-0 flex items-center justify-center bg-gray-700 text-gray-400">
@@ -34,9 +35,9 @@ const NFTCard = ({ nft }: NFTCardProps) => {
         {nft.description && (
           <p className="text-gray-400 mb-4">{nft.description}</p>
         )}
-        {nft.openSeaUrl && (
+        {(nft.openSeaUrl || nft.external_url) && (
           <a 
-            href={nft.openSeaUrl}
+            href={nft.openSeaUrl || nft.external_url}
             className="inline-block bg-purple-600 text-white px-6 py-2 rounded-full hover:bg-purple-500 transition-colors"
             target="_blank"
             rel="noopener noreferrer"

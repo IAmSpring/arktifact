@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import { fadeInUp, staggerContainer } from '@/utils/animations';
 import Link from 'next/link';
 import { useState } from 'react';
+import Image from 'next/image';
 
 interface BlogPost {
   id: string;
@@ -103,10 +104,12 @@ const BlogPage = () => {
                 className="block bg-gray-800 rounded-lg overflow-hidden transition-all duration-300 hover:transform hover:scale-[1.02] ring-2 ring-purple-500 ring-offset-2 ring-offset-gray-900"
               >
                 <div className="relative h-96">
-                  <img 
-                    src={featuredPost.featuredImage || featuredPost.imageUrl}
+                  <Image 
+                    src={featuredPost.featuredImage || featuredPost.imageUrl} 
                     alt={featuredPost.title}
-                    className="w-full h-full object-cover"
+                    width={800}
+                    height={400}
+                    className="w-full h-full object-cover rounded-lg"
                   />
                   <div className="absolute top-4 right-4">
                     <span className="px-4 py-2 rounded-full text-sm font-bold bg-gradient-to-r from-purple-600 to-pink-600">
@@ -170,10 +173,12 @@ const BlogPage = () => {
                 className="bg-gray-800 rounded-lg overflow-hidden transition-all duration-300 hover:transform hover:scale-105"
               >
                 <div className="relative h-48">
-                  <img 
-                    src={post.imageUrl}
+                  <Image 
+                    src={post.imageUrl} 
                     alt={post.title}
-                    className="w-full h-full object-cover"
+                    width={800}
+                    height={400}
+                    className="w-full h-full object-cover rounded-lg"
                   />
                   <div className="absolute top-4 right-4">
                     <span className="px-3 py-1 rounded-full text-sm font-bold bg-purple-500/80">

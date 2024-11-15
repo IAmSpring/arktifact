@@ -5,6 +5,7 @@ import { fadeInUp, staggerContainer } from '@/utils/animations';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { useState, useEffect } from 'react';
+import Image from 'next/image';
 
 // This would normally come from your API or database
 const dummyNFT = {
@@ -91,10 +92,12 @@ export default function NFTPage() {
                 {isLoading ? (
                   <Skeleton className="w-full h-[500px] rounded-lg" />
                 ) : (
-                  <img 
-                    src={dummyNFT.imageUrl}
+                  <Image 
+                    src={dummyNFT.imageUrl} 
                     alt={dummyNFT.title}
-                    className="w-full rounded-lg shadow-2xl"
+                    width={800}
+                    height={800}
+                    className="w-full rounded-lg shadow-lg"
                   />
                 )}
                 <div className="absolute top-4 right-4 flex gap-2">
