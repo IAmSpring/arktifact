@@ -1,6 +1,6 @@
 import { NFT } from '@/types/nft';
 
-export const allNFTs = [
+export const allNFTs: NFT[] = [
   {
     id: "1",
     name: "Raska's Vision",
@@ -29,7 +29,20 @@ export const allNFTs = [
       { trait_type: "Type", value: "Artifact" }
     ]
   },
-  // Add more NFTs as needed
+  {
+    id: "3",
+    name: "Unity Totem",
+    title: "The Unity Totem",
+    description: "A sacred artifact symbolizing the unity of all tribes.",
+    image: "/images/nfts/unity-totem.jpg",
+    image_prompt: "An ancient totem pole with glowing symbols of unity and harmony.",
+    creator: "Arktifact Studios",
+    attributes: [
+      { trait_type: "Episode", value: "1" },
+      { trait_type: "Character", value: "All Tribes" },
+      { trait_type: "Type", value: "Artifact" }
+    ]
+  }
 ];
 
 export default allNFTs; 

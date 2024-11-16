@@ -1,3 +1,5 @@
+import { allNFTs } from '@/data/season1';
+
 export const placeholderImages = {
   episodes: {
     ep1: {
@@ -98,7 +100,7 @@ export function getPlaceholderImage(id: string) {
 }
 
 // Update the allNFTs data to use placeholders if images don't exist
-allNFTs.forEach(nft => {
+allNFTs.forEach((nft: { image: string; id: string }) => {
   if (!nft.image.startsWith('http')) {
     nft.image = getPlaceholderImage(nft.id);
   }

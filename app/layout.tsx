@@ -1,7 +1,6 @@
 import './globals.css'
 import { Analytics } from '@vercel/analytics/react'
 import { WalletProvider } from '@/contexts/WalletContext';
-import WalletButton from '@/components/WalletButton';
 
 export default function RootLayout({
   children,
@@ -22,14 +21,12 @@ export default function RootLayout({
                 <a href="/" className="text-2xl font-cinzel font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
                   Arktifact Chronicles
                 </a>
-                <div className="hidden md:flex space-x-8">
-                  <a href="#story" className="hover:text-purple-400 transition-colors">The Story</a>
-                  <a href="#artifacts" className="hover:text-purple-400 transition-colors">Artifacts</a>
-                  <a href="#lore" className="hover:text-purple-400 transition-colors">Lore</a>
-                  <a href="#join" className="hover:text-purple-400 transition-colors">Join</a>
-                </div>
-                <div className="absolute top-4 right-6">
-                  <WalletButton />
+                <div className="hidden md:flex space-x-6">
+                  <a href="/story" className="hover:text-purple-400 transition-colors">Story</a>
+                  <a href="/nft-marketplace" className="hover:text-purple-400 transition-colors">Marketplace</a>
+                  <a href="/lore" className="hover:text-purple-400 transition-colors">Lore</a>
+                  <a href="/blog" className="hover:text-purple-400 transition-colors">Blog</a>
+                  <a href="/wallet" className="hover:text-purple-400 transition-colors">Collection</a>
                 </div>
               </div>
             </div>
