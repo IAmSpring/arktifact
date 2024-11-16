@@ -79,7 +79,7 @@ export default async function BehindTheScenes({ params }: { params: { episode: s
       episode={params.episode}
       title={episode.title}
       description={episode.description}
-      files={files}
+      files={files as EpisodeFile[]}
     />
   );
 } 

@@ -102,4 +102,7 @@ export const getFeaturedPosts = () =>
 export const getRegularPosts = () =>
   blogPosts.filter(post => !post.featured);
 
+export const getDefaultFeaturedPost = () =>
+  blogPosts.find(post => post.featured) || blogPosts[0];
+
 export default blogPosts; 
