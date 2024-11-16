@@ -8,16 +8,15 @@ const nextConfig = {
   basePath: process.env.NODE_ENV === 'production' ? '/arktifact' : '',
   assetPrefix: process.env.NODE_ENV === 'production' ? '/arktifact/' : '',
   trailingSlash: true,
-  webpack: (config, { isServer }) => {
+  webpack: (config) => {
     config.resolve.alias = {
       ...config.resolve.alias,
       '@': '.',
+      '@utils': './utils',
+      '@components': './components',
+      '@data': './data'
     };
     return config;
-  },
-  // Disable experimental features
-  experimental: {
-    // Remove trace option
   }
 }
 
