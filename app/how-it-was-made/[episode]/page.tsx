@@ -1,5 +1,5 @@
-import { getEpisodeFiles } from '@/data/episode-files';
-import EpisodeContent from '@/components/EpisodeContent';
+import { getEpisodeFiles } from '../../../data/episode-files';
+import EpisodeContent from '../../../components/EpisodeContent';
 
 // Define the episode list directly here since we need it for static paths
 const episodeList = [

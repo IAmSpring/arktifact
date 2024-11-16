@@ -1,5 +1,5 @@
-import { NFT } from '@/types/nft';
-import { allNFTs } from '@/data/season1';
+import { NFT } from '../types/nft';
+import { allNFTs } from '../data/season1';
 
 // Collection Stats
 export const nftCollection = {

@@ -1,5 +1,5 @@
-import { blogPosts } from '@/data/blog/posts';
-import BlogContent from '@/components/BlogContent';
+import { blogPosts } from '../../data/blog/posts';
+import BlogContent from '../../components/BlogContent';
 import { Metadata } from 'next';
 
 export async function generateStaticParams() {
