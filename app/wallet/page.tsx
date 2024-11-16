@@ -1,10 +1,10 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { fadeInUp, staggerContainer } from '@/utils/animations';
+import { fadeInUp, staggerContainer } from '../../utils/animations';
 import Image from 'next/image';
 import Link from 'next/link';
-import { useCollection } from '@/contexts/CollectionContext';
+import { useCollection } from '../../contexts/CollectionContext';
 
 export default function WalletPage() {
   const { isConnected, connect, userCollection, collectionStats } = useCollection();

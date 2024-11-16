@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { useWallet } from '@/contexts/WalletContext';
+import { useWallet } from '../contexts/WalletContext';
 import Image from 'next/image';
 
 const WalletDetails = () => {
