@@ -92,3 +92,14 @@ export const placeholderImages = {
     }
   }
 }; 
+
+export function getPlaceholderImage(id: string) {
+  return `https://via.placeholder.com/800x800.png?text=NFT+${id}`;
+}
+
+// Update the allNFTs data to use placeholders if images don't exist
+allNFTs.forEach(nft => {
+  if (!nft.image.startsWith('http')) {
+    nft.image = getPlaceholderImage(nft.id);
+  }
+}); 

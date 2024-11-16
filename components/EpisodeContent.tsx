@@ -3,17 +3,9 @@
 import { motion } from 'framer-motion';
 import { fadeInUp, staggerContainer } from '@/utils/animations';
 import Link from 'next/link';
-import dynamic from 'next/dynamic';
-import { Suspense } from 'react';
 import { EpisodeFile } from '@/data/episode-files/index';
-
-// Dynamically import CodeViewer with no SSR to prevent hydration issues
-const DynamicCodeViewer = dynamic(() => import('@/components/CodeViewer'), {
-  ssr: false,
-  loading: () => (
-    <div className="animate-pulse bg-gray-800 rounded-lg h-96"></div>
-  ),
-});
+import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
+import { vscDarkPlus } from 'react-syntax-highlighter/dist/cjs/styles/prism';
 
 interface EpisodeContentProps {
   episode: string;
@@ -49,11 +41,14 @@ const EpisodeContent = ({ episode, files }: EpisodeContentProps) => {
                 </h2>
                 <p className="text-gray-300 mb-6">{file.description}</p>
                 <div className="relative w-full">
-                  <Suspense fallback={
-                    <div className="animate-pulse bg-gray-700 rounded-lg h-96"></div>
-                  }>
-                    <DynamicCodeViewer filePath={file.path} />
-                  </Suspense>
+                  <SyntaxHighlighter
+                    language="typescript"
+                    style={vscDarkPlus}
+                    className="rounded-lg"
+                    showLineNumbers
+                  >
+                    {file.content}
+                  </SyntaxHighlighter>
                 </div>
               </div>
             ))}

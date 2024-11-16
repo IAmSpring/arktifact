@@ -1,4 +1,4 @@
-name: Deploy Arktifact Chronicles
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -6,34 +6,40 @@ on:
   pull_request:
     branches: [ main ]
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write
   pages: write
   id-token: write
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
-
+    environment: production
+    env:
+      NEXT_PUBLIC_SITE_URL: ${{ vars.NEXT_PUBLIC_SITE_URL }}
+      NODE_ENV: production
+    
     steps:
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
         
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18.x'
-          cache: 'npm'
           
-      - name: Install dependencies
-        run: npm install
+      - name: Install Dependencies
+        run: |
+          npm install
+          npm ci || npm install
           
       - name: Build
         run: |
           npm run build
           touch out/.nojekyll
-        env:
-          NEXT_TELEMETRY_DISABLED: 1
+          echo "arktifact.com" > out/CNAME
           
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
@@ -42,3 +48,6 @@ jobs:
           branch: gh-pages
           token: ${{ secrets.GITHUB_TOKEN }}
           clean: true
+          force: true
+          target-folder: production
+          commit-message: "Deploy to production: ${{ github.sha }}"
