@@ -1,10 +1,10 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { fadeInUp, staggerContainer } from '@/utils/animations';
+import { fadeInUp, staggerContainer } from '../../utils/animations';
 import { useState } from 'react';
-import NFTGrid from '@/components/NFTGrid';
-import { NFT } from '@/types/nft';
+import NFTGrid from '../../components/NFTGrid';
+import { NFT } from '../../types/nft';
 
 const NFTsPage = () => {
   const [filter, setFilter] = useState<string>('all');

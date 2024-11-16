@@ -1,9 +1,9 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { fadeInUp, staggerContainer } from '@/utils/animations';
-import WalletDetails from '@/components/WalletDetails';
-import { useWallet } from '@/contexts/WalletContext';
+import { fadeInUp, staggerContainer } from '../../utils/animations';
+import WalletDetails from '../../components/WalletDetails';
+import { useWallet } from '../../contexts/WalletContext';
 
 const ProfilePage = () => {
   const { account } = useWallet();

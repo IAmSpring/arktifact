@@ -1,11 +1,11 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { fadeInUp } from '@/utils/animations';
+import { fadeInUp } from '../utils/animations';
 import Link from 'next/link';
 import Image from 'next/image';
-import { getImageDetails } from '@/utils/imageHandling';
-import { NFT } from '@/types/nft';
+import { getImageDetails } from '../utils/imageHandling';
+import { NFT } from '../types/nft';
 
 interface NFTGridProps {
   nfts: NFT[];
