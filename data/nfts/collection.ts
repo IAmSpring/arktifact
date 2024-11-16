@@ -1,5 +1,4 @@
 import { NFT } from '../types/nft';
-import { allNFTs } from '../data/season1';
 
 // Collection Stats
 export const nftCollection = {
@@ -60,6 +59,49 @@ export const nftCollection = {
   ]
 };
 
+// Sample NFTs for dummy user collection
+const dummyNFTs: NFT[] = [
+  {
+    id: "1",
+    name: "Raska's Vision",
+    title: "The First Vision",
+    description: "The moment when Raska first glimpsed humanity's potential future.",
+    image: "/images/nfts/raska-vision.jpg",
+    attributes: [
+      { trait_type: "Episode", value: "1" },
+      { trait_type: "Character", value: "Raska" },
+      { trait_type: "Type", value: "Vision" },
+      { trait_type: "Rarity", value: "Legendary" }
+    ]
+  },
+  {
+    id: "2",
+    name: "Tanek's Shield",
+    title: "The Protector's Shield",
+    description: "The legendary shield used by Tanek to defend the first human settlement.",
+    image: "/images/nfts/tanek-shield.jpg",
+    attributes: [
+      { trait_type: "Episode", value: "1" },
+      { trait_type: "Character", value: "Tanek" },
+      { trait_type: "Type", value: "Artifact" },
+      { trait_type: "Rarity", value: "Rare" }
+    ]
+  },
+  {
+    id: "3",
+    name: "Unity Totem",
+    title: "The Unity Totem",
+    description: "A sacred artifact symbolizing the unity of all tribes.",
+    image: "/images/nfts/unity-totem.jpg",
+    attributes: [
+      { trait_type: "Episode", value: "1" },
+      { trait_type: "Character", value: "All Tribes" },
+      { trait_type: "Type", value: "Artifact" },
+      { trait_type: "Rarity", value: "Legendary" }
+    ]
+  }
+];
+
 // Dummy user collection data
 export const dummyUserCollection = {
   address: "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
@@ -68,7 +110,7 @@ export const dummyUserCollection = {
     nftsOwned: 3,
     collections: 1
   },
-  nfts: allNFTs.slice(0, 3).map(nft => ({
+  nfts: dummyNFTs.map(nft => ({
     ...nft,
     collection: "Arktifact Origins",
     status: nft.id === "2" ? "staked" : nft.id === "3" ? "listed" : "owned",
