@@ -1,10 +1,10 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { fadeInUp, staggerContainer } from '@/utils/animations';
+import { fadeInUp, staggerContainer } from '../../utils/animations';
 import Link from 'next/link';
 import Image from 'next/image';
-import { blogPosts } from '@/data/blog-posts';
+import { blogPosts } from '../../data/blog-posts';
 
 // Filter only lore-related posts
 const lorePosts = blogPosts.filter(post => 
