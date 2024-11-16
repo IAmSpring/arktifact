@@ -21,9 +21,6 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
-        with:
-          persist-credentials: false
-          fetch-depth: 0
         
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -31,9 +28,7 @@ jobs:
           node-version: '18.x'
           
       - name: Install Dependencies
-        run: |
-          npm install
-          npm ci || npm install
+        run: npm install
           
       - name: Build
         run: |
@@ -41,13 +36,11 @@ jobs:
           touch out/.nojekyll
           echo "arktifact.com" > out/CNAME
           
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          folder: out
-          branch: gh-pages
-          token: ${{ secrets.GITHUB_TOKEN }}
-          clean: true
-          force: true
-          target-folder: production
-          commit-message: "Deploy to production: ${{ github.sha }}"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: ${{ github.event.head_commit.message }}
