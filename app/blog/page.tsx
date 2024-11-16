@@ -4,10 +4,10 @@ import { motion } from 'framer-motion';
 import { fadeInUp, staggerContainer } from '../../utils/animations';
 import Link from 'next/link';
 import Image from 'next/image';
-import { blogPosts, getFeaturedPosts, getRegularPosts } from '../../data/blog-posts';
+import { blogPosts, getFeaturedPosts, getRegularPosts, getDefaultFeaturedPost } from '../../data/blog-posts';
 
 const BlogPage = () => {
-  const featuredPost = getFeaturedPosts()[0]; // Get the first featured post
+  const featuredPost = getFeaturedPosts()[0] || getDefaultFeaturedPost();
   const regularPosts = getRegularPosts();
 
   return (

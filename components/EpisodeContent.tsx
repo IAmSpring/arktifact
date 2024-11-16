@@ -3,16 +3,36 @@
 import { motion } from 'framer-motion';
 import { fadeInUp, staggerContainer } from '@/utils/animations';
 import Link from 'next/link';
-import { EpisodeFile } from '@/data/episode-files/index';
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { vscDarkPlus } from 'react-syntax-highlighter/dist/cjs/styles/prism';
 
+interface EpisodeFile {
+  name: string;
+  description: string;
+  content: string;
+}
+
 interface EpisodeContentProps {
   episode: string;
+  title: string;
+  description: string;
   files: EpisodeFile[];
 }
 
-const EpisodeContent = ({ episode, files }: EpisodeContentProps) => {
+const EpisodeContent = ({ episode, title, description, files }: EpisodeContentProps) => {
+  if (!files || files.length === 0) {
+    return (
+      <div className="min-h-screen bg-gray-900 pt-24">
+        <div className="container mx-auto px-6 text-center">
+          <div className="animate-pulse">
+            <div className="h-8 bg-gray-800 rounded w-1/3 mx-auto mb-4"></div>
+            <div className="h-4 bg-gray-800 rounded w-1/2 mx-auto"></div>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <main className="min-h-screen bg-gray-900 pt-24">
       <div className="container mx-auto px-6 max-w-7xl">
@@ -25,11 +45,11 @@ const EpisodeContent = ({ episode, files }: EpisodeContentProps) => {
           <motion.div variants={fadeInUp} className="text-center mb-16">
             <h1 className="text-4xl md:text-6xl font-cinzel font-bold mb-6">
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-                Behind Episode {episode}
+                {title}
               </span>
             </h1>
             <p className="text-xl text-gray-300">
-              Explore how this episode was crafted, from character development to final script
+              {description}
             </p>
           </motion.div>
 
