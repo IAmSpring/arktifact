@@ -1,7 +1,8 @@
-import { getEpisodeFiles } from '../../../data/episode-files';
+import { getEpisodeFiles, EpisodeFile } from '../../../data/episode-files';
 import EpisodeContent from '../../../components/EpisodeContent';
 import type { Metadata } from 'next'
-import type { EpisodeFile } from '../../../data/episode-files';
+import fs from 'fs/promises';
+import path from 'path';
 
 // Define the episode list directly here since we need it for static paths
 const episodeList = [
@@ -75,11 +76,20 @@ export async function generateMetadata({
   }
 }
 
+async function loadFileContent(filePath: string): Promise<string> {
+  try {
+    return await fs.readFile(filePath, 'utf-8');
+  } catch (error) {
+    console.error(`Error reading file ${filePath}:`, error);
+    return '';
+  }
+}
+
 export default async function BehindTheScenes({ params }: { params: { episode: string } }) {
   const episode = episodeList.find(ep => ep.id === params.episode);
-  const files = await getEpisodeFiles(params.episode);
+  const fileInfos = await getEpisodeFiles(params.episode);
   
-  if (!episode || !files.length) {
+  if (!episode || !fileInfos.length) {
     return (
       <div className="min-h-screen bg-gray-900 pt-24">
         <div className="container mx-auto px-6 text-center">
@@ -90,12 +100,19 @@ export default async function BehindTheScenes({ params }: { params: { episode: s
     );
   }
 
+  const files: EpisodeFile[] = await Promise.all(
+    fileInfos.map(async (fileInfo) => ({
+      ...fileInfo,
+      content: await loadFileContent(path.join(process.cwd(), fileInfo.path))
+    }))
+  );
+
   return (
     <EpisodeContent 
       episode={params.episode}
       title={episode.title}
       description={episode.description}
-      files={files as EpisodeFile[]}
+      files={files}
     />
   );
 } 
