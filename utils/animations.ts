@@ -14,7 +14,6 @@ export const fadeInUp = {
 };
 
 export const staggerContainer = {
-  initial: {},
   animate: {
     transition: {
       staggerChildren: 0.1

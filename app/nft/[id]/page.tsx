@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import allNFTs from '@/data/season1';
+import allNFTs from '../../../data/season1';
 import NFTContent from '@/components/NFTContent';
 
 export async function generateStaticParams() {

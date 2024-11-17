@@ -1,51 +1,17 @@
 'use client';
 
 import React, { createContext, useContext, useState } from 'react';
-import { nftCollection, dummyUserCollection } from '../data/nfts/collection';
 
-interface CollectionContextType {
-  isConnected: boolean;
-  connect: () => void;
-  disconnect: () => void;
-  userCollection: typeof dummyUserCollection | null;
-  collectionStats: typeof nftCollection;
-}
-
-const CollectionContext = createContext<CollectionContextType>({
-  isConnected: false,
-  connect: () => {},
-  disconnect: () => {},
-  userCollection: null,
-  collectionStats: nftCollection
-});
-
-export const useCollection = () => useContext(CollectionContext);
+const CollectionContext = createContext<any>(null);
 
 export function CollectionProvider({ children }: { children: React.ReactNode }) {
-  const [isConnected, setIsConnected] = useState(false);
-  const [userCollection, setUserCollection] = useState<typeof dummyUserCollection | null>(null);
-
-  const connect = () => {
-    setIsConnected(true);
-    setUserCollection(dummyUserCollection);
-  };
-
-  const disconnect = () => {
-    setIsConnected(false);
-    setUserCollection(null);
-  };
-
+  const [collection, setCollection] = useState([]);
+  
   return (
-    <CollectionContext.Provider 
-      value={{ 
-        isConnected, 
-        connect, 
-        disconnect, 
-        userCollection, 
-        collectionStats: nftCollection 
-      }}
-    >
+    <CollectionContext.Provider value={{ collection, setCollection }}>
       {children}
     </CollectionContext.Provider>
   );
-} 
+}
+
+export const useCollection = () => useContext(CollectionContext); 
