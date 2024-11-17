@@ -1,14 +1,14 @@
 import React from 'react';
 import Head from 'next/head';
-import HeroSection from '@/components/HeroSection';
-import StorySection from '@/components/StorySection';
-import FeaturedArtifacts from '@/components/FeaturedArtifacts';
-import NFTMarketplaceSection from '@/components/NFTMarketplaceSection';
-import LoreSection from '@/components/LoreSection';
-import StatsSection from '@/components/StatsSection';
-import NewsletterSignup from '@/components/NewsletterSignup';
-import CommunitySection from '@/components/CommunitySection';
-import Footer from '@/components/Footer';
+import HeroSection from 'components/HeroSection';
+import StorySection from 'components/StorySection';
+import FeaturedArtifacts from 'components/FeaturedArtifacts';
+import NFTMarketplaceSection from 'components/NFTMarketplaceSection';
+import LoreSection from 'components/LoreSection';
+import StatsSection from 'components/StatsSection';
+import NewsletterSignup from 'components/NewsletterSignup';
+import CommunitySection from 'components/CommunitySection';
+import Footer from 'components/Footer';
 
 export default function Home() {
   return (
