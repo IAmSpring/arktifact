@@ -1,5 +1,7 @@
 import { getEpisodeFiles } from '../../../data/episode-files';
 import EpisodeContent from '../../../components/EpisodeContent';
+import type { Metadata } from 'next'
+import type { EpisodeFile } from '../../../data/episode-files';
 
 // Define the episode list directly here since we need it for static paths
 const episodeList = [
@@ -57,6 +59,20 @@ export async function generateStaticParams() {
   return episodeList.map((episode) => ({
     episode: episode.id
   }));
+}
+
+// Generate dynamic metadata based on the episode
+export async function generateMetadata({ 
+  params 
+}: { 
+  params: { episode: string } 
+}): Promise<Metadata> {
+  const episode = episodeList.find(ep => ep.id === params.episode);
+
+  return {
+    title: episode ? `How It Was Made - ${episode.title}` : 'Episode Not Found',
+    description: episode ? episode.description : 'Episode not available',
+  }
 }
 
 export default async function BehindTheScenes({ params }: { params: { episode: string } }) {

@@ -92,7 +92,7 @@ const dummyNFTs: NFT[] = [
     name: "Unity Totem",
     title: "The Unity Totem",
     description: "A sacred artifact symbolizing the unity of all tribes.",
-    image: "/images/nfts/totem.jpg",
+    image: "/images/nfts/totem.webp",
     attributes: [
       { trait_type: "Episode", value: "1" },
       { trait_type: "Character", value: "All Tribes" },
