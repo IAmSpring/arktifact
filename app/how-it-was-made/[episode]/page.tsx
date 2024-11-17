@@ -1,4 +1,4 @@
-import { getEpisodeFiles, EpisodeFile } from '../../../data/episode-files';
+import { getEpisodeFiles } from '../../../data/episode-files';
 import EpisodeContent from '../../../components/EpisodeContent';
 import type { Metadata } from 'next'
 import fs from 'fs/promises';
@@ -100,7 +100,7 @@ export default async function BehindTheScenes({ params }: { params: { episode: s
     );
   }
 
-  const files: EpisodeFile[] = await Promise.all(
+  const files = await Promise.all(
     fileInfos.map(async (fileInfo) => ({
       ...fileInfo,
       content: await loadFileContent(path.join(process.cwd(), fileInfo.path))
