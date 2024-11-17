@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { fadeInUp, staggerContainer } from '../utils/animations';
 import Link from 'next/link';
 import Image from 'next/image';
-import { allNFTs } from '@/data/season1';
+import { allNFTs } from 'data/season1';
 
 const NFTMarketplaceSection = () => {
   // Take first 3 NFTs for preview

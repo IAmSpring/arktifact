@@ -2,7 +2,7 @@
 
 import { NFT } from '@/types/nft';
 import Image from 'next/image';
-import { getImageDetails } from '@/utils/imageHandling';
+import { getImageDetails } from '../utils/imageHandling';
 import { useState } from 'react';
 
 interface NFTCardProps {
