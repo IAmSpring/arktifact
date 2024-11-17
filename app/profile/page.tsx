@@ -6,7 +6,7 @@ import WalletDetails from '../../components/WalletDetails';
 import { useWallet } from '../../contexts/WalletContext';
 
 const ProfilePage = () => {
-  const { account } = useWallet();
+  const { wallet } = useWallet();
 
   return (
     <main className="min-h-screen bg-gray-900 pt-24">
@@ -23,7 +23,7 @@ const ProfilePage = () => {
                 Your Collection
               </span>
             </h1>
-            {!account ? (
+            {!wallet ? (
               <p className="text-xl text-gray-300">
                 Connect your wallet to view your Arktifacts
               </p>

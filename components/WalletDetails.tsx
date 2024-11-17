@@ -5,9 +5,9 @@ import { useWallet } from '../contexts/WalletContext';
 import Image from 'next/image';
 
 const WalletDetails = () => {
-  const { account, userNFTs } = useWallet();
+  const { wallet, userNFTs } = useWallet();
 
-  if (!account) return null;
+  if (!wallet) return null;
 
   return (
     <motion.div
@@ -19,7 +19,7 @@ const WalletDetails = () => {
       
       <div className="mb-6">
         <p className="text-gray-400">Connected Address</p>
-        <p className="font-mono text-purple-400">{account}</p>
+        <p className="font-mono text-purple-400">{wallet}</p>
       </div>
 
       <div>
