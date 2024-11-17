@@ -1,4 +1,3 @@
-import { allNFTs } from '@/data/season1';
 
 export const placeholderImages = {
   episodes: {
