@@ -1,25 +1,23 @@
 const nextConfig = {
-  output: 'export', // Ensures static HTML export
+  output: 'export',
   images: {
-    unoptimized: true, // Ensures images work in static export
+    unoptimized: true,
+    domains: ['iamspring.github.io']
   },
-  basePath: '', // No base path since you're deploying to the root
-  assetPrefix: '', // No asset prefix since you're not hosting under a subdirectory
-  trailingSlash: true, // Adds trailing slashes for static paths
+  basePath: '',
+  assetPrefix: '',
+  trailingSlash: true,
   webpack: (config) => {
     config.resolve = {
       ...config.resolve,
       fallback: {
         ...config.resolve.fallback,
-        fs: false, // Disables Node.js 'fs' module
-        path: false, // Disables Node.js 'path' module
+        fs: false,
+        path: false,
       },
     };
     return config;
-  },
-  experimental: {
-    metadataBase: new URL('https://arktifact.com'), // Resolves metadata warnings
-  },
+  }
 };
 
 module.exports = nextConfig;
