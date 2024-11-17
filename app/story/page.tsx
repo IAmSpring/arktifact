@@ -1,4 +1,4 @@
-import { episodeData } from '@/data/episodes';
+import { episodeData } from '../../data/episodes';
 import Link from 'next/link';
 import Image from 'next/image';
 
