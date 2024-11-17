@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: production
     env:
-      NEXT_PUBLIC_SITE_URL: ${{ vars.NEXT_PUBLIC_SITE_URL }}
+      NEXT_PUBLIC_SITE_URL: https://arktifact.com
       NODE_ENV: production
 
     steps:
@@ -28,14 +28,22 @@ jobs:
           npm run build
           touch out/.nojekyll
           echo "arktifact.com" > out/CNAME
-          echo $RANDOM > out/cache_buster.txt
+
+      - name: Debug Build Output
+        run: |
+          ls -R out || echo "No output generated"
 
       - name: Deploy to GitHub Pages
         run: |
-          rm -rf ./*
-          cp -R out/* ./
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -m "Deploy site" || echo "No changes to commit"
-          git push origin main
+          if [ -d "out" ]; then
+            rm -rf ./*
+            cp -R out/* ./
+            git config --global user.name 'github-actions[bot]'
+            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+            git add .
+            git commit -m "Deploy site" || echo "No changes to commit"
+            git push origin main
+          else
+            echo "Build output directory 'out' not found"
+            exit 1
+          fi
