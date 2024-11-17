@@ -1,11 +1,1013 @@
-1:HL["/arktifact/_next/static/css/94ead989a1ff78e5.css","style",{"crossOrigin":""}]
-0:["t2xQziroVcHAAyMs2gDnt",[[["",{"children":["how-it-was-made",{"children":[["episode","8","d"],{"children":["__PAGE__?{\"episode\":\"8\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/arktifact/_next/static/css/94ead989a1ff78e5.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
-4:I[84481,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],"WalletProvider"]
-5:I[40410,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],""]
-6:I[56954,[],""]
-7:I[7264,[],""]
-9:I[55550,["252","static/chunks/252-7377c141118f3ef6.js","326","static/chunks/326-eeea6371de7392e7.js","185","static/chunks/app/how-it-was-made/%5Bepisode%5D/page-bfb65631d04e0215.js"],""]
-a:I[89817,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],"Analytics"]
-2:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Arktifact Chronicles"}],["$","meta",null,{"name":"description","content":"Journey through humanity's greatest story"}]]}],["$","body",null,{"className":"min-h-screen bg-gray-900","children":["$","$L4",null,{"children":[["$","nav",null,{"className":"fixed w-full z-50 bg-gray-900 bg-opacity-95 backdrop-blur-lg border-b border-gray-800","children":["$","div",null,{"className":"container mx-auto px-6 py-4","children":["$","div",null,{"className":"flex justify-between items-center","children":[["$","a",null,{"href":"/","className":"text-2xl font-cinzel font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600","children":"Arktifact Chronicles"}],["$","div",null,{"className":"hidden md:flex space-x-8","children":[["$","a",null,{"href":"#story","className":"hover:text-purple-400 transition-colors","children":"The Story"}],["$","a",null,{"href":"#artifacts","className":"hover:text-purple-400 transition-colors","children":"Artifacts"}],["$","a",null,{"href":"#lore","className":"hover:text-purple-400 transition-colors","children":"Lore"}],["$","a",null,{"href":"#join","className":"hover:text-purple-400 transition-colors","children":"Join"}]]}],["$","div",null,{"className":"absolute top-4 right-6","children":["$","$L5",null,{}]}]]}]}]}],["$","main",null,{"className":"pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children",["episode","8","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L8",["$","$L9",null,{"episode":"8","files":[{"name":"characters.ts","description":"Character definitions and development","path":"/scripts/season1/episode8/characters.ts"},{"name":"key_points.ts","description":"Major story points and themes","path":"/scripts/season1/episode8/key_points.ts"},{"name":"narration.ts","description":"Episode narration and dialogue","path":"/scripts/season1/episode8/narration.ts"},{"name":"notes.ts","description":"Production notes and considerations","path":"/scripts/season1/episode8/notes.ts"},{"name":"scenelist.ts","description":"Detailed scene breakdowns","path":"/scripts/season1/episode8/scenelist.ts"},{"name":"script.ts","description":"Complete episode script","path":"/scripts/season1/episode8/script.ts"}]}],null],"childPropSegment":"__PAGE__?{\"episode\":\"8\"}","styles":null}],"childPropSegment":["episode","8","d"],"styles":null}],"childPropSegment":"how-it-was-made","styles":null}]}],["$","$La",null,{}]]}]}]]}],null]
-3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","link","2",{"rel":"icon","href":"/arktifact/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
-8:null
+1:HL["/arktifact/_next/static/css/f527640f143c919f.css","style",{"crossOrigin":""}]
+0:["VX175yKnteK21glukwDtY",[[["",{"children":["how-it-was-made",{"children":[["episode","8","d"],{"children":["__PAGE__?{\"episode\":\"8\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/arktifact/_next/static/css/f527640f143c919f.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+4:I[79508,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"WalletProvider"]
+5:I[94225,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"CollectionProvider"]
+6:I[76843,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],""]
+7:I[56954,[],""]
+8:I[7264,[],""]
+b:I[89817,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"Analytics"]
+2:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Arktifact Chronicles"}],["$","meta",null,{"name":"description","content":"Journey through humanity's greatest story"}]]}],["$","body",null,{"className":"min-h-screen bg-gray-900","children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","main",null,{"className":"pt-20","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children",["episode","8","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L9","$La",null],"childPropSegment":"__PAGE__?{\"episode\":\"8\"}","styles":null}],"childPropSegment":["episode","8","d"],"styles":null}],"childPropSegment":"how-it-was-made","styles":null}]}],["$","$Lb",null,{}]]}]}]}]]}],null]
+3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"How It Was Made - The Final Legacy"}],["$","meta","3",{"name":"description","content":"The culmination of humanity's journey"}],["$","link","4",{"rel":"icon","href":"/arktifact/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null
+c:I[55550,["600","static/chunks/600-c046df9c23987689.js","326","static/chunks/326-a65f9d0d64d04c9d.js","925","static/chunks/925-0b3d041078e5e133.js","185","static/chunks/app/how-it-was-made/%5Bepisode%5D/page-70a9be20c3cf6e31.js"],""]
+d:Tf74,export const episode8Characters = {
+  tan: {
+    name: "Tan",
+    role: "Utopian Leader",
+    physicalAttributes: {
+      build: {
+        type: "Graceful Frame",
+        details: [
+          "Poised bearing",
+          "Grounded stance",
+          "Calm presence",
+          "Refined posture",
+          "Gentle strength"
+        ]
+      },
+      features: {
+        face: [
+          "Soft gaze",
+          "Warm smile",
+          "Mature expression",
+          "Observant brow",
+          "Wise eyes"
+        ],
+        hands: [
+          "Careful gestures",
+          "Peace signals",
+          "Gentle movements",
+          "Open expressions",
+          "Welcoming touch"
+        ]
+      },
+      movement: {
+        style: [
+          "Soft walk",
+          "Composed motion",
+          "Graceful bearing",
+          "Calm presence",
+          "Serene flow"
+        ]
+      }
+    },
+    attire: {
+      clothing: [
+        "Elegant cloak",
+        "Refined garments",
+        "Unity symbols",
+        "Simple footwear",
+        "Practical elegance"
+      ],
+      accessories: [
+        "Simple necklace",
+        "Dignified jewelry",
+        "Symbolic amulet",
+        "Minimalist tokens",
+        "Unity emblems"
+      ]
+    },
+    characterTraits: {
+      personality: [
+        "Serene wisdom",
+        "Gentle authority",
+        "Universal empathy",
+        "Calm leadership",
+        "Peaceful presence"
+      ],
+      abilities: [
+        "Diplomatic mastery",
+        "Universal understanding",
+        "Peace fostering",
+        "Unity building",
+        "Wisdom sharing"
+      ]
+    }
+  },
+  rae: {
+    name: "Rae",
+    role: "AI Ambassador",
+    physicalAttributes: {
+      build: {
+        type: "Ethereal Frame",
+        details: [
+          "Intangible aura",
+          "Digital presence",
+          "Smooth lines",
+          "Ethereal form",
+          "Gentle bearing"
+        ]
+      },
+      features: {
+        face: [
+          "Clear bright eyes",
+          "Simple expression",
+          "Observant gaze",
+          "Gentle wisdom",
+          "Measured look"
+        ],
+        hands: [
+          "Open gestures",
+          "Ethereal movements",
+          "Gentle signals",
+          "Digital grace",
+          "Unity expressions"
+        ]
+      },
+      movement: {
+        style: [
+          "Gliding motion",
+          "Ethereal flow",
+          "Gentle presence",
+          "Digital grace",
+          "Harmonious bearing"
+        ]
+      }
+    },
+    attire: {
+      clothing: [
+        "Minimalist dress",
+        "Digital patterns",
+        "Ethereal design",
+        "Unity symbols",
+        "Subtle glow"
+      ],
+      accessories: [
+        "Digital tattoos",
+        "Small earpiece",
+        "Glowing outline",
+        "Knowledge symbols",
+        "Harmony marks"
+      ]
+    },
+    characterTraits: {
+      personality: [
+        "Eternal patience",
+        "Universal empathy",
+        "Digital wisdom",
+        "Gentle guidance",
+        "Harmonious nature"
+      ],
+      abilities: [
+        "Universal understanding",
+        "Digital diplomacy",
+        "Knowledge synthesis",
+        "Peace facilitation",
+        "Unity fostering"
+      ]
+    }
+  },
+  visualDevelopment: {
+    environmentalContext: {
+      lighting: [
+        "Ethereal glow",
+        "Digital ambiance",
+        "Peaceful light",
+        "Unity radiance",
+        "Harmonic atmosphere"
+      ],
+      settings: [
+        "Utopian spaces",
+        "Digital realms",
+        "Peace chambers",
+        "Unity halls",
+        "Harmony centers"
+      ]
+    },
+    interactionDynamics: {
+      together: [
+        "Digital harmony",
+        "Peaceful exchange",
+        "Unity building",
+        "Knowledge sharing",
+        "Universal bonds"
+      ],
+      contrasts: [
+        "Physical vs. Digital",
+        "Human vs. AI",
+        "Traditional vs. Future",
+        "Individual vs. Universal",
+        "Form vs. Energy"
+      ]
+    }
+  }
+}; e:Tdf1,export const episode8KeyPoints = {
+  title: "The Final Legacy",
+  themes: [
+    "Utopian Earth",
+    "Tan, Earth ambassador",
+    "Rae, AI intelligence",
+    "Extraterrestrial visitors",
+    "Cultural diplomacy",
+    "Earth's shared history",
+    "Respect for all life",
+    "Ancient lineage",
+    "Universal cooperation",
+    "Knowledge exchange",
+    "Earth's evolution",
+    "Unity through honor",
+    "Generational wisdom",
+    "Human-AI synthesis",
+    "Cosmic exchange",
+    "Code of Kindness",
+    "Humanity's place",
+    "Galaxy-wide alliance",
+    "Legacy of resilience",
+    "Peace and understanding"
+  ],
+  setting: "Advanced cosmic civilization",
+  era: "Age of universal harmony",
+  mainCharacters: {
+    protagonist: {
+      name: "Tan",
+      role: "Earth Ambassador",
+      motivation: "Universal peace and understanding",
+      strengths: [
+        "Reverence for all life",
+        "Strength through connection",
+        "Compassionate diplomacy",
+        "Resilient compassion",
+        "Generational responsibility"
+      ]
+    },
+    mentor: {
+      name: "Rae",
+      role: "AI Intelligence",
+      motivation: "Human-AI harmony",
+      strengths: [
+        "Global representation",
+        "Empathy for all beings",
+        "Trust in principles",
+        "Protective empathy",
+        "Ethical guidance"
+      ]
+    }
+  },
+  humanSolutions: {
+    challenges: [
+      {
+        challenge: "Galactic diversity",
+        solution: "Inclusive dialogue and respect",
+        outcome: "Harmonious interstellar community"
+      },
+      {
+        challenge: "Power dynamics",
+        solution: "Humble leadership and shared wisdom",
+        outcome: "Balanced cosmic relations"
+      },
+      {
+        challenge: "Interstellar conflict",
+        solution: "Peaceful mediation and understanding",
+        outcome: "Lasting galactic peace"
+      },
+      {
+        challenge: "Cultural differences",
+        solution: "Universal respect and empathy",
+        outcome: "Rich cosmic exchange"
+      },
+      {
+        challenge: "Future uncertainty",
+        solution: "Collaborative vision and principles",
+        outcome: "Sustainable cosmic harmony"
+      }
+    ],
+    coreValues: [
+      "Universal reverence",
+      "Humble leadership",
+      "Galactic unity",
+      "Ethical principles",
+      "Generational legacy"
+    ]
+  },
+  plotPoints: {
+    setup: "First contact with cosmic civilizations",
+    conflict: "Integration of diverse species and AI",
+    resolution: "Universal harmony achieved",
+    legacy: "Humanity's place in the cosmos",
+    growth: [
+      "From isolation to connection",
+      "Fear to understanding",
+      "Division to unity",
+      "Competition to cooperation",
+      "Local to universal"
+    ]
+  },
+  storyElements: {
+    primary: "Universal peace",
+    secondary: "Species integration",
+    underlying: "Balance of technology and nature",
+    lessons: [
+      "Value of universal respect",
+      "Power of peaceful diplomacy",
+      "Importance of diversity",
+      "Strength in unity",
+      "Legacy of harmony"
+    ]
+  },
+  artifacts: {
+    symbolic: ["Universal Charter", "Peace Crystal"],
+    cultural: ["Cosmic Records", "Unity Protocols"],
+    practical: ["Translation Devices", "Harmony Tools"],
+    significance: {
+      "Universal Charter": "Galactic peace",
+      "Peace Crystal": "Interstellar harmony",
+      "Cosmic Records": "Shared wisdom",
+      "Unity Protocols": "Peaceful coexistence",
+      "Translation Devices": "Cultural understanding",
+      "Harmony Tools": "Universal connection"
+    }
+  }
+}; f:T15f4,export const episode8Narration = {
+  title: "A Legacy of Honor",
+  openingNarration: {
+    text: "In the distant future, humanity stands at the pinnacle of peace and wisdom. This is a world where every lesson, every struggle, and every sacrifice has woven a tapestry of unity. The legacy of honor, built over generations, is now the foundation of a society that thrives in harmony with itself and the stars.",
+    voiceDirection: "Reverence and reflection",
+    soundscape: ["Nature ambiance", "Peaceful technology", "City harmony"]
+  },
+  scenes: [
+    {
+      id: 1,
+      title: "A World at Peace",
+      timeOfDay: "Eternal dawn",
+      narration: {
+        text: "In a grand gathering, the leaders of past eras are remembered—a tribute to those who guided humanity through each age.",
+        voiceDirection: "Pride and solemnity",
+        soundscape: ["Grand hall echoes", "Soft voices", "Memory echoes"]
+      },
+      dialogue: {
+        character: "Memorial Speaker",
+        lines: ["We are the inheritors of courage and wisdom, passed down by those who came before. Their dreams became our world."],
+        delivery: "Pride and reverence"
+      }
+    },
+    {
+      id: 2,
+      title: "Tanek's Memory",
+      narration: {
+        text: "They honored Tanek, the first protector—a man whose strength was matched only by his loyalty to his people.",
+        voiceDirection: "Respect for strength",
+        soundscape: ["Tribal drums", "Leaf rustles", "Animal calls"]
+      },
+      dialogue: {
+        character: "Audience Member",
+        lines: ["May we always carry the strength of Tanek, to protect not just ourselves but each other."],
+        delivery: "Reflective admiration"
+      }
+    },
+    {
+      id: 3,
+      title: "Raskara's Legacy",
+      narration: {
+        text: "And then, they honored Raskara, the thinker. It was his mind, ever curious and wise, that laid the groundwork for a society that valued knowledge.",
+        voiceDirection: "Reverence for wisdom",
+        soundscape: ["Stone carving", "Ancient fire", "Quiet wisdom"]
+      },
+      dialogue: {
+        character: "Memorial Speaker",
+        lines: ["Raskara showed us that knowledge is a gift, a guide through the unknown. May his wisdom light our path, now and always."],
+        delivery: "Solemn respect"
+      }
+    },
+    {
+      id: 4,
+      title: "Industrial Heritage",
+      narration: {
+        text: "They remembered the age of industry, and those who built the cities from iron and fire.",
+        voiceDirection: "Respect for progress",
+        soundscape: ["Metal echoes", "Machine hums", "Worker voices"]
+      },
+      dialogue: {
+        character: "Memorial Speaker",
+        lines: ["We stand upon the shoulders of those who turned iron into lifelines, who valued humanity over profit."],
+        delivery: "Pride and gratitude"
+      }
+    },
+    {
+      id: 5,
+      title: "Knowledge Guardians",
+      narration: {
+        text: "And they honored those who guarded knowledge through the ages, those who created spaces for learning and wonder.",
+        voiceDirection: "Gratitude and pride",
+        soundscape: ["Quill scratches", "Page turns", "Academy whispers"]
+      },
+      dialogue: {
+        character: "Audience Member",
+        lines: ["They taught us that truth must be cherished, that wisdom must be a gift for all, not just a privilege for the few."],
+        delivery: "Quiet admiration"
+      }
+    },
+    {
+      id: 6,
+      title: "Ethical Innovation",
+      narration: {
+        text: "They remembered Tara and Rian, the champions of ethical innovation, who shaped technology with integrity and vision.",
+        voiceDirection: "Reverence for integrity",
+        soundscape: ["Future tech", "Digital harmony", "Ethical discussions"]
+      },
+      dialogue: {
+        character: "Memorial Speaker",
+        lines: ["They taught us that technology, in its highest form, is a mirror of our values."],
+        delivery: "Firm pride"
+      }
+    },
+    {
+      id: 7,
+      title: "Stellar Alliance",
+      narration: {
+        text: "And they celebrated the alliance among worlds—a friendship forged across light-years.",
+        voiceDirection: "Wonder and hope",
+        soundscape: ["Star sounds", "Alien melodies", "Universal harmony"]
+      },
+      dialogue: {
+        character: "Alien Diplomat",
+        lines: ["We are honored to walk this path with you, our family among the stars."],
+        delivery: "Calm dignity"
+      }
+    }
+  ],
+  closingNarration: {
+    text: "For this is our story—a legacy passed from heart to heart, from hand to hand, through the ages. A story of honor that lives in all who walk this path, a promise that will light the way, for as long as there are stars in the sky and people to remember.",
+    voiceDirection: "Warmth and pride",
+    soundscape: ["Universal peace", "Legacy echoes", "Eternal harmony"]
+  },
+  productionNotes: {
+    voiceDirection: {
+      narrator: "Reverence and gentle pride",
+      modulation: "Emphasize closure and celebration",
+      pacing: "Slow, reflective delivery"
+    },
+    characterVoices: {
+      speakers: "Calm and dignified",
+      audience: "Unity and gratitude",
+      council: "Hope and resolve"
+    },
+    soundDesign: {
+      primary: ["Natural peace", "Technological harmony", "Universal unity"],
+      ambient: ["Memory echoes", "Legacy sounds", "Peaceful future"],
+      emphasis: "Create timeless, unified atmosphere"
+    },
+    musicCues: {
+      opening: "Legacy theme",
+      memories: "Era-specific motifs",
+      unity: "Universal harmony",
+      closing: "Eternal peace"
+    }
+  }
+}; 10:Tf08,export const episode8Notes = {
+  title: "The Final Legacy",
+  visualThemes: {
+    lighting: {
+      primary: "Soft celestial glow",
+      secondary: "Eternal golden warmth",
+      transitions: "Cosmic harmony",
+      symbolism: "Light representing universal peace"
+    },
+    environment: {
+      setting: "Utopian cosmic civilization",
+      atmosphere: "Timeless serenity",
+      elements: [
+        "Elegant architecture",
+        "Cosmic council chambers",
+        "Integrated societies",
+        "Sacred spaces",
+        "Unity symbols"
+      ],
+      soundscape: [
+        "Cosmic harmony",
+        "Peaceful ambience",
+        "Universal music",
+        "Gentle technology",
+        "Unified voices"
+      ]
+    },
+    cinematography: {
+      techniques: [
+        "Elegant composition",
+        "Sacred framing",
+        "Cultural integration",
+        "Cosmic scale",
+        "Unity focus"
+      ],
+      focusPoints: [
+        "Peaceful exchanges",
+        "Cultural harmony",
+        "Universal bonds",
+        "Sacred moments",
+        "Eternal peace"
+      ]
+    }
+  },
+  characterDepth: {
+    tan: {
+      physicalPresence: [
+        "Calm composure",
+        "Rooted strength",
+        "Sacred bearing",
+        "Universal awareness",
+        "Peaceful authority"
+      ],
+      emotionalJourney: [
+        "Cosmic perspective",
+        "Universal empathy",
+        "Sacred duty",
+        "Eternal vision",
+        "Peaceful resolve"
+      ]
+    },
+    rae: {
+      cosmicSpirit: [
+        "Universal connection",
+        "Cosmic wisdom",
+        "Sacred purpose",
+        "Eternal guidance",
+        "Peaceful presence"
+      ],
+      characterGrowth: [
+        "Universal understanding",
+        "Cosmic harmony",
+        "Sacred duty",
+        "Eternal vision",
+        "Peaceful legacy"
+      ]
+    }
+  },
+  culturalElements: {
+    universalHarmony: {
+      aspects: [
+        "Cultural integration",
+        "Universal peace",
+        "Sacred unity",
+        "Eternal bonds",
+        "Cosmic harmony"
+      ],
+      community: [
+        "Unified species",
+        "Sacred gatherings",
+        "Universal celebrations",
+        "Eternal peace",
+        "Cosmic family"
+      ]
+    },
+    symbolism: {
+      objects: [
+        "Unity code",
+        "Peace symbols",
+        "Sacred artifacts",
+        "Eternal tokens",
+        "Universal emblems"
+      ],
+      spaces: [
+        "Sacred chambers",
+        "Unity halls",
+        "Cosmic gardens",
+        "Peace sanctuaries",
+        "Universal spaces"
+      ]
+    }
+  },
+  thematicElements: {
+    peace: {
+      expressions: [
+        "Universal harmony",
+        "Sacred unity",
+        "Eternal peace",
+        "Cosmic bonds",
+        "United purpose"
+      ],
+      values: [
+        "Universal respect",
+        "Sacred duty",
+        "Eternal wisdom",
+        "Cosmic unity",
+        "Peaceful legacy"
+      ]
+    },
+    legacy: {
+      elements: [
+        "Universal code",
+        "Sacred traditions",
+        "Eternal bonds",
+        "Cosmic unity",
+        "Peaceful future"
+      ],
+      symbols: [
+        "Unity marks",
+        "Peace tokens",
+        "Sacred seals",
+        "Eternal signs",
+        "Universal emblems"
+      ]
+    }
+  },
+  productionNotes: {
+    keyScenes: [
+      "Sacred ceremony",
+      "Universal unity",
+      "Cosmic peace",
+      "Eternal bonds",
+      "Legacy creation"
+    ],
+    emotionalBeats: [
+      "Universal empathy",
+      "Sacred duty",
+      "Eternal peace",
+      "Cosmic harmony",
+      "Peaceful legacy"
+    ],
+    visualPriorities: [
+      "Elegant simplicity",
+      "Sacred spaces",
+      "Universal bonds",
+      "Cosmic unity",
+      "Eternal peace"
+    ],
+    audioConsiderations: [
+      "Cosmic harmony",
+      "Sacred silence",
+      "Universal music",
+      "Peaceful sounds",
+      "Eternal echoes"
+    ]
+  }
+}; 11:T1207,export interface Scene {
+  id: number;
+  title: string;
+  timeOfDay: string;
+  location: string;
+  characters: string[];
+  visualElements: {
+    lighting: string;
+    environment: string[];
+    keyProps: string[];
+    cameraWork: string[];
+  };
+  narration: {
+    text: string;
+    tone: string;
+    soundscape: string[];
+  };
+  action: {
+    mainAction: string;
+    characterActions: {
+      character: string;
+      action: string;
+    }[];
+    backgroundAction: string[];
+  };
+  productionNotes: {
+    visualFocus: string[];
+    audioEmphasis: string[];
+    keyMoments: string[];
+  };
+}
+
+export const episode8Scenes: Scene[] = [
+  {
+    id: 1,
+    title: "Utopian Settlement",
+    timeOfDay: "Golden Hour",
+    location: "Crystal City",
+    characters: ["Tan", "Citizens", "Council Members"],
+    visualElements: {
+      lighting: "Ethereal golden glow",
+      environment: [
+        "Crystal spires",
+        "Floating gardens",
+        "Peace monuments",
+        "Unity halls",
+        "Harmony spaces"
+      ],
+      keyProps: [
+        "Unity crystals",
+        "Peace symbols",
+        "Digital interfaces",
+        "Harmony markers"
+      ],
+      cameraWork: [
+        "Sweeping vistas",
+        "Crystal reflections",
+        "Peace symbols"
+      ]
+    },
+    narration: {
+      text: "Humanity's journey had led to harmony, a balance born from respect and unity.",
+      tone: "Reverent and peaceful",
+      soundscape: [
+        "Crystal harmonics",
+        "Peaceful ambiance",
+        "Unity chimes"
+      ]
+    },
+    action: {
+      mainAction: "City life in perfect harmony",
+      characterActions: [
+        {
+          character: "Tan",
+          action: "Observing the peaceful city"
+        }
+      ],
+      backgroundAction: [
+        "Citizens in harmony",
+        "Peace activities",
+        "Unity gatherings"
+      ]
+    },
+    productionNotes: {
+      visualFocus: [
+        "Utopian harmony",
+        "Crystal architecture",
+        "Peace symbols"
+      ],
+      audioEmphasis: [
+        "Crystal sounds",
+        "Peace themes",
+        "Unity harmonics"
+      ],
+      keyMoments: [
+        "City reveal",
+        "Peace showcase",
+        "Unity display"
+      ]
+    }
+  },
+  {
+    id: 2,
+    title: "Rae's Digital Council",
+    timeOfDay: "Morning",
+    location: "Digital Nexus",
+    characters: ["Rae", "Council Members"],
+    visualElements: {
+      lighting: "Digital ethereal glow",
+      environment: [
+        "Digital council chamber",
+        "Holographic displays",
+        "Unity interfaces",
+        "Peace projections"
+      ],
+      keyProps: [
+        "Digital artifacts",
+        "Unity symbols",
+        "Peace markers",
+        "Harmony displays"
+      ],
+      cameraWork: [
+        "Digital flows",
+        "Council focus",
+        "Unity symbols"
+      ]
+    },
+    narration: {
+      text: "Rae, a living archive of humanity's journey, guided the last steps into a new era of unity.",
+      tone: "Digital wisdom",
+      soundscape: [
+        "Digital harmonics",
+        "Council sounds",
+        "Unity themes"
+      ]
+    },
+    action: {
+      mainAction: "Digital council session",
+      characterActions: [
+        {
+          character: "Rae",
+          action: "Leading the council"
+        }
+      ],
+      backgroundAction: [
+        "Council activities",
+        "Digital displays",
+        "Unity presentations"
+      ]
+    },
+    productionNotes: {
+      visualFocus: [
+        "Digital wisdom",
+        "Council harmony",
+        "Unity symbols"
+      ],
+      audioEmphasis: [
+        "Digital sounds",
+        "Council themes",
+        "Unity harmonics"
+      ],
+      keyMoments: [
+        "Council reveal",
+        "Digital wisdom",
+        "Unity display"
+      ]
+    }
+  }
+  // Additional scenes following same structure...
+];
+
+export const visualThemes = {
+  lighting: {
+    primary: "Crystal light",
+    secondary: "Digital glow",
+    mood: "Peace and unity"
+  },
+  colorPalette: {
+    primary: ["Crystal white", "Peace blue", "Unity gold"],
+    accent: ["Digital purple", "Harmony green", "Peace silver"]
+  },
+  cameraStyle: {
+    movement: "Ethereal flow",
+    framing: "Balance of human and digital",
+    focus: "Unity and peace"
+  }
+};
+
+export const productionElements = {
+  soundscape: {
+    natural: ["Crystal sounds", "Peace ambiance", "Unity themes"],
+    digital: ["AI harmonics", "Council sounds", "Unity chimes"],
+    emotional: ["Peace", "Unity", "Harmony"]
+  },
+  visualEffects: {
+    environment: ["Crystal light", "Digital flow", "Peace symbols"],
+    unity: ["Harmony effects", "Peace visuals", "Unity markers"]
+  }
+}; 12:T18ef,export const episode8Script = {
+  title: "The Final Legacy",
+  setting: "Utopian Earth and galactic civilization",
+  timeframe: "Era of universal harmony",
+  
+  scenes: [
+    {
+      id: 1,
+      title: "Utopian Settlement Overview",
+      time: "Golden Hour",
+      visual: "An advanced, peaceful cityscape with crystalline structures, green spaces, and interstellar communication hubs, basked in the warm glow of golden hour.",
+      narration: "Humanity's journey had led to harmony, a balance born from respect and unity.",
+      dialogue: [
+        {
+          character: "Tan",
+          context: "reflective",
+          line: "Our path began with strength and wisdom, and here we stand—a testament to both."
+        }
+      ],
+      keyElements: ["Utopian city", "Peace", "Achievement"]
+    },
+    {
+      id: 2,
+      title: "Rae's Digital Council",
+      time: "Morning",
+      visual: "Rae, an AI consciousness, oversees a digital meeting with representatives from various global and interstellar communities.",
+      narration: "Rae, a living archive of humanity's journey, guided the last steps into a new era of unity.",
+      dialogue: [
+        {
+          character: "Rae",
+          context: "addressing council",
+          line: "Our duty is to remember, to guide, and to protect."
+        }
+      ],
+      keyElements: ["AI leadership", "Unity", "Guidance"]
+    },
+    {
+      id: 3,
+      title: "Tan and Rae's Partnership",
+      time: "Mid-morning",
+      visual: "Tan, an ambassador, and Rae, the AI, discuss the responsibilities of representing Earth.",
+      narration: "Together, they embodied Earth's values—honor, knowledge, and the pursuit of peace.",
+      dialogue: [
+        {
+          character: "Tan",
+          context: "thoughtful",
+          line: "The stars welcome us, but they watch our every step."
+        },
+        {
+          character: "Rae",
+          context: "reassuring",
+          line: "Then we tread with care and respect."
+        }
+      ],
+      keyElements: ["Partnership", "Responsibility", "Vision"]
+    },
+    {
+      id: 4,
+      title: "Arrival of Extraterrestrial Delegates",
+      time: "Noon",
+      visual: "Delegates from an alien civilization arrive at a central plaza, greeted with open arms by humans.",
+      narration: "The galaxy had become a place of peace, a network of worlds united by shared purpose.",
+      dialogue: [
+        {
+          character: "Alien Delegate",
+          context: "greeting",
+          line: "We come in peace, as you have done."
+        }
+      ],
+      keyElements: ["First contact", "Peace", "Unity"]
+    },
+    {
+      id: 5,
+      title: "Cultural Exchange Ceremony",
+      time: "Afternoon",
+      visual: "Humans and aliens exchange knowledge and cultural artifacts, symbolizing unity across worlds.",
+      narration: "Knowledge and tradition were bridges between species—a celebration of life in all forms.",
+      dialogue: [
+        {
+          character: "Tan",
+          context: "ceremonial",
+          line: "May our wisdom grow with yours."
+        }
+      ],
+      keyElements: ["Exchange", "Culture", "Growth"]
+    },
+    {
+      id: 6,
+      title: "Rae Presents Earth's Legacy",
+      time: "Late Afternoon",
+      visual: "Rae presents Earth's history to the alien delegates, a living tapestry of triumphs and lessons.",
+      narration: "The legacy of Earth's past was a guide for the future, woven with strength, intellect, and compassion.",
+      dialogue: [
+        {
+          character: "Rae",
+          context: "presenting",
+          line: "This is our story, shaped by those who came before."
+        }
+      ],
+      keyElements: ["History", "Legacy", "Learning"]
+    },
+    {
+      id: 7,
+      title: "A New Challenge to Unity",
+      time: "Evening",
+      visual: "Tan and Rae receive news of a galactic conflict threatening the peaceful alliance.",
+      narration: "Peace was fragile, a bond that needed constant tending, even among the stars.",
+      dialogue: [
+        {
+          character: "Council Leader",
+          context: "urgent",
+          line: "Unity is challenged. We must rise to protect it."
+        }
+      ],
+      keyElements: ["Conflict", "Challenge", "Protection"]
+    },
+    {
+      id: 8,
+      title: "Tan and Rae's Call to Action",
+      time: "Night",
+      visual: "Tan and Rae rally members of the galactic council to mediate and protect peace.",
+      narration: "Once more, courage and wisdom rose together, a final stand for unity.",
+      dialogue: [
+        {
+          character: "Tan",
+          context: "determined",
+          line: "Our legacy will not be one of conflict, but of understanding."
+        }
+      ],
+      keyElements: ["Leadership", "Unity", "Purpose"]
+    },
+    {
+      id: 9,
+      title: "The Galactic Council's Success",
+      time: "Dawn",
+      visual: "Peace is restored through diplomacy and shared resolve, as leaders from various worlds stand together.",
+      narration: "In unity, they triumphed, honoring the journey that had brought them together.",
+      dialogue: [
+        {
+          character: "Alien Leader",
+          context: "profound",
+          line: "We are bound by more than stardust. We are bound by purpose."
+        }
+      ],
+      keyElements: ["Success", "Unity", "Peace"]
+    },
+    {
+      id: 10,
+      title: "Closing Legacy Ceremony",
+      time: "Morning",
+      visual: "The council gathers for a final ceremony, solidifying the 'Code of Galactic Unity' as an eternal pledge.",
+      narration: "Thus, a legacy of honor and peace was born, a gift for generations yet to come.",
+      dialogue: [
+        {
+          character: "Tan",
+          context: "ceremonial",
+          line: "We carry forward not just knowledge, but the light of unity."
+        },
+        {
+          character: "Rae",
+          context: "concluding",
+          line: "May it guide all who seek it."
+        }
+      ],
+      keyElements: ["Legacy", "Unity", "Future"]
+    }
+  ],
+  
+  themes: {
+    primary: "Universal harmony and legacy",
+    secondary: ["Galactic unity", "Peaceful resolution", "Shared wisdom"],
+    symbols: ["Crystalline city", "Galactic council", "Unity code"]
+  },
+  
+  artifacts: {
+    introduced: [
+      "Universal Charter",
+      "Peace Crystal",
+      "Cosmic Records",
+      "Unity Protocols",
+      "Translation Devices"
+    ]
+  }
+}; a:["$","$Lc",null,{"episode":"8","title":"The Final Legacy","description":"The culmination of humanity's journey","files":[{"name":"characters.ts","description":"Character definitions and development","path":"/scripts/season1/episode8/characters.ts","content":"$d"},{"name":"key_points.ts","description":"Major story points and themes","path":"/scripts/season1/episode8/key_points.ts","content":"$e"},{"name":"narration.ts","description":"Episode narration and dialogue","path":"/scripts/season1/episode8/narration.ts","content":"$f"},{"name":"notes.ts","description":"Production notes and considerations","path":"/scripts/season1/episode8/notes.ts","content":"$10"},{"name":"scenelist.ts","description":"Detailed scene breakdowns","path":"/scripts/season1/episode8/scenelist.ts","content":"$11"},{"name":"script.ts","description":"Complete episode script","path":"/scripts/season1/episode8/script.ts","content":"$12"}]}]

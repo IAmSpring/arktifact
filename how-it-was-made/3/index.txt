@@ -1,11 +1,1029 @@
-1:HL["/arktifact/_next/static/css/94ead989a1ff78e5.css","style",{"crossOrigin":""}]
-0:["t2xQziroVcHAAyMs2gDnt",[[["",{"children":["how-it-was-made",{"children":[["episode","3","d"],{"children":["__PAGE__?{\"episode\":\"3\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/arktifact/_next/static/css/94ead989a1ff78e5.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
-4:I[84481,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],"WalletProvider"]
-5:I[40410,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],""]
-6:I[56954,[],""]
-7:I[7264,[],""]
-9:I[55550,["252","static/chunks/252-7377c141118f3ef6.js","326","static/chunks/326-eeea6371de7392e7.js","185","static/chunks/app/how-it-was-made/%5Bepisode%5D/page-bfb65631d04e0215.js"],""]
-a:I[89817,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],"Analytics"]
-2:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Arktifact Chronicles"}],["$","meta",null,{"name":"description","content":"Journey through humanity's greatest story"}]]}],["$","body",null,{"className":"min-h-screen bg-gray-900","children":["$","$L4",null,{"children":[["$","nav",null,{"className":"fixed w-full z-50 bg-gray-900 bg-opacity-95 backdrop-blur-lg border-b border-gray-800","children":["$","div",null,{"className":"container mx-auto px-6 py-4","children":["$","div",null,{"className":"flex justify-between items-center","children":[["$","a",null,{"href":"/","className":"text-2xl font-cinzel font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600","children":"Arktifact Chronicles"}],["$","div",null,{"className":"hidden md:flex space-x-8","children":[["$","a",null,{"href":"#story","className":"hover:text-purple-400 transition-colors","children":"The Story"}],["$","a",null,{"href":"#artifacts","className":"hover:text-purple-400 transition-colors","children":"Artifacts"}],["$","a",null,{"href":"#lore","className":"hover:text-purple-400 transition-colors","children":"Lore"}],["$","a",null,{"href":"#join","className":"hover:text-purple-400 transition-colors","children":"Join"}]]}],["$","div",null,{"className":"absolute top-4 right-6","children":["$","$L5",null,{}]}]]}]}]}],["$","main",null,{"className":"pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children",["episode","3","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L8",["$","$L9",null,{"episode":"3","files":[{"name":"characters.ts","description":"Character definitions and development","path":"/scripts/season1/episode3/characters.ts"},{"name":"key_points.ts","description":"Major story points and themes","path":"/scripts/season1/episode3/key_points.ts"},{"name":"narration.ts","description":"Episode narration and dialogue","path":"/scripts/season1/episode3/narration.ts"},{"name":"notes.ts","description":"Production notes and considerations","path":"/scripts/season1/episode3/notes.ts"},{"name":"scenelist.ts","description":"Detailed scene breakdowns","path":"/scripts/season1/episode3/scenelist.ts"},{"name":"script.ts","description":"Complete episode script","path":"/scripts/season1/episode3/script.ts"}]}],null],"childPropSegment":"__PAGE__?{\"episode\":\"3\"}","styles":null}],"childPropSegment":["episode","3","d"],"styles":null}],"childPropSegment":"how-it-was-made","styles":null}]}],["$","$La",null,{}]]}]}]]}],null]
-3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","link","2",{"rel":"icon","href":"/arktifact/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
-8:null
+1:HL["/arktifact/_next/static/css/f527640f143c919f.css","style",{"crossOrigin":""}]
+0:["VX175yKnteK21glukwDtY",[[["",{"children":["how-it-was-made",{"children":[["episode","3","d"],{"children":["__PAGE__?{\"episode\":\"3\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/arktifact/_next/static/css/f527640f143c919f.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+4:I[79508,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"WalletProvider"]
+5:I[94225,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"CollectionProvider"]
+6:I[76843,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],""]
+7:I[56954,[],""]
+8:I[7264,[],""]
+b:I[89817,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"Analytics"]
+2:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Arktifact Chronicles"}],["$","meta",null,{"name":"description","content":"Journey through humanity's greatest story"}]]}],["$","body",null,{"className":"min-h-screen bg-gray-900","children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","main",null,{"className":"pt-20","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children",["episode","3","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L9","$La",null],"childPropSegment":"__PAGE__?{\"episode\":\"3\"}","styles":null}],"childPropSegment":["episode","3","d"],"styles":null}],"childPropSegment":"how-it-was-made","styles":null}]}],["$","$Lb",null,{}]]}]}]}]]}],null]
+3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"How It Was Made - Age of Innovation"}],["$","meta","3",{"name":"description","content":"The dawn of technological advancement"}],["$","link","4",{"rel":"icon","href":"/arktifact/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null
+c:I[55550,["600","static/chunks/600-c046df9c23987689.js","326","static/chunks/326-a65f9d0d64d04c9d.js","925","static/chunks/925-0b3d041078e5e133.js","185","static/chunks/app/how-it-was-made/%5Bepisode%5D/page-70a9be20c3cf6e31.js"],""]
+d:T100c,export const episode3Characters = {
+  tanos: {
+    name: "Tanos",
+    role: "Warrior-Scholar",
+    physicalAttributes: {
+      build: {
+        type: "Robust Frame",
+        details: [
+          "Regal posture",
+          "Broad shoulders",
+          "Strong jawline",
+          "Balanced physique",
+          "Warrior's strength"
+        ]
+      },
+      features: {
+        face: [
+          "Focused gaze",
+          "Thoughtful eyes",
+          "Strong brow line",
+          "Slight beard",
+          "Curious expression"
+        ],
+        hands: [
+          "Work-worn palms",
+          "Scholar's grip",
+          "Battle scars",
+          "Precise movements",
+          "Balanced strength"
+        ]
+      },
+      movement: {
+        style: [
+          "Confident stance",
+          "Grounded presence",
+          "Natural authority",
+          "Dignified bearing",
+          "Intentional motion"
+        ]
+      }
+    },
+    attire: {
+      clothing: [
+        "Intricate robe over armor",
+        "Detailed armor plates",
+        "Knowledge emblems",
+        "Natural armor accents",
+        "Elegant simplicity"
+      ],
+      accessories: [
+        "Decorative amulet",
+        "Symbolic weapon",
+        "Protection symbols",
+        "Scholar's tokens",
+        "Wisdom markings"
+      ]
+    },
+    characterTraits: {
+      personality: [
+        "Balanced wisdom",
+        "Quiet intensity",
+        "Natural authority",
+        "Thoughtful judgment",
+        "Focused purpose"
+      ],
+      abilities: [
+        "Combat mastery",
+        "Scholarly insight",
+        "Strategic thinking",
+        "Knowledge preservation",
+        "Balanced leadership"
+      ]
+    }
+  },
+  rassan: {
+    name: "Rassan",
+    role: "Techno-Seer",
+    physicalAttributes: {
+      build: {
+        type: "Slender Frame",
+        details: [
+          "Nimble physique",
+          "Sharp jawline",
+          "Refined bearing",
+          "Intellectual presence",
+          "Natural grace"
+        ]
+      },
+      features: {
+        face: [
+          "Observant eyes",
+          "Gentle gaze",
+          "Thoughtful demeanor",
+          "Light beard/clean-shaven",
+          "Piercing kindness"
+        ],
+        hands: [
+          "Long, elegant fingers",
+          "Detailed crafting marks",
+          "Precise movements",
+          "Tool-worn palms",
+          "Creative touch"
+        ]
+      },
+      movement: {
+        style: [
+          "Unassuming presence",
+          "Quiet confidence",
+          "Thoughtful pace",
+          "Gentle bearing",
+          "Focused motion"
+        ]
+      }
+    },
+    attire: {
+      clothing: [
+        "Layered robes",
+        "Cloth hood",
+        "Simple design",
+        "Knowledge symbols",
+        "Practical elegance"
+      ],
+      accessories: [
+        "Crafting tools",
+        "Beaded amulet",
+        "Personal creations",
+        "Simple footwear",
+        "Wisdom tokens"
+      ]
+    },
+    characterTraits: {
+      personality: [
+        "Deep observation",
+        "Quiet confidence",
+        "Gentle wisdom",
+        "Intellectual focus",
+        "Unobtrusive strength"
+      ],
+      abilities: [
+        "Technical mastery",
+        "Knowledge creation",
+        "Pattern recognition",
+        "Innovative thinking",
+        "Teaching gift"
+      ]
+    }
+  },
+  visualDevelopment: {
+    environmentalContext: {
+      lighting: [
+        "Knowledge halls",
+        "Workshop glow",
+        "Archive light",
+        "Study spaces",
+        "Innovation areas"
+      ],
+      settings: [
+        "Ancient libraries",
+        "Innovation workshops",
+        "Knowledge repositories",
+        "Study chambers",
+        "Testing grounds"
+      ]
+    },
+    interactionDynamics: {
+      together: [
+        "Scholarly discourse",
+        "Knowledge sharing",
+        "Innovation planning",
+        "Strategic discussion",
+        "United purpose"
+      ],
+      contrasts: [
+        "Strength vs. Knowledge",
+        "Action vs. Innovation",
+        "Protection vs. Creation",
+        "Warrior vs. Scholar",
+        "Power vs. Wisdom"
+      ]
+    }
+  }
+}; e:Te7a,export const episode3KeyPoints = {
+  title: "Age of Innovation",
+  themes: [
+    "Ancient civilization",
+    "Tanos, warrior-scholar",
+    "Rassan, Techno-Seer",
+    "Knowledge repositories",
+    "Strategy and defense",
+    "Intrigue and betrayal",
+    "Invention ethics",
+    "Intellectual councils",
+    "Shared archives",
+    "Strategic foresight",
+    "Technology preservation",
+    "Manipulation threats",
+    "Public knowledge code",
+    "Repository protection",
+    "Honor in scholarship",
+    "Warrior-intellectual balance",
+    "Societal advancement",
+    "Community tech benefits",
+    "Generational values",
+    "Enduring hero lineage"
+  ],
+  setting: "Early technological civilization",
+  era: "Age of advancement and discovery",
+  mainCharacters: {
+    protagonist: {
+      name: "Tanos",
+      role: "Warrior-Scholar",
+      motivation: "Balance of knowledge and strength",
+      strengths: [
+        "Moral conviction",
+        "Strategic foresight",
+        "Public stewardship",
+        "Strength with restraint",
+        "Diplomatic leadership"
+      ]
+    },
+    mentor: {
+      name: "Rassan",
+      role: "Techno-Seer",
+      motivation: "Ethical technological advancement",
+      strengths: [
+        "Intellectual curiosity",
+        "Wisdom sharing",
+        "Ethical creation",
+        "Social responsibility",
+        "Pride in communal service"
+      ]
+    }
+  },
+  humanSolutions: {
+    challenges: [
+      {
+        challenge: "Technological power",
+        solution: "Ethical guidelines and public benefit focus",
+        outcome: "Responsible innovation"
+      },
+      {
+        challenge: "Knowledge abuse",
+        solution: "Strategic protection and open sharing",
+        outcome: "Protected public knowledge"
+      },
+      {
+        challenge: "Power struggles",
+        solution: "Diplomatic negotiation and ethical standards",
+        outcome: "Balanced governance"
+      },
+      {
+        challenge: "Innovation risks",
+        solution: "Careful development and testing",
+        outcome: "Safe technological progress"
+      },
+      {
+        challenge: "Resource control",
+        solution: "Equitable distribution and access",
+        outcome: "Shared technological benefits"
+      }
+    ],
+    coreValues: [
+      "Self-restraint in power",
+      "Constructive dialogue",
+      "Public good priority",
+      "Intellectual integrity",
+      "Future generation focus"
+    ]
+  },
+  plotPoints: {
+    setup: "Rise of technological civilization",
+    conflict: "Threats to knowledge and innovation",
+    resolution: "Protection of technological advancement",
+    legacy: "Foundation of scholarly traditions",
+    growth: [
+      "From power to responsibility",
+      "Personal gain to public good",
+      "Competition to collaboration",
+      "Secrecy to shared wisdom",
+      "Control to stewardship"
+    ]
+  },
+  storyElements: {
+    primary: "Innovation and protection",
+    secondary: "Knowledge preservation",
+    underlying: "Balance of power and wisdom",
+    lessons: [
+      "Ethical innovation principles",
+      "Responsible knowledge sharing",
+      "Protective stewardship",
+      "Collaborative advancement",
+      "Long-term impact focus"
+    ]
+  },
+  artifacts: {
+    symbolic: ["Knowledge Repository", "Tech Archive"],
+    cultural: ["Scholar's Code", "Innovation Records"],
+    practical: ["Ancient Tech", "Defense Systems"],
+    significance: {
+      "Knowledge Repository": "Preserved wisdom",
+      "Tech Archive": "Protected innovations",
+      "Scholar's Code": "Ethical guidelines",
+      "Innovation Records": "Shared discoveries",
+      "Ancient Tech": "Technological heritage",
+      "Defense Systems": "Protected knowledge"
+    }
+  }
+}; f:T18b5,export const episode3Narration = {
+  title: "Age of Innovation",
+  openingNarration: {
+    text: "As the generations passed, the tribes grew into communities, the communities into towns, and the towns into city-states. Here, within the rising walls of their settlements, humanity discovered the power of unity not just for survival, but for creation. This was the age of innovation.",
+    voiceDirection: "Marvel and evolution",
+    soundscape: ["Bustling market", "Distant hammering", "Murmured conversations"]
+  },
+  scenes: [
+    {
+      id: 1,
+      title: "The Early City-State Awakens",
+      timeOfDay: "Morning",
+      narration: {
+        text: "Within the rising walls of their settlements, humanity discovered the power of unity not just for survival, but for creation.",
+        voiceDirection: "Tone of marvel and progress",
+        soundscape: ["City awakening", "Market preparations", "Early activity"]
+      },
+      ambiance: "Bustling city-state atmosphere"
+    },
+    {
+      id: 2,
+      title: "Tanos's Introduction",
+      dialogue: {
+        character: "Tanos",
+        lines: ["We are not just protectors of this city—we are its foundation. Our strength does not lie in our weapons alone, but in the wisdom we wield alongside them."],
+        delivery: "Firm and proud"
+      },
+      narration: {
+        text: "Tanos was a warrior-scholar, his body tempered by battle, his mind sharpened by study.",
+        voiceDirection: "Respect and gravitas",
+        soundscape: ["Echoing footsteps", "Metal clanging", "Training sounds"]
+      }
+    },
+    {
+      id: 3,
+      title: "Rassan's Introduction",
+      dialogue: {
+        character: "Rassan",
+        lines: ["If the mind is the flame, then knowledge is the fuel. Without it, we remain in darkness."],
+        delivery: "Contemplative and thoughtful"
+      },
+      narration: {
+        text: "Rassan was the keeper of knowledge, a quiet yet indomitable force.",
+        voiceDirection: "Thoughtful and calm",
+        soundscape: ["Quill scratching", "Parchment rustling", "Hushed whispers"]
+      }
+    },
+    {
+      id: 4,
+      title: "The Marketplace",
+      dialogue: {
+        characters: ["Merchant", "Inventor"],
+        exchange: [
+          {
+            speaker: "Merchant",
+            line: "Behold the finest pottery in all the lands! Crafted by hands and heart alike!",
+            delivery: "Cheerful announcement"
+          },
+          {
+            speaker: "Inventor",
+            line: "See this wheel! A simple turn, yet it can carry weight tenfold!",
+            delivery: "Excited demonstration"
+          }
+        ]
+      },
+      narration: {
+        text: "In these simple exchanges, humanity began to glimpse its potential.",
+        voiceDirection: "Lively and animated",
+        soundscape: ["Market bustle", "Trading activity", "Innovation demonstrations"]
+      }
+    },
+    {
+      id: 5,
+      title: "The Knowledge Academy",
+      dialogue: {
+        character: "Elder Scholar",
+        lines: ["Knowledge is a river. It must be shared to grow, flowing from one generation to the next, lest it stagnate and fade away."],
+        delivery: "Aged but strong"
+      },
+      narration: {
+        text: "Within the city walls, a sanctuary of knowledge was born—an academy.",
+        voiceDirection: "Reverent and respectful",
+        soundscape: ["Student murmurs", "Chalk on stone", "Quiet study"]
+      }
+    },
+    {
+      id: 6,
+      title: "City Defense",
+      dialogue: {
+        character: "Tanos",
+        lines: ["We do not fight to conquer, but to defend! Stand firm, for our people, for our future!"],
+        delivery: "Strong and rallying"
+      },
+      narration: {
+        text: "Not all who looked upon the city-state did so with admiration.",
+        voiceDirection: "Tense and dramatic",
+        soundscape: ["Battle preparations", "Warning horns", "Defensive activity"]
+      }
+    },
+    {
+      id: 7,
+      title: "Wisdom in Conflict",
+      dialogue: {
+        character: "Rassan",
+        lines: ["Remember this day, and learn from it. When the dust settles, it is not the sword that preserves a people—it is the wisdom to understand why we fought and to remember what we defend."],
+        delivery: "Calm and wise"
+      },
+      narration: {
+        text: "Within the walls, Rassan gathered his apprentices, preparing them not with weapons but with words.",
+        voiceDirection: "Reflective and calm",
+        soundscape: ["Quiet resolve", "Scroll preparation", "Hushed planning"]
+      }
+    },
+    {
+      id: 8,
+      title: "Rebuilding",
+      dialogue: {
+        character: "Tanos",
+        lines: ["Today we rebuild not just our walls, but our trust in one another. Through unity, we are unbreakable."],
+        delivery: "Pride and determination"
+      },
+      narration: {
+        text: "After the conflict, the city rose to rebuild, stronger and more united than before.",
+        voiceDirection: "Hopeful and contemplative",
+        soundscape: ["Construction sounds", "Community work", "Rebuilding activity"]
+      }
+    }
+  ],
+  closingNarration: {
+    text: "In this age of innovation, humanity discovered that true power lies not in the sword or the scroll alone, but in the harmony of both. For it is through the balance of strength and wisdom that legacies endure, passed from hand to hand, and heart to heart, through the annals of time.",
+    voiceDirection: "Reverent and hopeful",
+    soundscape: ["Peaceful city", "Evening activity", "Distant progress"]
+  },
+  productionNotes: {
+    voiceDirection: {
+      narrator: "Marvel and respect, emphasizing discovery",
+      modulation: "Balance between curiosity and reverence",
+      pacing: "Allow reflective pauses"
+    },
+    characterVoices: {
+      tanos: "Authoritative and grounded",
+      rassan: "Calm, wise, contemplative",
+      elders: "Reverent and aged"
+    },
+    soundDesign: {
+      primary: ["City ambiance", "Innovation sounds", "Construction"],
+      ambient: ["Market activity", "Academy sounds", "Battle preparations"],
+      emphasis: "Create dynamic city-state atmosphere"
+    },
+    musicCues: {
+      opening: "Progressive, building theme",
+      tension: "Strategic and measured",
+      resolution: "Harmonious achievement",
+      closing: "Legacy and wisdom theme"
+    }
+  }
+}; 10:T103e,export const episode3Notes = {
+  title: "Age of Innovation",
+  visualThemes: {
+    lighting: {
+      primary: "Golden hour enlightenment",
+      secondary: "Knowledge vs shadow contrast",
+      transitions: "Light symbolizing wisdom",
+      symbolism: "Illumination of progress"
+    },
+    environment: {
+      setting: "Ancient technological city",
+      atmosphere: "Intellectual vibrancy",
+      elements: [
+        "Grand architecture",
+        "Bustling streets",
+        "Learning spaces",
+        "Workshop sanctuaries",
+        "Knowledge repositories"
+      ],
+      soundscape: [
+        "City ambience",
+        "Workshop sounds",
+        "Scholar discussions",
+        "Invention testing",
+        "Community activity"
+      ]
+    },
+    cinematography: {
+      techniques: [
+        "Light and shadow interplay",
+        "Architectural grandeur shots",
+        "Intimate invention moments",
+        "Scholarly gatherings",
+        "Defense preparations"
+      ],
+      focusPoints: [
+        "Invention details",
+        "Character expressions",
+        "Community support",
+        "Ethical debates",
+        "Protective measures"
+      ]
+    }
+  },
+  characterDepth: {
+    tanos: {
+      physicalPresence: [
+        "Calm wisdom",
+        "Restrained strength",
+        "Protective stance",
+        "Scholarly bearing",
+        "Peaceful authority"
+      ],
+      emotionalJourney: [
+        "Ethical conviction",
+        "Strategic foresight",
+        "Community responsibility",
+        "Balanced leadership",
+        "Protective resolve"
+      ]
+    },
+    rassan: {
+      inventiveSpirit: [
+        "Passionate curiosity",
+        "Ethical innovation",
+        "Teaching moments",
+        "Collaborative creation",
+        "Visionary thinking"
+      ],
+      characterGrowth: [
+        "Technical mastery",
+        "Ethical awareness",
+        "Community focus",
+        "Protective innovation",
+        "Legacy building"
+      ]
+    }
+  },
+  culturalElements: {
+    cityLife: {
+      aspects: [
+        "Scholar gatherings",
+        "Workshop activities",
+        "Public learning",
+        "Innovation sharing",
+        "Community support"
+      ],
+      intellectual: [
+        "Ethical debates",
+        "Knowledge sharing",
+        "Invention testing",
+        "Public education",
+        "Cultural preservation"
+      ]
+    },
+    symbolism: {
+      objects: [
+        "Invention prototypes",
+        "Knowledge scrolls",
+        "Protection devices",
+        "Scholarly tools",
+        "Community symbols"
+      ],
+      spaces: [
+        "Learning halls",
+        "Workshop sanctuaries",
+        "Public forums",
+        "Innovation centers",
+        "Defense stations"
+      ]
+    }
+  },
+  thematicElements: {
+    innovation: {
+      process: [
+        "Ethical development",
+        "Community input",
+        "Testing phases",
+        "Public benefit",
+        "Legacy consideration"
+      ],
+      protection: [
+        "Nonviolent defense",
+        "Strategic planning",
+        "Community involvement",
+        "Knowledge preservation",
+        "Ethical guidelines"
+      ]
+    },
+    conflict: {
+      challenges: [
+        "Power misuse",
+        "Knowledge control",
+        "Ethical boundaries",
+        "Protection needs",
+        "Community trust"
+      ],
+      resolutions: [
+        "Ethical standards",
+        "Shared knowledge",
+        "Community defense",
+        "Peaceful solutions",
+        "United purpose"
+      ]
+    }
+  },
+  productionNotes: {
+    keyScenes: [
+      "Workshop innovation",
+      "Ethical debates",
+      "Defense preparation",
+      "Community support",
+      "Legacy establishment"
+    ],
+    emotionalBeats: [
+      "Discovery wonder",
+      "Ethical conviction",
+      "Protective resolve",
+      "Community unity",
+      "Legacy pride"
+    ],
+    visualPriorities: [
+      "Architectural beauty",
+      "Innovation process",
+      "Community bonds",
+      "Ethical choices",
+      "Peaceful strength"
+    ],
+    audioConsiderations: [
+      "City ambience",
+      "Innovation sounds",
+      "Community voices",
+      "Scholarly debates",
+      "Protective preparations"
+    ]
+  }
+}; 11:T1395,export interface Scene {
+  id: number;
+  title: string;
+  timeOfDay: string;
+  location: string;
+  characters: string[];
+  visualElements: {
+    lighting: string;
+    environment: string[];
+    keyProps: string[];
+    cameraWork: string[];
+  };
+  narration: {
+    text: string;
+    tone: string;
+    soundscape: string[];
+  };
+  action: {
+    mainAction: string;
+    characterActions: {
+      character: string;
+      action: string;
+    }[];
+    backgroundAction: string[];
+  };
+  productionNotes: {
+    visualFocus: string[];
+    audioEmphasis: string[];
+    keyMoments: string[];
+  };
+}
+
+export const episode3Scenes: Scene[] = [
+  {
+    id: 1,
+    title: "The Early City-State",
+    timeOfDay: "Dawn",
+    location: "Ancient City Overlook",
+    characters: ["Tanos", "City Guards", "Early Citizens"],
+    visualElements: {
+      lighting: "Golden morning light through city haze",
+      environment: [
+        "Rising stone walls",
+        "Bustling marketplaces",
+        "Temple spires",
+        "Winding streets"
+      ],
+      keyProps: [
+        "Guard weapons",
+        "Market stalls",
+        "Construction tools",
+        "Early writing tablets"
+      ],
+      cameraWork: [
+        "Sweeping aerial view",
+        "Slow pan across cityscape",
+        "Focus on human activity"
+      ]
+    },
+    narration: {
+      text: "Civilization rose from the land, stone by stone, and knowledge became the most precious resource.",
+      tone: "Reverent and establishing",
+      soundscape: [
+        "Early morning birds",
+        "Distant construction",
+        "Market sounds",
+        "City awakening"
+      ]
+    },
+    action: {
+      mainAction: "City awakening to daily life",
+      characterActions: [
+        {
+          character: "Tanos",
+          action: "Surveying the city from high point"
+        }
+      ],
+      backgroundAction: [
+        "Merchants setting up",
+        "Guards patrolling",
+        "Workers beginning construction"
+      ]
+    },
+    productionNotes: {
+      visualFocus: [
+        "Scale of early civilization",
+        "Human progress",
+        "Architectural achievement"
+      ],
+      audioEmphasis: [
+        "City ambiance",
+        "Construction sounds",
+        "Human activity"
+      ],
+      keyMoments: [
+        "First view of city",
+        "Scale reveal",
+        "Life and activity"
+      ]
+    }
+  },
+  {
+    id: 2,
+    title: "Rassan's Workshop",
+    timeOfDay: "Morning",
+    location: "Innovation District",
+    characters: ["Rassan", "Apprentices", "Visitors"],
+    visualElements: {
+      lighting: "Warm workshop light with dust motes",
+      environment: [
+        "Inventor's sanctuary",
+        "Tool-filled workspace",
+        "Knowledge scrolls",
+        "Innovation prototypes"
+      ],
+      keyProps: [
+        "Invention blueprints",
+        "Early machines",
+        "Writing tools",
+        "Knowledge artifacts"
+      ],
+      cameraWork: [
+        "Detail shots of inventions",
+        "Character focus on Rassan",
+        "Workshop environment"
+      ]
+    },
+    narration: {
+      text: "In this sanctuary of innovation, Rassan shaped the future with wisdom and invention.",
+      tone: "Wonder and discovery",
+      soundscape: [
+        "Tinkering sounds",
+        "Quiet discussion",
+        "Machine noises",
+        "Scratching of records"
+      ]
+    },
+    action: {
+      mainAction: "Rassan working on new invention",
+      characterActions: [
+        {
+          character: "Rassan",
+          action: "Teaching apprentices while working"
+        }
+      ],
+      backgroundAction: [
+        "Apprentices learning",
+        "Visitors observing",
+        "Tools being tested"
+      ]
+    },
+    productionNotes: {
+      visualFocus: [
+        "Innovation details",
+        "Teaching moments",
+        "Workshop atmosphere"
+      ],
+      audioEmphasis: [
+        "Innovation sounds",
+        "Learning environment",
+        "Creative atmosphere"
+      ],
+      keyMoments: [
+        "Invention reveal",
+        "Teaching sequence",
+        "Discovery moment"
+      ]
+    }
+  }
+  // Additional scenes following same structure...
+];
+
+export const visualThemes = {
+  lighting: {
+    primary: "Natural daylight progression",
+    secondary: "Indoor workshop lighting",
+    mood: "Innovation and progress"
+  },
+  colorPalette: {
+    primary: ["Stone grays", "Bronze tones", "Parchment whites"],
+    accent: ["Innovation blue", "Knowledge gold", "Progress green"]
+  },
+  cameraStyle: {
+    movement: "Steady and observant",
+    framing: "Balance of scale and detail",
+    focus: "Innovation and human progress"
+  }
+};
+
+export const productionElements = {
+  soundscape: {
+    natural: ["City sounds", "Workshop noise", "Human activity"],
+    innovation: ["Machine sounds", "Tool work", "Construction"],
+    emotional: ["Discovery", "Progress", "Achievement"]
+  },
+  visualEffects: {
+    environment: ["City dust", "Workshop sparks", "Construction"],
+    innovation: ["Machine movement", "Tool operation", "Progress visuals"]
+  }
+}; 12:T177a,export const episode3Script = {
+  title: "Age of Innovation",
+  setting: "Ancient technological city",
+  timeframe: "Era of early technological advancement",
+  
+  scenes: [
+    {
+      id: 1,
+      title: "Ancient Cityscape",
+      time: "Morning",
+      visual: "Aerial view of the bustling ancient city with temples, homes, and streets full of activity.",
+      narration: "Civilization rose from the land, stone by stone, and knowledge became the most precious resource.",
+      dialogue: [
+        {
+          character: "Tanos",
+          context: "observing city",
+          line: "Strength defends, but wisdom builds."
+        }
+      ],
+      keyElements: ["Advanced civilization", "Urban development", "Technological progress"]
+    },
+    {
+      id: 2,
+      title: "Rassan's Workshop",
+      time: "Mid-morning",
+      visual: "Rassan, the Techno-Seer, surrounded by his inventions and symbols in his workshop.",
+      narration: "Rassan, a visionary of his time, brought forth inventions that promised a new future.",
+      dialogue: [
+        {
+          character: "Rassan",
+          context: "to apprentice",
+          line: "In each tool lies a purpose greater than any one person."
+        }
+      ],
+      keyElements: ["Innovation", "Technology", "Mentorship"]
+    },
+    {
+      id: 3,
+      title: "Tanos and Rassan Meet",
+      time: "Afternoon",
+      visual: "Tanos, a revered warrior-scholar, approaches Rassan's workshop.",
+      narration: "Together, they would face a challenge beyond battles—a battle for the soul of the city.",
+      dialogue: [
+        {
+          character: "Tanos",
+          context: "concerned",
+          line: "Your tools spark awe, but power unguarded can turn on its maker."
+        },
+        {
+          character: "Rassan",
+          context: "resolute",
+          line: "Which is why we guard them with wisdom."
+        }
+      ],
+      keyElements: ["Alliance", "Wisdom", "Responsibility"]
+    },
+    {
+      id: 4,
+      title: "Threat of Misuse",
+      time: "Late Afternoon",
+      visual: "Tanos and Rassan observe an ambitious faction eyeing Rassan's technology.",
+      narration: "Eyes not filled with purpose, but with envy, watched the technology with intent to control.",
+      dialogue: [
+        {
+          character: "Faction Leader",
+          context: "scheming",
+          line: "With these tools, the city could be ours."
+        }
+      ],
+      keyElements: ["Conflict", "Power struggle", "Technological ethics"]
+    },
+    {
+      id: 5,
+      title: "Strategic Council Meeting",
+      time: "Evening",
+      visual: "Tanos and Rassan gather with the council to address the growing concern.",
+      narration: "Wisdom and strength met in council, balancing ambition with foresight.",
+      dialogue: [
+        {
+          character: "Tanos",
+          context: "addressing council",
+          line: "Technology's strength is in the hands of those who wield it with care."
+        }
+      ],
+      keyElements: ["Leadership", "Governance", "Ethics"]
+    },
+    {
+      id: 6,
+      title: "Nighttime Conspiracy",
+      time: "Night",
+      visual: "A group of conspirators gather in shadows, plotting to seize Rassan's inventions.",
+      narration: "Darkness bred schemes, and hands reached for power unearned.",
+      dialogue: [
+        {
+          character: "Conspirator",
+          context: "plotting",
+          line: "Tomorrow, the city will be ours."
+        }
+      ],
+      keyElements: ["Intrigue", "Threat", "Power"]
+    },
+    {
+      id: 7,
+      title: "Tanos and Rassan's Plan",
+      time: "Late Night",
+      visual: "Tanos and Rassan strategize, combining defensive strength with clever traps.",
+      narration: "The warrior and the seer prepared, their vision united in purpose.",
+      dialogue: [
+        {
+          character: "Rassan",
+          context: "planning",
+          line: "If strength guards the gate, wisdom will outwit the night."
+        }
+      ],
+      keyElements: ["Strategy", "Unity", "Preparation"]
+    },
+    {
+      id: 8,
+      title: "Defending the Workshop",
+      time: "Deep Night",
+      visual: "A climactic scene as Tanos defends the workshop, while Rassan activates traps.",
+      narration: "The challenge of the night became the test of an age, where strength and intellect stood as one.",
+      dialogue: [
+        {
+          character: "Tanos",
+          context: "during battle",
+          line: "For every blade, wisdom will find a shield."
+        }
+      ],
+      keyElements: ["Action", "Defense", "Innovation"]
+    },
+    {
+      id: 9,
+      title: "Faction Defeated",
+      time: "Dawn",
+      visual: "The conspirators retreat, their ambitions thwarted by Tanos and Rassan's united front.",
+      narration: "Victory was secured, not by domination, but by the power of unity.",
+      dialogue: [
+        {
+          character: "Rassan",
+          context: "after victory",
+          line: "Knowledge, in service of all, is the truest defense."
+        }
+      ],
+      keyElements: ["Victory", "Unity", "Wisdom"]
+    },
+    {
+      id: 10,
+      title: "New Code of Knowledge",
+      time: "Morning",
+      visual: "The council gathers in celebration, formalizing the shared 'Code of Knowledge'.",
+      narration: "The code was born, a legacy that would guard wisdom for generations.",
+      dialogue: [
+        {
+          character: "Elder",
+          context: "proclamation",
+          line: "Let knowledge remain free, bound by honor, and shielded by strength."
+        }
+      ],
+      keyElements: ["Legacy", "Knowledge", "Future"]
+    }
+  ],
+  
+  themes: {
+    primary: "Knowledge and responsibility",
+    secondary: ["Innovation with ethics", "Unity of strength and wisdom", "Protection of knowledge"],
+    symbols: ["Workshop", "Ancient tools", "Code of Knowledge"]
+  },
+  
+  artifacts: {
+    introduced: [
+      "Knowledge Repository",
+      "Tech Archive",
+      "Scholar's Code",
+      "Innovation Records",
+      "Ancient Tech"
+    ]
+  }
+}; a:["$","$Lc",null,{"episode":"3","title":"Age of Innovation","description":"The dawn of technological advancement","files":[{"name":"characters.ts","description":"Character definitions and development","path":"/scripts/season1/episode3/characters.ts","content":"$d"},{"name":"key_points.ts","description":"Major story points and themes","path":"/scripts/season1/episode3/key_points.ts","content":"$e"},{"name":"narration.ts","description":"Episode narration and dialogue","path":"/scripts/season1/episode3/narration.ts","content":"$f"},{"name":"notes.ts","description":"Production notes and considerations","path":"/scripts/season1/episode3/notes.ts","content":"$10"},{"name":"scenelist.ts","description":"Detailed scene breakdowns","path":"/scripts/season1/episode3/scenelist.ts","content":"$11"},{"name":"script.ts","description":"Complete episode script","path":"/scripts/season1/episode3/script.ts","content":"$12"}]}]

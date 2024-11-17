@@ -1,11 +1,1033 @@
-1:HL["/arktifact/_next/static/css/94ead989a1ff78e5.css","style",{"crossOrigin":""}]
-0:["t2xQziroVcHAAyMs2gDnt",[[["",{"children":["how-it-was-made",{"children":[["episode","1","d"],{"children":["__PAGE__?{\"episode\":\"1\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/arktifact/_next/static/css/94ead989a1ff78e5.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
-4:I[84481,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],"WalletProvider"]
-5:I[40410,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],""]
-6:I[56954,[],""]
-7:I[7264,[],""]
-9:I[55550,["252","static/chunks/252-7377c141118f3ef6.js","326","static/chunks/326-eeea6371de7392e7.js","185","static/chunks/app/how-it-was-made/%5Bepisode%5D/page-bfb65631d04e0215.js"],""]
-a:I[89817,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],"Analytics"]
-2:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Arktifact Chronicles"}],["$","meta",null,{"name":"description","content":"Journey through humanity's greatest story"}]]}],["$","body",null,{"className":"min-h-screen bg-gray-900","children":["$","$L4",null,{"children":[["$","nav",null,{"className":"fixed w-full z-50 bg-gray-900 bg-opacity-95 backdrop-blur-lg border-b border-gray-800","children":["$","div",null,{"className":"container mx-auto px-6 py-4","children":["$","div",null,{"className":"flex justify-between items-center","children":[["$","a",null,{"href":"/","className":"text-2xl font-cinzel font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600","children":"Arktifact Chronicles"}],["$","div",null,{"className":"hidden md:flex space-x-8","children":[["$","a",null,{"href":"#story","className":"hover:text-purple-400 transition-colors","children":"The Story"}],["$","a",null,{"href":"#artifacts","className":"hover:text-purple-400 transition-colors","children":"Artifacts"}],["$","a",null,{"href":"#lore","className":"hover:text-purple-400 transition-colors","children":"Lore"}],["$","a",null,{"href":"#join","className":"hover:text-purple-400 transition-colors","children":"Join"}]]}],["$","div",null,{"className":"absolute top-4 right-6","children":["$","$L5",null,{}]}]]}]}]}],["$","main",null,{"className":"pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children",["episode","1","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L8",["$","$L9",null,{"episode":"1","files":[{"name":"characters.ts","description":"Character definitions and development","path":"/scripts/season1/episode1/characters.ts"},{"name":"key_points.ts","description":"Major story points and themes","path":"/scripts/season1/episode1/key_points.ts"},{"name":"narration.ts","description":"Episode narration and dialogue","path":"/scripts/season1/episode1/narration.ts"},{"name":"notes.ts","description":"Production notes and considerations","path":"/scripts/season1/episode1/notes.ts"},{"name":"scenelist.ts","description":"Detailed scene breakdowns","path":"/scripts/season1/episode1/scenelist.ts"},{"name":"script.ts","description":"Complete episode script","path":"/scripts/season1/episode1/script.ts"}]}],null],"childPropSegment":"__PAGE__?{\"episode\":\"1\"}","styles":null}],"childPropSegment":["episode","1","d"],"styles":null}],"childPropSegment":"how-it-was-made","styles":null}]}],["$","$La",null,{}]]}]}]]}],null]
-3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","link","2",{"rel":"icon","href":"/arktifact/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
-8:null
+1:HL["/arktifact/_next/static/css/f527640f143c919f.css","style",{"crossOrigin":""}]
+0:["VX175yKnteK21glukwDtY",[[["",{"children":["how-it-was-made",{"children":[["episode","1","d"],{"children":["__PAGE__?{\"episode\":\"1\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/arktifact/_next/static/css/f527640f143c919f.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+4:I[79508,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"WalletProvider"]
+5:I[94225,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"CollectionProvider"]
+6:I[76843,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],""]
+7:I[56954,[],""]
+8:I[7264,[],""]
+b:I[89817,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"Analytics"]
+2:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Arktifact Chronicles"}],["$","meta",null,{"name":"description","content":"Journey through humanity's greatest story"}]]}],["$","body",null,{"className":"min-h-screen bg-gray-900","children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","main",null,{"className":"pt-20","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children",["episode","1","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L9","$La",null],"childPropSegment":"__PAGE__?{\"episode\":\"1\"}","styles":null}],"childPropSegment":["episode","1","d"],"styles":null}],"childPropSegment":"how-it-was-made","styles":null}]}],["$","$Lb",null,{}]]}]}]}]]}],null]
+3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"How It Was Made - Origins of Honor"}],["$","meta","3",{"name":"description","content":"The beginning of humanity's greatest journey"}],["$","link","4",{"rel":"icon","href":"/arktifact/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null
+c:I[55550,["600","static/chunks/600-c046df9c23987689.js","326","static/chunks/326-a65f9d0d64d04c9d.js","925","static/chunks/925-0b3d041078e5e133.js","185","static/chunks/app/how-it-was-made/%5Bepisode%5D/page-70a9be20c3cf6e31.js"],""]
+d:T104c,export const episode1Characters = {
+  tanek: {
+    name: "Tanek",
+    role: "Warrior Protector",
+    physicalAttributes: {
+      build: {
+        type: "Strong Frame",
+        details: [
+          "Muscular, agile physique",
+          "Built for endurance",
+          "Broad shoulders",
+          "Strong jawline",
+          "Weather-hardened body"
+        ]
+      },
+      features: {
+        face: [
+          "Hardened yet alert gaze",
+          "Eyes showing experience",
+          "Unyielding expression",
+          "Hidden gentleness in eyes",
+          "Weathered skin features"
+        ],
+        hands: [
+          "Rough, calloused palms",
+          "Strong, capable fingers",
+          "Scarred forearms",
+          "Evidence of battles",
+          "Working hands"
+        ]
+      },
+      movement: {
+        style: [
+          "Confident stance",
+          "Purposeful movements",
+          "Predatory alertness",
+          "Quick reflexes",
+          "Grounded presence"
+        ]
+      }
+    },
+    attire: {
+      clothing: [
+        "Traditional tribal gear",
+        "Durable natural materials",
+        "Leather arm guards",
+        "Minimal decoration",
+        "Earth-toned colors"
+      ],
+      accessories: [
+        "Symbolic spear",
+        "Leather bindings",
+        "Primal tattoos",
+        "Simple sandals",
+        "Warrior markings"
+      ]
+    },
+    characterTraits: {
+      personality: [
+        "Natural protector",
+        "Fierce loyalty",
+        "Quiet strength",
+        "Instinctive leader",
+        "Deep wisdom"
+      ],
+      abilities: [
+        "Combat mastery",
+        "Survival skills",
+        "Strategic thinking",
+        "Community leadership",
+        "Natural intuition"
+      ]
+    }
+  },
+  raskara: {
+    name: "Raskara",
+    role: "Proto-Inventor",
+    physicalAttributes: {
+      build: {
+        type: "Slim Frame",
+        details: [
+          "Agile physique",
+          "Nimble movement",
+          "Balanced proportions",
+          "Natural grace",
+          "Thoughtful bearing"
+        ]
+      },
+      features: {
+        face: [
+          "Inquisitive eyes",
+          "Gentle demeanor",
+          "Patient expression",
+          "Soft smile",
+          "Observant gaze"
+        ],
+        hands: [
+          "Worn but precise",
+          "Delicate movements",
+          "Tool-marked palms",
+          "Expressive gestures",
+          "Creative touch"
+        ]
+      },
+      movement: {
+        style: [
+          "Intentional movements",
+          "Careful precision",
+          "Quiet strength",
+          "Thoughtful pace",
+          "Gentle presence"
+        ]
+      }
+    },
+    attire: {
+      clothing: [
+        "Simple tribal garments",
+        "Functional design",
+        "Creative touches",
+        "Natural materials",
+        "Practical layers"
+      ],
+      accessories: [
+        "Crafting tools",
+        "Symbolic neckpiece",
+        "Natural tattoos",
+        "Beaded jewelry",
+        "Cloth wrappings"
+      ]
+    },
+    characterTraits: {
+      personality: [
+        "Curious mind",
+        "Patient teacher",
+        "Gentle spirit",
+        "Deep thinker",
+        "Natural innovator"
+      ],
+      abilities: [
+        "Tool creation",
+        "Pattern recognition",
+        "Natural problem-solving",
+        "Artistic vision",
+        "Teaching gift"
+      ]
+    }
+  },
+  visualDevelopment: {
+    environmentalContext: {
+      lighting: [
+        "Golden hour warmth",
+        "Natural daylight",
+        "Firelight glow",
+        "Dawn shadows",
+        "Dusk ambiance"
+      ],
+      settings: [
+        "Tribal gathering spaces",
+        "Natural landscapes",
+        "Tool-making areas",
+        "Hunting grounds",
+        "Community spaces"
+      ]
+    },
+    interactionDynamics: {
+      together: [
+        "Respectful distance",
+        "Shared purpose",
+        "Complementary strengths",
+        "Teaching moments",
+        "United front"
+      ],
+      contrasts: [
+        "Strength vs. Innovation",
+        "Action vs. Thought",
+        "Protection vs. Creation",
+        "Instinct vs. Planning",
+        "Traditional vs. Progressive"
+      ]
+    }
+  }
+}; e:Te7a,export const episode1KeyPoints = {
+  title: "Origins of Honor",
+  themes: [
+    "Proto-human tribes",
+    "Tanek, fierce warrior",
+    "Raskara, proto-inventor",
+    "Survival cooperation",
+    "Tribal alliances",
+    "Tool creation",
+    "Honor and respect",
+    "Resource sharing",
+    "Knowledge transfer",
+    "Symbolic storytelling",
+    "Rivalry and respect",
+    "Predator threat",
+    "Defensive strategy",
+    "Cultural lore",
+    "Legacy seeds planted",
+    "Strength in unity",
+    "Community roles",
+    "First honor codes",
+    "Collaborative survival",
+    "Foundations of lineage"
+  ],
+  setting: "Ancient tribal lands",
+  era: "Dawn of civilization",
+  mainCharacters: {
+    protagonist: {
+      name: "Tanek",
+      role: "Fierce warrior",
+      motivation: "Protection and survival",
+      strengths: [
+        "Courage in facing predators",
+        "Sacrifice for community",
+        "Strategic leadership",
+        "Openness to new ideas",
+        "Teaching hunting skills"
+      ]
+    },
+    mentor: {
+      name: "Raskara",
+      role: "Proto-inventor",
+      motivation: "Knowledge and innovation",
+      strengths: [
+        "Curiosity and innovation",
+        "Empathy for others",
+        "Patient development",
+        "Knowledge sharing",
+        "Adaptable thinking"
+      ]
+    }
+  },
+  humanSolutions: {
+    challenges: [
+      {
+        challenge: "Survival",
+        solution: "Collaborative hunting and resource sharing",
+        outcome: "Stronger community bonds"
+      },
+      {
+        challenge: "Resource scarcity",
+        solution: "Tool innovation and sustainable practices",
+        outcome: "Efficient resource management"
+      },
+      {
+        challenge: "Tribal differences",
+        solution: "Cultural respect and shared knowledge",
+        outcome: "United tribal alliance"
+      },
+      {
+        challenge: "Predator threats",
+        solution: "Strategic defense and communal protection",
+        outcome: "Enhanced survival skills"
+      },
+      {
+        challenge: "Knowledge preservation",
+        solution: "Storytelling and symbolic communication",
+        outcome: "Cultural legacy foundation"
+      }
+    ],
+    coreValues: [
+      "Trust between different groups",
+      "Respect for nature and resources",
+      "Community care over individual gain",
+      "Generosity in sharing knowledge",
+      "Hope for collective future"
+    ]
+  },
+  plotPoints: {
+    setup: "Tribal survival in harsh conditions",
+    conflict: "Predator threats and resource scarcity",
+    resolution: "Development of honor codes and tribal unity",
+    legacy: "Foundation of civilization's first principles",
+    growth: [
+      "From rivalry to respect",
+      "Individual to communal thinking",
+      "Fear to strategic planning",
+      "Isolation to collaboration",
+      "Survival to thriving"
+    ]
+  },
+  storyElements: {
+    primary: "Honor and survival",
+    secondary: "Unity and cooperation",
+    underlying: "Innovation through necessity",
+    lessons: [
+      "Strength in diversity",
+      "Power of shared knowledge",
+      "Value of cultural exchange",
+      "Importance of sustainable practices",
+      "Leadership through service"
+    ]
+  },
+  artifacts: {
+    symbolic: ["Honor Symbol", "First Spear"],
+    cultural: ["Ancient Drum", "Elder's Stone"],
+    practical: ["Tribal Tools", "Defensive Weapons"],
+    significance: {
+      "Honor Symbol": "Unity and shared values",
+      "First Spear": "Protection and provision",
+      "Ancient Drum": "Community gathering and celebration",
+      "Elder's Stone": "Wisdom preservation",
+      "Tribal Tools": "Innovation and adaptation",
+      "Defensive Weapons": "Communal protection"
+    }
+  }
+}; f:T1b1f,export const episode1Narration = {
+  title: "Origins of Honor",
+  openingNarration: {
+    text: "In the dawn of humankind, before the first sparks of civilization, survival was not just a necessity—it was a virtue. Tribes roamed the lands, moving with the rhythm of the earth, guided by the fierce strength of warriors and the quiet wisdom of visionaries. Among them, two figures would rise to shape a legacy—a legacy of courage, unity, and honor.",
+    voiceDirection: "Reverent, low tone",
+    soundscape: ["Soft wind", "Distant birds", "Natural ambiance"]
+  },
+  scenes: [
+    {
+      id: 1,
+      title: "Establishing the Proto-Human Settlement",
+      timeOfDay: "Golden Hour",
+      narration: {
+        text: "In the dawn of humankind, before the first sparks of civilization, survival was not just a necessity—it was a virtue.",
+        voiceDirection: "Reverent, establishing tone",
+        soundscape: ["Light breeze", "Distant wildlife", "Settlement sounds"]
+      },
+      ambiance: "Natural, primal atmosphere"
+    },
+    {
+      id: 2,
+      title: "Tanek's First Hunt",
+      dialogue: {
+        character: "Tanek",
+        lines: ["Steady... remember the hunt is sacred. For the tribe."],
+        delivery: "Whispering with steady intensity"
+      },
+      narration: {
+        text: "Tanek, a hunter born and protector by nature, moved silently through the grass, his spear poised, his senses sharpened.",
+        voiceDirection: "Suspenseful reverence",
+        soundscape: ["Grass rustling", "Bird calls", "Light breeze"]
+      }
+    },
+    {
+      id: 3,
+      title: "Raskara's Inventive Mind",
+      dialogue: {
+        character: "Raskara",
+        lines: ["If the spear's tip were sharper, it could strike swifter, truer... perhaps even with greater force."],
+        delivery: "Thoughtful, curious muttering"
+      },
+      narration: {
+        text: "Raskara was no mere hunter; he was a thinker, a man whose gaze saw more than what lay before him.",
+        voiceDirection: "Tone of awe and discovery",
+        soundscape: ["Fire crackling", "Stone scraping", "Soft murmurs"]
+      }
+    },
+    {
+      id: 4,
+      title: "First Meeting",
+      dialogue: {
+        characters: ["Tanek", "Raskara"],
+        exchange: [
+          {
+            speaker: "Tanek",
+            line: "Your people are not warriors, yet you move with the spirit of hunters. Why seek to join us?",
+            delivery: "Guarded respect"
+          },
+          {
+            speaker: "Raskara",
+            line: "Perhaps strength and wisdom make stronger allies than either could alone.",
+            delivery: "Calm confidence"
+          }
+        ]
+      },
+      narration: {
+        text: "When the tribes converged, so did the fates of two leaders, each with strengths that the other could never possess alone.",
+        voiceDirection: "Tone of unfolding alliance",
+        soundscape: ["Tribal murmurs", "Footsteps", "Nature sounds"]
+      }
+    },
+    {
+      id: 5,
+      title: "Communal Gathering",
+      dialogue: {
+        character: "Elder",
+        lines: ["Our strength is not in one, but in many. Tonight, let us remember this bond."],
+        delivery: "Voice full of age and wisdom"
+      },
+      narration: {
+        text: "As the sun dipped below the horizon, the tribes gathered around the fire, sharing stories and forging bonds.",
+        voiceDirection: "Warm, intimate tone",
+        soundscape: ["Fire crackling", "Night sounds", "Soft conversations"]
+      }
+    },
+    {
+      id: 6,
+      title: "Predatory Threat",
+      narration: {
+        text: "But the land was not only home to those who walked upright. There were predators who roamed the outskirts of the camp.",
+        voiceDirection: "Whispered urgency",
+        soundscape: ["Low growls", "Tense silence", "Rustling shadows"]
+      },
+      dialogue: {
+        characters: ["Tanek", "Raskara"],
+        exchange: [
+          {
+            speaker: "Tanek",
+            line: "Form a circle; protect the fire. Stay calm. Tonight, we stand as one.",
+            delivery: "Commanding, low and steady"
+          },
+          {
+            speaker: "Raskara",
+            line: "If we draw it here, we can trap it between us. It will have no escape.",
+            delivery: "Quick, insightful whisper"
+          }
+        ]
+      }
+    },
+    {
+      id: 7,
+      title: "Joint Defense",
+      dialogue: {
+        characters: ["Tanek", "Raskara"],
+        exchange: [
+          {
+            speaker: "Tanek",
+            line: "Your traps have saved many tonight, Raskara. I underestimated the power of your mind.",
+            delivery: "Grateful acknowledgment"
+          },
+          {
+            speaker: "Raskara",
+            line: "And your courage gave my plans purpose. We are stronger together than apart.",
+            delivery: "Breathless but resolute"
+          }
+        ]
+      },
+      narration: {
+        text: "In the darkness, they faced the creature—a predator powerful and relentless. But together, Tanek and Raskara were more than a match.",
+        voiceDirection: "Rising intensity",
+        soundscape: ["Quick footsteps", "Weapon sounds", "Predator growls"]
+      }
+    },
+    {
+      id: 8,
+      title: "Victory Dawn",
+      dialogue: {
+        character: "Elder",
+        lines: ["Together, we faced the night. Together, we have honored the land, and each other."],
+        delivery: "Solemn pride"
+      },
+      narration: {
+        text: "As dawn broke, the tribes gathered once more. They stood around the fallen predator, a silent testament to their unity and resilience.",
+        voiceDirection: "Calm and reflective",
+        soundscape: ["Morning birds", "Dying fire", "Gathering footsteps"]
+      }
+    }
+  ],
+  closingNarration: {
+    text: "And so, the path of honor began. What was once two became one. What was once a gathering of tribes became a community bound by courage, wisdom, and trust. The journey toward a united future had only just begun.",
+    voiceDirection: "Resonant and purposeful",
+    soundscape: ["Gentle wind", "Distant life", "Peaceful ambiance"]
+  },
+  productionNotes: {
+    voiceDirection: {
+      narrator: "Maintain steady, resonant tone; warm and authoritative",
+      modulation: "Subtle emphasis for awe, reverence, and suspense",
+      pacing: "Brief pauses between key phrases"
+    },
+    characterVoices: {
+      tanek: "Steady, grounded, strong",
+      raskara: "Thoughtful, softer, quiet conviction",
+      elders: "Wise, aged tone"
+    },
+    soundDesign: {
+      primary: ["Natural sounds", "Crackling fire", "Animal calls"],
+      ambient: ["Rustling leaves", "Wind", "Tribal activity"],
+      emphasis: "Create primal, grounded atmosphere"
+    },
+    musicCues: {
+      opening: "Subtle, primal percussion",
+      tension: "Low drones, building intensity",
+      resolution: "Warm, organic tones",
+      closing: "Triumphant yet humble theme"
+    }
+  }
+}; 10:T107f,export const episode1Notes = {
+  title: "Origins of Honor",
+  visualThemes: {
+    lighting: {
+      primary: "Golden hour warmth",
+      secondary: "Firelight intimacy",
+      transitions: "Natural day-to-night progression",
+      symbolism: "Light representing knowledge and unity"
+    },
+    environment: {
+      setting: "Vast, untamed wilderness",
+      atmosphere: "Raw natural beauty",
+      elements: [
+        "Ancient forests",
+        "Open grasslands",
+        "Natural water sources",
+        "Rocky outcrops",
+        "Tribal settlements"
+      ],
+      soundscape: [
+        "Wind through trees",
+        "Distant animal calls",
+        "Crackling fire",
+        "Tribal drums",
+        "Natural ambience"
+      ]
+    },
+    cinematography: {
+      techniques: [
+        "Close-ups for emotional depth",
+        "Wide shots for environmental scale",
+        "Intimate firelight scenes",
+        "Dynamic hunting sequences",
+        "Contemplative character moments"
+      ],
+      focusPoints: [
+        "Character expressions during revelations",
+        "Tool crafting detail shots",
+        "Tribal ritual ceremonies",
+        "Natural environment beauty",
+        "Community interactions"
+      ]
+    }
+  },
+  characterDepth: {
+    tanek: {
+      physicalPresence: [
+        "Fluid warrior movements",
+        "Respectful stance in nature",
+        "Protective positioning",
+        "Deliberate gestures",
+        "Strong but gentle demeanor"
+      ],
+      emotionalJourney: [
+        "Initial wariness",
+        "Growing trust",
+        "Leadership responsibility",
+        "Vulnerability in quiet moments",
+        "Pride in unity"
+      ]
+    },
+    raskara: {
+      inventiveSpirit: [
+        "Careful observation",
+        "Patient crafting",
+        "Quiet wonder",
+        "Teaching moments",
+        "Problem-solving focus"
+      ],
+      characterGrowth: [
+        "Initial isolation",
+        "Community integration",
+        "Knowledge sharing",
+        "Trust building",
+        "Legacy creation"
+      ]
+    }
+  },
+  culturalElements: {
+    tribalDifferences: {
+      visible: [
+        "Tool designs",
+        "Clothing styles",
+        "Settlement patterns",
+        "Ritual practices",
+        "Social structures"
+      ],
+      merging: [
+        "Shared meals",
+        "Combined ceremonies",
+        "Collaborative hunting",
+        "Knowledge exchange",
+        "United celebrations"
+      ]
+    },
+    rituals: {
+      types: [
+        "Fire ceremonies",
+        "Hunt preparations",
+        "Tool blessings",
+        "Community gatherings",
+        "Story sharing"
+      ],
+      significance: [
+        "Building trust",
+        "Honoring nature",
+        "Preserving knowledge",
+        "Strengthening bonds",
+        "Creating legacy"
+      ]
+    }
+  },
+  thematicElements: {
+    survival: {
+      challenges: [
+        "Resource scarcity",
+        "Predator threats",
+        "Weather conditions",
+        "Tribal tensions",
+        "Knowledge preservation"
+      ],
+      solutions: [
+        "Collaborative hunting",
+        "Tool innovation",
+        "Shared resources",
+        "United defense",
+        "Cultural adaptation"
+      ]
+    },
+    unity: {
+      development: [
+        "Initial meetings",
+        "Trust building",
+        "Shared challenges",
+        "Cultural exchange",
+        "Combined strength"
+      ],
+      symbols: [
+        "Honor mark",
+        "Shared fire",
+        "Communal tools",
+        "United hunts",
+        "Combined ceremonies"
+      ]
+    }
+  },
+  productionNotes: {
+    keyScenes: [
+      "First tribal meeting",
+      "Tool creation moments",
+      "Predator encounter",
+      "Fire ceremony",
+      "Honor symbol creation"
+    ],
+    emotionalBeats: [
+      "Wonder of discovery",
+      "Fear during threats",
+      "Joy in unity",
+      "Pride in achievement",
+      "Hope for future"
+    ],
+    visualPriorities: [
+      "Natural world beauty",
+      "Character expressions",
+      "Ritual details",
+      "Environmental scale",
+      "Community bonds"
+    ],
+    audioConsiderations: [
+      "Natural ambience",
+      "Tribal music",
+      "Character breaths",
+      "Tool crafting sounds",
+      "Community voices"
+    ]
+  }
+}; 11:T1394,export interface Scene {
+  id: number;
+  title: string;
+  timeOfDay: string;
+  location: string;
+  characters: string[];
+  visualElements: {
+    lighting: string;
+    environment: string[];
+    keyProps: string[];
+    cameraWork: string[];
+  };
+  narration: {
+    text: string;
+    tone: string;
+    soundscape: string[];
+  };
+  action: {
+    mainAction: string;
+    characterActions: {
+      character: string;
+      action: string;
+    }[];
+    backgroundAction: string[];
+  };
+  productionNotes: {
+    visualFocus: string[];
+    audioEmphasis: string[];
+    keyMoments: string[];
+  };
+}
+
+export const episode1Scenes: Scene[] = [
+  {
+    id: 1,
+    title: "Establishing the Proto-Human Settlement",
+    timeOfDay: "Golden Hour",
+    location: "Ancient Grasslands",
+    characters: ["Tanek's Tribe", "Raskara's Tribe"],
+    visualElements: {
+      lighting: "Warm sunset glow with long shadows",
+      environment: [
+        "Lush grasslands",
+        "Scattered trees",
+        "Tribal huts",
+        "Smoke from fires"
+      ],
+      keyProps: [
+        "Simple tribal dwellings",
+        "Community fire pits",
+        "Basic tools"
+      ],
+      cameraWork: [
+        "Aerial establishing shot",
+        "Slow pan across settlement",
+        "Focus on tribal life details"
+      ]
+    },
+    narration: {
+      text: "In a time before written history, survival and honor intertwined as one. Tribes roamed the land, guided by the strength of warriors and the wisdom of visionaries.",
+      tone: "Reverent, establishing",
+      soundscape: [
+        "Gentle wind through grass",
+        "Distant animal calls",
+        "Soft tribal activity"
+      ]
+    },
+    action: {
+      mainAction: "Daily tribal life unfolding",
+      characterActions: [
+        {
+          character: "Tribal Members",
+          action: "Going about evening routines"
+        }
+      ],
+      backgroundAction: [
+        "Children playing",
+        "Elders gathering",
+        "Hunters returning"
+      ]
+    },
+    productionNotes: {
+      visualFocus: [
+        "Emphasize scale of landscape",
+        "Show tribal community bonds",
+        "Capture primitive technology"
+      ],
+      audioEmphasis: [
+        "Natural ambiance",
+        "Distant human activity",
+        "Wind through environment"
+      ],
+      keyMoments: [
+        "First view of settlement",
+        "Community interaction",
+        "Daily life scenes"
+      ]
+    }
+  },
+  // Additional scenes following same structure...
+  {
+    id: 2,
+    title: "Tanek's First Hunt",
+    timeOfDay: "Late Afternoon",
+    location: "Tall Grasslands",
+    characters: ["Tanek", "Hunting Party"],
+    visualElements: {
+      lighting: "Filtered sunlight through grass",
+      environment: [
+        "Dense tall grass",
+        "Scattered trees",
+        "Natural hunting grounds"
+      ],
+      keyProps: [
+        "Tanek's spear",
+        "Hunting tools",
+        "Prey tracks"
+      ],
+      cameraWork: [
+        "Close tracking shots",
+        "Low angle through grass",
+        "Focus on Tanek's expressions"
+      ]
+    },
+    narration: {
+      text: "For Tanek, a fierce hunter and protector, every hunt was sacred—a moment where his strength was a gift to the community.",
+      tone: "Intense, focused",
+      soundscape: [
+        "Rustling grass",
+        "Subtle movement",
+        "Distant prey sounds"
+      ]
+    },
+    action: {
+      mainAction: "Stalking prey through grasslands",
+      characterActions: [
+        {
+          character: "Tanek",
+          action: "Moving stealthily, tracking prey"
+        }
+      ],
+      backgroundAction: [
+        "Wildlife reacting",
+        "Grass moving in wind",
+        "Distant herd movement"
+      ]
+    },
+    productionNotes: {
+      visualFocus: [
+        "Tanek's hunting prowess",
+        "Natural stealth techniques",
+        "Predatory grace"
+      ],
+      audioEmphasis: [
+        "Tension in silence",
+        "Natural movement sounds",
+        "Heartbeat moments"
+      ],
+      keyMoments: [
+        "Initial tracking",
+        "Stealth approach",
+        "Moment before strike"
+      ]
+    }
+  }
+  // Continue with remaining scenes...
+];
+
+export const visualThemes = {
+  lighting: {
+    primary: "Natural daylight progression",
+    secondary: "Fire and shadow interplay",
+    mood: "Raw, primal atmosphere"
+  },
+  colorPalette: {
+    primary: ["Earth tones", "Natural greens", "Sky blues"],
+    accent: ["Fire orange", "Stone gray", "Blood red"]
+  },
+  cameraStyle: {
+    movement: "Organic, fluid motion",
+    framing: "Wide landscapes to intimate details",
+    focus: "Character emotions and natural elements"
+  }
+};
+
+export const productionElements = {
+  soundscape: {
+    natural: ["Wind", "Animals", "Water", "Fire"],
+    human: ["Footsteps", "Tools", "Voices", "Drums"],
+    emotional: ["Heartbeats", "Breathing", "Tension"]
+  },
+  visualEffects: {
+    weather: ["Sun rays", "Dust particles", "Wind effects"],
+    environment: ["Grass movement", "Fire dynamics", "Shadow play"]
+  }
+}; 12:T189c,export const episode1Script = {
+  title: "Origins of Honor",
+  setting: "Proto-human settlement in ancient grasslands",
+  timeframe: "Dawn of civilization",
+  
+  scenes: [
+    {
+      id: 1,
+      title: "Establishing the Proto-Human Settlement",
+      time: "Golden Hour",
+      visual: "Aerial shot of lush grasslands and scattered trees. Small huts of Tanek and Raskara's tribes seen from above as shadows grow long in the late afternoon sun.",
+      narration: "In a time before written history, survival and honor intertwined as one. Tribes roamed the land, guided by the strength of warriors and the wisdom of visionaries.",
+      dialogue: [
+        {
+          character: "Tanek",
+          context: "Speaking to tribe, strong and resonant",
+          line: "The land provides for all, but only if we are willing to protect it."
+        }
+      ],
+      keyElements: ["Tribal settlement", "Natural landscape", "Community gathering"]
+    },
+    {
+      id: 2,
+      title: "Tanek's First Hunt",
+      time: "Late Afternoon",
+      visual: "Close-up of Tanek moving stealthily through tall grass, tracking a large deer.",
+      narration: "For Tanek, a fierce hunter and protector, every hunt was sacred—a moment where his strength was a gift to the community.",
+      action: "Tanek crouches, poised with his spear, eyes focused. As he moves closer, he pauses, hearing a faint sound.",
+      dialogue: [
+        {
+          character: "Tanek",
+          context: "whispering to himself",
+          line: "Steady... for the tribe."
+        }
+      ],
+      keyElements: ["Hunting ritual", "Leadership", "Community service"]
+    },
+    {
+      id: 3,
+      title: "Introducing Raskara's Inventive Mind",
+      time: "Early Evening",
+      visual: "Raskara crouching by a fire pit, experimenting with tools and symbols in the dirt.",
+      narration: "Raskara, a thinker among hunters, saw the world differently. Where others saw obstacles, he saw possibilities.",
+      dialogue: [
+        {
+          character: "Raskara",
+          context: "to self, thoughtful",
+          line: "If the spear is sharper, the hunt will yield more."
+        }
+      ],
+      action: "Raskara begins carving the first 'honor symbol' in the dirt, a simple mark denoting unity and strength.",
+      keyElements: ["Innovation", "Early symbolism", "Tool crafting"]
+    },
+    {
+      id: 4,
+      title: "Tanek and Raskara's First Meeting",
+      time: "Sunset",
+      visual: "Tanek and Raskara's tribes merge, with members exchanging looks of curiosity and caution.",
+      narration: "When the tribes united, so did the fates of two leaders with opposing strengths: strength and intellect.",
+      dialogue: [
+        {
+          character: "Tanek",
+          context: "addressing Raskara, slightly wary",
+          line: "Your people are not warriors, but you carry the spirit of hunters."
+        },
+        {
+          character: "Raskara",
+          context: "nodding",
+          line: "Perhaps strength and wisdom make stronger allies than either alone."
+        }
+      ],
+      keyElements: ["Tribal unity", "Leadership meeting", "Cultural exchange"]
+    },
+    {
+      id: 5,
+      title: "Nightfall, Communal Gathering",
+      time: "Evening",
+      visual: "The tribes gather around a fire, with shadows flickering on their faces. Elders and young hunters sit in a circle.",
+      narration: "Around the fire, stories were shared—a way to remember, a way to honor.",
+      dialogue: [
+        {
+          character: "Elder",
+          context: "addressing the gathered tribes",
+          line: "Our strength is not in one, but in many. Let us remember this bond."
+        }
+      ],
+      keyElements: ["Storytelling", "Community bonding", "Tribal traditions"]
+    },
+    {
+      id: 6,
+      title: "Predatory Threat",
+      time: "Late Night",
+      visual: "Dark silhouettes of a prowling predator stalking the outskirts of the camp.",
+      narration: "Yet the land held dangers as well, and the tribe's unity would soon be tested.",
+      action: "Tanek and Raskara rally the tribes, organizing a defense.",
+      dialogue: [
+        {
+          character: "Tanek",
+          context: "commanding",
+          line: "Form a circle; protect the fire!"
+        },
+        {
+          character: "Raskara",
+          context: "thinking quickly",
+          line: "If we funnel it here, we can trap it!"
+        }
+      ],
+      keyElements: ["Crisis moment", "Leadership test", "Strategic thinking"]
+    },
+    {
+      id: 7,
+      title: "Tanek and Raskara's Joint Defense",
+      time: "Deep Night",
+      visual: "Tanek charges with his spear, while Raskara sets up strategic traps.",
+      narration: "The bond between warrior and thinker was forged in the night, a union of action and insight.",
+      dialogue: [
+        {
+          character: "Tanek",
+          context: "grateful",
+          line: "Your traps saved many tonight."
+        },
+        {
+          character: "Raskara",
+          context: "nodding",
+          line: "Strength needs purpose. You gave it that."
+        }
+      ],
+      keyElements: ["Cooperation", "Strategy and strength", "Mutual respect"]
+    },
+    {
+      id: 8,
+      title: "Dawn, Aftermath of Victory",
+      time: "Sunrise",
+      visual: "Sunrise over the camp, and the tribes gather around the defeated predator.",
+      narration: "Together, they had faced the night. Together, they honored the land and each other.",
+      dialogue: [
+        {
+          character: "Tanek",
+          context: "to the gathered tribes",
+          line: "Today we are no longer two tribes, but one people."
+        },
+        {
+          character: "Raskara",
+          context: "raising the first honor symbol",
+          line: "Let this mark remember our unity, our strength, our honor."
+        }
+      ],
+      keyElements: ["Victory", "Unity achieved", "New beginnings"]
+    }
+  ],
+  
+  themes: {
+    primary: "Honor through unity",
+    secondary: ["Strength meets wisdom", "Innovation through necessity", "Community survival"],
+    symbols: ["First honor mark", "Shared fire", "United tribes"]
+  },
+  
+  artifacts: {
+    introduced: [
+      "Honor Symbol",
+      "First Spear",
+      "Ancient Drum",
+      "Elder's Stone",
+      "Tribal Fire Pit"
+    ]
+  }
+}; a:["$","$Lc",null,{"episode":"1","title":"Origins of Honor","description":"The beginning of humanity's greatest journey","files":[{"name":"characters.ts","description":"Character definitions and development","path":"/scripts/season1/episode1/characters.ts","content":"$d"},{"name":"key_points.ts","description":"Major story points and themes","path":"/scripts/season1/episode1/key_points.ts","content":"$e"},{"name":"narration.ts","description":"Episode narration and dialogue","path":"/scripts/season1/episode1/narration.ts","content":"$f"},{"name":"notes.ts","description":"Production notes and considerations","path":"/scripts/season1/episode1/notes.ts","content":"$10"},{"name":"scenelist.ts","description":"Detailed scene breakdowns","path":"/scripts/season1/episode1/scenelist.ts","content":"$11"},{"name":"script.ts","description":"Complete episode script","path":"/scripts/season1/episode1/script.ts","content":"$12"}]}]

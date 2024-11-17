@@ -1,11 +1,1022 @@
-1:HL["/arktifact/_next/static/css/94ead989a1ff78e5.css","style",{"crossOrigin":""}]
-0:["t2xQziroVcHAAyMs2gDnt",[[["",{"children":["how-it-was-made",{"children":[["episode","5","d"],{"children":["__PAGE__?{\"episode\":\"5\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/arktifact/_next/static/css/94ead989a1ff78e5.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
-4:I[84481,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],"WalletProvider"]
-5:I[40410,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],""]
-6:I[56954,[],""]
-7:I[7264,[],""]
-9:I[55550,["252","static/chunks/252-7377c141118f3ef6.js","326","static/chunks/326-eeea6371de7392e7.js","185","static/chunks/app/how-it-was-made/%5Bepisode%5D/page-bfb65631d04e0215.js"],""]
-a:I[89817,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],"Analytics"]
-2:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Arktifact Chronicles"}],["$","meta",null,{"name":"description","content":"Journey through humanity's greatest story"}]]}],["$","body",null,{"className":"min-h-screen bg-gray-900","children":["$","$L4",null,{"children":[["$","nav",null,{"className":"fixed w-full z-50 bg-gray-900 bg-opacity-95 backdrop-blur-lg border-b border-gray-800","children":["$","div",null,{"className":"container mx-auto px-6 py-4","children":["$","div",null,{"className":"flex justify-between items-center","children":[["$","a",null,{"href":"/","className":"text-2xl font-cinzel font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600","children":"Arktifact Chronicles"}],["$","div",null,{"className":"hidden md:flex space-x-8","children":[["$","a",null,{"href":"#story","className":"hover:text-purple-400 transition-colors","children":"The Story"}],["$","a",null,{"href":"#artifacts","className":"hover:text-purple-400 transition-colors","children":"Artifacts"}],["$","a",null,{"href":"#lore","className":"hover:text-purple-400 transition-colors","children":"Lore"}],["$","a",null,{"href":"#join","className":"hover:text-purple-400 transition-colors","children":"Join"}]]}],["$","div",null,{"className":"absolute top-4 right-6","children":["$","$L5",null,{}]}]]}]}]}],["$","main",null,{"className":"pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children",["episode","5","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L8",["$","$L9",null,{"episode":"5","files":[{"name":"characters.ts","description":"Character definitions and development","path":"/scripts/season1/episode5/characters.ts"},{"name":"key_points.ts","description":"Major story points and themes","path":"/scripts/season1/episode5/key_points.ts"},{"name":"narration.ts","description":"Episode narration and dialogue","path":"/scripts/season1/episode5/narration.ts"},{"name":"notes.ts","description":"Production notes and considerations","path":"/scripts/season1/episode5/notes.ts"},{"name":"scenelist.ts","description":"Detailed scene breakdowns","path":"/scripts/season1/episode5/scenelist.ts"},{"name":"script.ts","description":"Complete episode script","path":"/scripts/season1/episode5/script.ts"}]}],null],"childPropSegment":"__PAGE__?{\"episode\":\"5\"}","styles":null}],"childPropSegment":["episode","5","d"],"styles":null}],"childPropSegment":"how-it-was-made","styles":null}]}],["$","$La",null,{}]]}]}]]}],null]
-3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","link","2",{"rel":"icon","href":"/arktifact/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
-8:null
+1:HL["/arktifact/_next/static/css/f527640f143c919f.css","style",{"crossOrigin":""}]
+0:["VX175yKnteK21glukwDtY",[[["",{"children":["how-it-was-made",{"children":[["episode","5","d"],{"children":["__PAGE__?{\"episode\":\"5\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/arktifact/_next/static/css/f527640f143c919f.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+4:I[79508,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"WalletProvider"]
+5:I[94225,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"CollectionProvider"]
+6:I[76843,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],""]
+7:I[56954,[],""]
+8:I[7264,[],""]
+b:I[89817,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"Analytics"]
+2:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Arktifact Chronicles"}],["$","meta",null,{"name":"description","content":"Journey through humanity's greatest story"}]]}],["$","body",null,{"className":"min-h-screen bg-gray-900","children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","main",null,{"className":"pt-20","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children",["episode","5","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L9","$La",null],"childPropSegment":"__PAGE__?{\"episode\":\"5\"}","styles":null}],"childPropSegment":["episode","5","d"],"styles":null}],"childPropSegment":"how-it-was-made","styles":null}]}],["$","$Lb",null,{}]]}]}]}]]}],null]
+3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"How It Was Made - Industrial Resilience"}],["$","meta","3",{"name":"description","content":"The rise of technological prowess"}],["$","link","4",{"rel":"icon","href":"/arktifact/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null
+c:I[55550,["600","static/chunks/600-c046df9c23987689.js","326","static/chunks/326-a65f9d0d64d04c9d.js","925","static/chunks/925-0b3d041078e5e133.js","185","static/chunks/app/how-it-was-made/%5Bepisode%5D/page-70a9be20c3cf6e31.js"],""]
+d:Tfe6,export const episode5Characters = {
+  taniel: {
+    name: "Taniel",
+    role: "Industrial Protector",
+    physicalAttributes: {
+      build: {
+        type: "Solid Frame",
+        details: [
+          "Rugged build",
+          "Broad shoulders",
+          "Strong forearms",
+          "Physical strength",
+          "Grounded presence"
+        ]
+      },
+      features: {
+        face: [
+          "Weathered skin",
+          "Thick determined brows",
+          "Slight unkempt beard",
+          "Stern expression",
+          "Careful gaze"
+        ],
+        hands: [
+          "Calloused palms",
+          "Working strength",
+          "Labor marks",
+          "Protective grip",
+          "Tool-worn"
+        ]
+      },
+      movement: {
+        style: [
+          "Confident stance",
+          "Protective presence",
+          "Grounded steps",
+          "Purposeful motion",
+          "Watchful bearing"
+        ]
+      }
+    },
+    attire: {
+      clothing: [
+        "Functional work clothes",
+        "Heavy work boots",
+        "Decorative bandana",
+        "Thick leather belt",
+        "Protective gear"
+      ],
+      accessories: [
+        "Protective gloves",
+        "Practical tools",
+        "Modest bracelet",
+        "Solidarity band",
+        "Worker's tokens"
+      ]
+    },
+    characterTraits: {
+      personality: [
+        "Quiet intensity",
+        "Protective nature",
+        "Determined resolve",
+        "Worker's advocate",
+        "Natural leader"
+      ],
+      abilities: [
+        "Physical strength",
+        "Labor leadership",
+        "Worker protection",
+        "Community building",
+        "Crisis management"
+      ]
+    }
+  },
+  raiden: {
+    name: "Raiden",
+    role: "Industrial Innovator",
+    physicalAttributes: {
+      build: {
+        type: "Slim Frame",
+        details: [
+          "Agile physique",
+          "Inventive bearing",
+          "Dexterous movement",
+          "Creative energy",
+          "Thoughtful presence"
+        ]
+      },
+      features: {
+        face: [
+          "Clear bright eyes",
+          "Soft expression",
+          "Gentle smile",
+          "Calm focus",
+          "Thoughtful demeanor"
+        ],
+        hands: [
+          "Ink-stained fingers",
+          "Slim dexterity",
+          "Artisan's touch",
+          "Creative grip",
+          "Inventor's marks"
+        ]
+      },
+      movement: {
+        style: [
+          "Measured pace",
+          "Thoughtful gestures",
+          "Calm presence",
+          "Focused motion",
+          "Gentle bearing"
+        ]
+      }
+    },
+    attire: {
+      clothing: [
+        "Comfortable attire",
+        "Practical design",
+        "Detailed cuffs",
+        "Weathered shoes",
+        "Refined simplicity"
+      ],
+      accessories: [
+        "Simple tools",
+        "Leather notebook",
+        "Symbolic necklace",
+        "Small charm",
+        "Innovation tokens"
+      ]
+    },
+    characterTraits: {
+      personality: [
+        "Quiet confidence",
+        "Thoughtful nature",
+        "Creative spirit",
+        "Gentle wisdom",
+        "Innovative mind"
+      ],
+      abilities: [
+        "Technical mastery",
+        "Creative problem-solving",
+        "Ethical innovation",
+        "Teaching gift",
+        "Design insight"
+      ]
+    }
+  },
+  visualDevelopment: {
+    environmentalContext: {
+      lighting: [
+        "Industrial glow",
+        "Workshop light",
+        "Factory ambiance",
+        "Steam-lit scenes",
+        "Machine radiance"
+      ],
+      settings: [
+        "Factory floor",
+        "Innovation workshop",
+        "Worker quarters",
+        "Union halls",
+        "Industrial spaces"
+      ]
+    },
+    interactionDynamics: {
+      together: [
+        "Worker solidarity",
+        "Innovation sharing",
+        "United purpose",
+        "Ethical progress",
+        "Community support"
+      ],
+      contrasts: [
+        "Strength vs. Innovation",
+        "Labor vs. Technology",
+        "Protection vs. Progress",
+        "Physical vs. Mental",
+        "Traditional vs. Modern"
+      ]
+    }
+  }
+}; e:Tdd3,export const episode5KeyPoints = {
+  title: "Industrial Resilience",
+  themes: [
+    "Industrial revolution",
+    "Taniel, machinist-warrior",
+    "Raiden, visionary inventor",
+    "Ethical dilemmas",
+    "Resource management",
+    "Worker solidarity",
+    "Mechanized threats",
+    "Union of workers",
+    "Renewable energy",
+    "Environmental balance",
+    "Community progress",
+    "Corporate factions",
+    "Innovation guardians",
+    "Sustainable production",
+    "Resource-sharing networks",
+    "Ethical labor practices",
+    "Worker-driven tech",
+    "Strength through unity",
+    "Collective resilience",
+    "Generational stewardship"
+  ],
+  setting: "Early industrial town",
+  era: "Age of mechanization",
+  mainCharacters: {
+    protagonist: {
+      name: "Taniel",
+      role: "Machinist-Warrior",
+      motivation: "Worker protection and unity",
+      strengths: [
+        "Workers' rights advocacy",
+        "Sacrificial leadership",
+        "Nonviolent resistance",
+        "Community organization",
+        "Courage in defense"
+      ]
+    },
+    mentor: {
+      name: "Raiden",
+      role: "Visionary Inventor",
+      motivation: "Ethical innovation",
+      strengths: [
+        "Ethical commitment",
+        "Purposeful innovation",
+        "Trust in workers",
+        "Patient teaching",
+        "Integrity in creation"
+      ]
+    }
+  },
+  humanSolutions: {
+    challenges: [
+      {
+        challenge: "Corporate exploitation",
+        solution: "Worker organization and ethical standards",
+        outcome: "Empowered labor force"
+      },
+      {
+        challenge: "Industrial sabotage",
+        solution: "Collective defense and unity",
+        outcome: "Protected innovations"
+      },
+      {
+        challenge: "Profit-driven pressure",
+        solution: "Value-based resistance",
+        outcome: "Ethical industry practices"
+      },
+      {
+        challenge: "Worker safety",
+        solution: "Community-driven protection",
+        outcome: "Safe working conditions"
+      },
+      {
+        challenge: "Knowledge control",
+        solution: "Shared learning and access",
+        outcome: "Educated workforce"
+      }
+    ],
+    coreValues: [
+      "Ethical innovation",
+      "Worker dignity",
+      "Collective strength",
+      "Nonviolent resistance",
+      "Community empowerment"
+    ]
+  },
+  plotPoints: {
+    setup: "Industrial revolution begins",
+    conflict: "Corporate exploitation and sabotage",
+    resolution: "Worker unity and ethical industry",
+    legacy: "Foundation of labor rights",
+    growth: [
+      "From exploitation to empowerment",
+      "Division to unity",
+      "Fear to courage",
+      "Profit to purpose",
+      "Individual to collective"
+    ]
+  },
+  storyElements: {
+    primary: "Industrial ethics and worker unity",
+    secondary: "Sustainable progress",
+    underlying: "Community strength",
+    lessons: [
+      "Power of collective action",
+      "Importance of ethical standards",
+      "Value of worker education",
+      "Strength in unity",
+      "Legacy of labor rights"
+    ]
+  },
+  artifacts: {
+    symbolic: ["Worker's Badge", "Union Banner"],
+    cultural: ["Factory Plans", "Labor Rights Scroll"],
+    practical: ["Industrial Tools", "Safety Equipment"],
+    significance: {
+      "Worker's Badge": "Labor dignity",
+      "Union Banner": "Collective strength",
+      "Factory Plans": "Ethical industry",
+      "Labor Rights Scroll": "Worker protection",
+      "Industrial Tools": "Empowered work",
+      "Safety Equipment": "Worker wellbeing"
+    }
+  }
+}; f:T1836,export const episode5Narration = {
+  title: "Industrial Resilience",
+  openingNarration: {
+    text: "With the rise of machines and the hum of industry, humanity stood on the brink of a new age. This was no longer the age of the fields or the academy—this was an age of iron and fire, where innovation could shape cities, and the labor of hands built the future.",
+    voiceDirection: "Reverent and anticipatory",
+    soundscape: ["Steam engines", "Metal clanking", "Distant hammering"]
+  },
+  scenes: [
+    {
+      id: 1,
+      title: "The Industrial Town Awakens",
+      timeOfDay: "Dawn",
+      narration: {
+        text: "The city awakened to the rhythm of machines, each sound a heartbeat of progress.",
+        voiceDirection: "Setting the industrial tone",
+        soundscape: ["Factory whistles", "Early workers", "Machine startup"]
+      },
+      ambiance: "Industrial morning atmosphere"
+    },
+    {
+      id: 2,
+      title: "Taniel's Introduction",
+      dialogue: {
+        character: "Taniel",
+        lines: ["We are the lifeblood of this city. Every turn of the wheel, every strike of the hammer—it's not just work. It's a bond between us all."],
+        delivery: "Firm yet compassionate"
+      },
+      narration: {
+        text: "Taniel was a protector of the workers, a leader not just by strength but by loyalty.",
+        voiceDirection: "Respectful and admiring",
+        soundscape: ["Footsteps on cobblestone", "Tool clinking", "Worker murmurs"]
+      }
+    },
+    {
+      id: 3,
+      title: "Raiden's Innovation",
+      dialogue: {
+        character: "Raiden",
+        lines: ["If we adjust the engine's output... we could halve the strain on the gears. It's efficiency that keeps progress moving forward."],
+        delivery: "Thoughtful excitement"
+      },
+      narration: {
+        text: "Raiden was more than an inventor; he was a visionary.",
+        voiceDirection: "Admiring creativity",
+        soundscape: ["Blueprint scratching", "Quiet machine whirr", "Soft tinkering"]
+      }
+    },
+    {
+      id: 4,
+      title: "First Exchange",
+      dialogue: {
+        characters: ["Taniel", "Raiden"],
+        exchange: [
+          {
+            speaker: "Taniel",
+            line: "Raiden, you spend hours with these blueprints, but have you ever swung a hammer yourself? There's a difference between ideas and reality.",
+            delivery: "Curious, slight grin"
+          },
+          {
+            speaker: "Raiden",
+            line: "I leave the hammer to those who wield it best, Taniel. But ideas... they're my tools, just as much as steel is yours.",
+            delivery: "Smiling, humorous"
+          }
+        ]
+      },
+      narration: {
+        text: "Together, Taniel and Raiden formed an unlikely partnership—one rooted in both mind and muscle.",
+        voiceDirection: "Warm and respectful",
+        soundscape: ["Worker murmurs", "Blueprint rustling", "Distant machinery"]
+      }
+    },
+    {
+      id: 5,
+      title: "Workers' Assembly",
+      dialogue: {
+        character: "Taniel",
+        lines: ["We are more than cogs in a machine. We are its pulse, its strength, and we demand our due—for without us, the city falls silent."],
+        delivery: "Strong and unyielding"
+      },
+      narration: {
+        text: "In that moment, Taniel became more than a protector; he became a voice for the voiceless.",
+        voiceDirection: "Filled with tension and unity",
+        soundscape: ["Growing murmurs", "Crowd movement", "Distant factory sounds"]
+      }
+    },
+    {
+      id: 6,
+      title: "Factory Conflict",
+      dialogue: {
+        characters: ["Factory Owner", "Taniel"],
+        exchange: [
+          {
+            speaker: "Factory Owner",
+            line: "Your demands are a hindrance to progress. The city's wealth is built on industry, not on idle complaints.",
+            delivery: "Stern, dismissive"
+          },
+          {
+            speaker: "Taniel",
+            line: "We are not machines. We are human. And we will not be treated as less.",
+            delivery: "Firm, unwavering"
+          }
+        ]
+      },
+      narration: {
+        text: "Taniel's words were a stand against exploitation, a reminder that even in an age of machines, it was humanity that gave the city its life.",
+        voiceDirection: "Tense and resilient",
+        soundscape: ["Heavy footsteps", "Tense atmosphere", "Factory noise"]
+      }
+    },
+    {
+      id: 7,
+      title: "City Rebuilding",
+      dialogue: {
+        character: "Raiden",
+        lines: ["Together, we build not only machines, but the future. A future where our hands shape not only our city, but our destiny."],
+        delivery: "Proud and hopeful"
+      },
+      narration: {
+        text: "Through their shared labor, the people transformed their world—a place where progress did not come at the cost of dignity, but was built upon it.",
+        voiceDirection: "Filled with pride and unity",
+        soundscape: ["Construction sounds", "Community work", "Hopeful chatter"]
+      }
+    }
+  ],
+  closingNarration: {
+    text: "In this age of iron and fire, humanity learned that resilience was not merely endurance, but the strength to build a future worth living. It was not machines that would shape their legacy, but the unity of hearts that wielded them.",
+    voiceDirection: "Gentle and hopeful",
+    soundscape: ["Peaceful industry", "Community sounds", "Evening settling"]
+  },
+  productionNotes: {
+    voiceDirection: {
+      narrator: "Admiring and reverent tone",
+      modulation: "Shift for tension and unity",
+      pacing: "Steady, purposeful delivery"
+    },
+    characterVoices: {
+      taniel: "Grounded and protective",
+      raiden: "Quiet excitement and determination",
+      factoryOwner: "Stern and uncompromising"
+    },
+    soundDesign: {
+      primary: ["Industrial sounds", "Machine noises", "Human activity"],
+      ambient: ["Steam hisses", "Metal work", "Worker voices"],
+      emphasis: "Create industrial atmosphere"
+    },
+    musicCues: {
+      opening: "Industrial rhythm theme",
+      tension: "Machine-like tension",
+      unity: "Worker solidarity",
+      closing: "Progress and dignity"
+    }
+  }
+}; 10:Tf6f,export const episode5Notes = {
+  title: "Industrial Resilience",
+  visualThemes: {
+    lighting: {
+      primary: "Golden hour industrial",
+      secondary: "Soft union gathering light",
+      transitions: "Progress through illumination",
+      symbolism: "Light representing empowerment"
+    },
+    environment: {
+      setting: "Early industrial town",
+      atmosphere: "Rugged yet purposeful",
+      elements: [
+        "Factory architecture",
+        "Worker housing",
+        "Community spaces",
+        "Workshop sanctuaries",
+        "Union gathering halls"
+      ],
+      soundscape: [
+        "Machinery rhythms",
+        "Worker songs",
+        "Community voices",
+        "Tools at work",
+        "Peaceful protests"
+      ]
+    },
+    cinematography: {
+      techniques: [
+        "Contrasting compositions",
+        "Human-focused framing",
+        "Intimate close-ups",
+        "Industrial scale shots",
+        "Unity gatherings"
+      ],
+      focusPoints: [
+        "Worker expressions",
+        "Tool crafting details",
+        "Community moments",
+        "Peaceful resistance",
+        "Hope in unity"
+      ]
+    }
+  },
+  characterDepth: {
+    taniel: {
+      physicalPresence: [
+        "Calm strength",
+        "Protective stance",
+        "Worker's bearing",
+        "Leadership posture",
+        "Peaceful resolve"
+      ],
+      emotionalJourney: [
+        "Workers' advocate",
+        "Patient guidance",
+        "Ethical leadership",
+        "Community building",
+        "Hopeful vision"
+      ]
+    },
+    raiden: {
+      innovativeSpirit: [
+        "Careful design",
+        "Ethical innovation",
+        "Community focus",
+        "Empowering vision",
+        "Genuine concern"
+      ],
+      characterGrowth: [
+        "Moral conviction",
+        "Worker empathy",
+        "Collaborative spirit",
+        "Ethical integrity",
+        "Visionary leadership"
+      ]
+    }
+  },
+  culturalElements: {
+    industrialLife: {
+      aspects: [
+        "Worker dignity",
+        "Community bonds",
+        "Ethical labor",
+        "United purpose",
+        "Peaceful resistance"
+      ],
+      community: [
+        "Union gatherings",
+        "Shared meals",
+        "Worker education",
+        "Cultural preservation",
+        "Collective action"
+      ]
+    },
+    symbolism: {
+      objects: [
+        "Worker tools",
+        "Union banners",
+        "Community symbols",
+        "Unity tokens",
+        "Labor emblems"
+      ],
+      spaces: [
+        "Union halls",
+        "Worker homes",
+        "Community gardens",
+        "Workshop spaces",
+        "Gathering places"
+      ]
+    }
+  },
+  thematicElements: {
+    resistance: {
+      methods: [
+        "Peaceful protest",
+        "Worker education",
+        "United action",
+        "Ethical stands",
+        "Community support"
+      ],
+      values: [
+        "Worker dignity",
+        "Ethical labor",
+        "Community strength",
+        "United purpose",
+        "Peaceful change"
+      ]
+    },
+    unity: {
+      expressions: [
+        "Worker solidarity",
+        "Community support",
+        "Shared purpose",
+        "Cultural bonds",
+        "United vision"
+      ],
+      symbols: [
+        "Union badges",
+        "Worker tools",
+        "Unity banners",
+        "Community marks",
+        "Labor emblems"
+      ]
+    }
+  },
+  productionNotes: {
+    keyScenes: [
+      "Tool creation",
+      "Worker gatherings",
+      "Peaceful resistance",
+      "Community unity",
+      "Hope emergence"
+    ],
+    emotionalBeats: [
+      "Worker dignity",
+      "Community strength",
+      "Ethical stands",
+      "United purpose",
+      "Future hope"
+    ],
+    visualPriorities: [
+      "Human focus",
+      "Industrial scale",
+      "Community bonds",
+      "Peaceful power",
+      "Worker dignity"
+    ],
+    audioConsiderations: [
+      "Machine rhythms",
+      "Worker voices",
+      "Unity songs",
+      "Tool sounds",
+      "Community spirit"
+    ]
+  }
+}; 11:T134e,export interface Scene {
+  id: number;
+  title: string;
+  timeOfDay: string;
+  location: string;
+  characters: string[];
+  visualElements: {
+    lighting: string;
+    environment: string[];
+    keyProps: string[];
+    cameraWork: string[];
+  };
+  narration: {
+    text: string;
+    tone: string;
+    soundscape: string[];
+  };
+  action: {
+    mainAction: string;
+    characterActions: {
+      character: string;
+      action: string;
+    }[];
+    backgroundAction: string[];
+  };
+  productionNotes: {
+    visualFocus: string[];
+    audioEmphasis: string[];
+    keyMoments: string[];
+  };
+}
+
+export const episode5Scenes: Scene[] = [
+  {
+    id: 1,
+    title: "Early Industrial Town",
+    timeOfDay: "Dawn",
+    location: "Industrial Settlement",
+    characters: ["Taniel", "Workers", "Townspeople"],
+    visualElements: {
+      lighting: "Early morning industrial haze",
+      environment: [
+        "Brick factories",
+        "Worker housing",
+        "Smoke stacks",
+        "Dirt roads",
+        "Early machinery"
+      ],
+      keyProps: [
+        "Factory tools",
+        "Steam engines",
+        "Worker clothes",
+        "Industrial equipment"
+      ],
+      cameraWork: [
+        "Establishing wide shot",
+        "Detail on machinery",
+        "Worker activity focus"
+      ]
+    },
+    narration: {
+      text: "The age of industry brought new power, yet it demanded strength of heart to wield it wisely.",
+      tone: "Reverent and establishing",
+      soundscape: [
+        "Factory whistles",
+        "Steam engines",
+        "Early machinery",
+        "Worker footsteps"
+      ]
+    },
+    action: {
+      mainAction: "Town awakening to industrial life",
+      characterActions: [
+        {
+          character: "Taniel",
+          action: "Walking through town, observing workers"
+        }
+      ],
+      backgroundAction: [
+        "Workers starting shifts",
+        "Machines powering up",
+        "Steam rising",
+        "Early activity"
+      ]
+    },
+    productionNotes: {
+      visualFocus: [
+        "Industrial scale",
+        "Human element",
+        "Machine integration"
+      ],
+      audioEmphasis: [
+        "Machine sounds",
+        "Worker activity",
+        "Industrial ambiance"
+      ],
+      keyMoments: [
+        "Town reveal",
+        "Worker life",
+        "Industrial progress"
+      ]
+    }
+  },
+  {
+    id: 2,
+    title: "Raiden's Workshop",
+    timeOfDay: "Morning",
+    location: "Innovation Workshop",
+    characters: ["Raiden", "Apprentices"],
+    visualElements: {
+      lighting: "Workshop light through windows",
+      environment: [
+        "Inventor's sanctuary",
+        "Prototype machines",
+        "Technical drawings",
+        "Innovation tools"
+      ],
+      keyProps: [
+        "Renewable prototypes",
+        "Technical papers",
+        "Innovation tools",
+        "Early designs"
+      ],
+      cameraWork: [
+        "Detail shots of inventions",
+        "Character focus",
+        "Workshop environment"
+      ]
+    },
+    narration: {
+      text: "Raiden's vision saw beyond the machines—a future where progress and nature coexisted.",
+      tone: "Hopeful and innovative",
+      soundscape: [
+        "Quiet tinkering",
+        "Steam releases",
+        "Tool sounds",
+        "Invention testing"
+      ]
+    },
+    action: {
+      mainAction: "Raiden working on sustainable invention",
+      characterActions: [
+        {
+          character: "Raiden",
+          action: "Crafting and innovating"
+        }
+      ],
+      backgroundAction: [
+        "Apprentices learning",
+        "Machines testing",
+        "Workshop activity"
+      ]
+    },
+    productionNotes: {
+      visualFocus: [
+        "Innovation details",
+        "Sustainable design",
+        "Workshop atmosphere"
+      ],
+      audioEmphasis: [
+        "Invention sounds",
+        "Creative atmosphere",
+        "Technical work"
+      ],
+      keyMoments: [
+        "Innovation reveal",
+        "Sustainable vision",
+        "Technical progress"
+      ]
+    }
+  }
+  // Additional scenes following same structure...
+];
+
+export const visualThemes = {
+  lighting: {
+    primary: "Industrial atmosphere",
+    secondary: "Steam and smoke effects",
+    mood: "Progress and resilience"
+  },
+  colorPalette: {
+    primary: ["Factory grays", "Steam whites", "Iron browns"],
+    accent: ["Machine brass", "Coal black", "Steam white"]
+  },
+  cameraStyle: {
+    movement: "Steady industrial rhythm",
+    framing: "Balance of machines and humanity",
+    focus: "Progress with purpose"
+  }
+};
+
+export const productionElements = {
+  soundscape: {
+    natural: ["Steam releases", "Machine sounds", "Worker activity"],
+    industrial: ["Factory whistles", "Metal work", "Engine sounds"],
+    emotional: ["Unity", "Progress", "Resilience"]
+  },
+  visualEffects: {
+    environment: ["Steam effects", "Machine operation", "Industrial atmosphere"],
+    progress: ["Innovation visuals", "Technical details", "Worker unity"]
+  }
+}; 12:T1745,export const episode5Script = {
+  title: "Industrial Resilience",
+  setting: "Early industrial town",
+  timeframe: "Dawn of industrialization",
+  
+  scenes: [
+    {
+      id: 1,
+      title: "Early Industrial Town",
+      time: "Morning",
+      visual: "An early industrial town with brick buildings, smokestacks, and dirt roads lined with worker homes.",
+      narration: "The age of industry brought new power, yet it demanded strength of heart to wield it wisely.",
+      dialogue: [
+        {
+          character: "Taniel",
+          context: "walking through the town",
+          line: "Progress must lift us all, or it lifts no one."
+        }
+      ],
+      keyElements: ["Industrial setting", "Social change", "Worker community"]
+    },
+    {
+      id: 2,
+      title: "Raiden's Workshop",
+      time: "Mid-morning",
+      visual: "Raiden, an inventive technologist, working on an early renewable energy prototype in his cluttered workshop.",
+      narration: "Raiden's vision saw beyond the machines—a future where progress and nature coexisted.",
+      dialogue: [
+        {
+          character: "Raiden",
+          context: "working on invention",
+          line: "Energy taken from the earth should sustain, not consume."
+        }
+      ],
+      keyElements: ["Innovation", "Sustainability", "Vision"]
+    },
+    {
+      id: 3,
+      title: "Taniel and Raiden's Partnership",
+      time: "Afternoon",
+      visual: "Taniel approaches Raiden's workshop, eager to discuss sustainable industry practices.",
+      narration: "The warrior and the inventor shared a goal: progress bound by respect.",
+      dialogue: [
+        {
+          character: "Taniel",
+          context: "discussing future",
+          line: "Your machines can reshape this town, but we must wield them with care."
+        }
+      ],
+      keyElements: ["Partnership", "Vision", "Responsibility"]
+    },
+    {
+      id: 4,
+      title: "Corporate Interest",
+      time: "Late Afternoon",
+      visual: "A group of corporate representatives arrive, interested in Raiden's inventions for profit.",
+      narration: "But power unchecked sought only gain, risking the balance Raiden envisioned.",
+      dialogue: [
+        {
+          character: "Corporate Leader",
+          context: "proposing deal",
+          line: "With your machines, we could double production, triple profits."
+        }
+      ],
+      keyElements: ["Conflict", "Greed", "Ethics"]
+    },
+    {
+      id: 5,
+      title: "Raiden's Ethical Stand",
+      time: "Evening",
+      visual: "Raiden rejects the corporate proposal, refusing to compromise his ideals for profit.",
+      narration: "Raiden's stand was clear—progress meant nothing without integrity.",
+      dialogue: [
+        {
+          character: "Raiden",
+          context: "resolute",
+          line: "My work is for people, not profit."
+        }
+      ],
+      keyElements: ["Ethics", "Integrity", "Principles"]
+    },
+    {
+      id: 6,
+      title: "Corporate Sabotage",
+      time: "Night",
+      visual: "Under the cover of darkness, agents sabotage Raiden's workshop, leaving machinery damaged.",
+      narration: "In shadows, greed plotted to control what it could not earn.",
+      dialogue: [
+        {
+          character: "Agent",
+          context: "sneaking",
+          line: "If he won't sell, we'll take it ourselves."
+        }
+      ],
+      keyElements: ["Conflict", "Sabotage", "Greed"]
+    },
+    {
+      id: 7,
+      title: "Taniel's Call to Action",
+      time: "Dawn",
+      visual: "Taniel rallies workers, determined to protect Raiden's workshop and the town's future.",
+      narration: "The heart of a warrior led the people to protect what mattered most.",
+      dialogue: [
+        {
+          character: "Taniel",
+          context: "rallying workers",
+          line: "We stand for more than iron and coal. We stand for each other."
+        }
+      ],
+      keyElements: ["Leadership", "Unity", "Purpose"]
+    },
+    {
+      id: 8,
+      title: "Defending the Workshop",
+      time: "Morning",
+      visual: "Workers and townsfolk join forces, creating makeshift barricades around Raiden's workshop.",
+      narration: "Together, they transformed strength into resilience, defending the vision they shared.",
+      dialogue: [
+        {
+          character: "Raiden",
+          context: "to the crowd",
+          line: "Your hands are what keep these machines alive."
+        }
+      ],
+      keyElements: ["Unity", "Defense", "Community"]
+    },
+    {
+      id: 9,
+      title: "Corporate Agents Driven Out",
+      time: "Mid-morning",
+      visual: "The corporate agents retreat, defeated by the workers' unity and determination.",
+      narration: "Unity became their power, and in their strength, the machines served all.",
+      dialogue: [
+        {
+          character: "Corporate Leader",
+          context: "retreating",
+          line: "This town isn't worth the cost."
+        }
+      ],
+      keyElements: ["Victory", "Unity", "Power"]
+    },
+    {
+      id: 10,
+      title: "Establishing the Union",
+      time: "Afternoon",
+      visual: "Workers gather in Raiden's workshop, formalizing a workers' union to ensure ethical practices.",
+      narration: "From their stand, a new bond was formed—a pledge to balance progress with purpose.",
+      dialogue: [
+        {
+          character: "Worker Leader",
+          context: "ceremonial",
+          line: "Let this union be a reminder: strength lies in unity."
+        }
+      ],
+      keyElements: ["Legacy", "Organization", "Future"]
+    }
+  ],
+  
+  themes: {
+    primary: "Industrial ethics and worker unity",
+    secondary: ["Sustainable progress", "Community strength", "Ethical innovation"],
+    symbols: ["Workshop", "Union banner", "Sustainable machines"]
+  },
+  
+  artifacts: {
+    introduced: [
+      "Worker's Badge",
+      "Union Banner",
+      "Factory Plans",
+      "Labor Rights Scroll",
+      "Industrial Tools"
+    ]
+  }
+}; a:["$","$Lc",null,{"episode":"5","title":"Industrial Resilience","description":"The rise of technological prowess","files":[{"name":"characters.ts","description":"Character definitions and development","path":"/scripts/season1/episode5/characters.ts","content":"$d"},{"name":"key_points.ts","description":"Major story points and themes","path":"/scripts/season1/episode5/key_points.ts","content":"$e"},{"name":"narration.ts","description":"Episode narration and dialogue","path":"/scripts/season1/episode5/narration.ts","content":"$f"},{"name":"notes.ts","description":"Production notes and considerations","path":"/scripts/season1/episode5/notes.ts","content":"$10"},{"name":"scenelist.ts","description":"Detailed scene breakdowns","path":"/scripts/season1/episode5/scenelist.ts","content":"$11"},{"name":"script.ts","description":"Complete episode script","path":"/scripts/season1/episode5/script.ts","content":"$12"}]}]

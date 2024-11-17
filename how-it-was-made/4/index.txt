@@ -1,11 +1,1038 @@
-1:HL["/arktifact/_next/static/css/94ead989a1ff78e5.css","style",{"crossOrigin":""}]
-0:["t2xQziroVcHAAyMs2gDnt",[[["",{"children":["how-it-was-made",{"children":[["episode","4","d"],{"children":["__PAGE__?{\"episode\":\"4\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/arktifact/_next/static/css/94ead989a1ff78e5.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
-4:I[84481,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],"WalletProvider"]
-5:I[40410,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],""]
-6:I[56954,[],""]
-7:I[7264,[],""]
-9:I[55550,["252","static/chunks/252-7377c141118f3ef6.js","326","static/chunks/326-eeea6371de7392e7.js","185","static/chunks/app/how-it-was-made/%5Bepisode%5D/page-bfb65631d04e0215.js"],""]
-a:I[89817,["252","static/chunks/252-7377c141118f3ef6.js","691","static/chunks/691-0b835ed59939e7f6.js","690","static/chunks/app/layout-239d70a89ba962c3.js"],"Analytics"]
-2:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Arktifact Chronicles"}],["$","meta",null,{"name":"description","content":"Journey through humanity's greatest story"}]]}],["$","body",null,{"className":"min-h-screen bg-gray-900","children":["$","$L4",null,{"children":[["$","nav",null,{"className":"fixed w-full z-50 bg-gray-900 bg-opacity-95 backdrop-blur-lg border-b border-gray-800","children":["$","div",null,{"className":"container mx-auto px-6 py-4","children":["$","div",null,{"className":"flex justify-between items-center","children":[["$","a",null,{"href":"/","className":"text-2xl font-cinzel font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600","children":"Arktifact Chronicles"}],["$","div",null,{"className":"hidden md:flex space-x-8","children":[["$","a",null,{"href":"#story","className":"hover:text-purple-400 transition-colors","children":"The Story"}],["$","a",null,{"href":"#artifacts","className":"hover:text-purple-400 transition-colors","children":"Artifacts"}],["$","a",null,{"href":"#lore","className":"hover:text-purple-400 transition-colors","children":"Lore"}],["$","a",null,{"href":"#join","className":"hover:text-purple-400 transition-colors","children":"Join"}]]}],["$","div",null,{"className":"absolute top-4 right-6","children":["$","$L5",null,{}]}]]}]}]}],["$","main",null,{"className":"pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children",["episode","4","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L8",["$","$L9",null,{"episode":"4","files":[{"name":"characters.ts","description":"Character definitions and development","path":"/scripts/season1/episode4/characters.ts"},{"name":"key_points.ts","description":"Major story points and themes","path":"/scripts/season1/episode4/key_points.ts"},{"name":"narration.ts","description":"Episode narration and dialogue","path":"/scripts/season1/episode4/narration.ts"},{"name":"notes.ts","description":"Production notes and considerations","path":"/scripts/season1/episode4/notes.ts"},{"name":"scenelist.ts","description":"Detailed scene breakdowns","path":"/scripts/season1/episode4/scenelist.ts"},{"name":"script.ts","description":"Complete episode script","path":"/scripts/season1/episode4/script.ts"}]}],null],"childPropSegment":"__PAGE__?{\"episode\":\"4\"}","styles":null}],"childPropSegment":["episode","4","d"],"styles":null}],"childPropSegment":"how-it-was-made","styles":null}]}],["$","$La",null,{}]]}]}]]}],null]
-3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","link","2",{"rel":"icon","href":"/arktifact/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
-8:null
+1:HL["/arktifact/_next/static/css/f527640f143c919f.css","style",{"crossOrigin":""}]
+0:["VX175yKnteK21glukwDtY",[[["",{"children":["how-it-was-made",{"children":[["episode","4","d"],{"children":["__PAGE__?{\"episode\":\"4\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/arktifact/_next/static/css/f527640f143c919f.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+4:I[79508,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"WalletProvider"]
+5:I[94225,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"CollectionProvider"]
+6:I[76843,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],""]
+7:I[56954,[],""]
+8:I[7264,[],""]
+b:I[89817,["690","static/chunks/app/layout-44b333aca3ec70a6.js"],"Analytics"]
+2:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Arktifact Chronicles"}],["$","meta",null,{"name":"description","content":"Journey through humanity's greatest story"}]]}],["$","body",null,{"className":"min-h-screen bg-gray-900","children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","main",null,{"className":"pt-20","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"initialChildNode":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","how-it-was-made","children",["episode","4","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","initialChildNode":["$L9","$La",null],"childPropSegment":"__PAGE__?{\"episode\":\"4\"}","styles":null}],"childPropSegment":["episode","4","d"],"styles":null}],"childPropSegment":"how-it-was-made","styles":null}]}],["$","$Lb",null,{}]]}]}]}]]}],null]
+3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"How It Was Made - Guardians of Knowledge"}],["$","meta","3",{"name":"description","content":"Preserving wisdom through the ages"}],["$","link","4",{"rel":"icon","href":"/arktifact/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null
+c:I[55550,["600","static/chunks/600-c046df9c23987689.js","326","static/chunks/326-a65f9d0d64d04c9d.js","925","static/chunks/925-0b3d041078e5e133.js","185","static/chunks/app/how-it-was-made/%5Bepisode%5D/page-70a9be20c3cf6e31.js"],""]
+d:T1007,export const episode4Characters = {
+  tana: {
+    name: "Tana",
+    role: "Defender of Knowledge",
+    physicalAttributes: {
+      build: {
+        type: "Strong Frame",
+        details: [
+          "Wide shoulders",
+          "Poised stance",
+          "Commanding presence",
+          "Powerful forearms",
+          "Grounded bearing"
+        ]
+      },
+      features: {
+        face: [
+          "Steady gaze",
+          "Broad jawline",
+          "Serene expression",
+          "Dark, weathered skin",
+          "Softened eyes"
+        ],
+        hands: [
+          "Worn gloves",
+          "Strong grip",
+          "Protective touch",
+          "Battle-ready",
+          "Skilled movements"
+        ]
+      },
+      movement: {
+        style: [
+          "Heavy footfalls",
+          "Grounded presence",
+          "Quiet command",
+          "Thoughtful silence",
+          "Disciplined bearing"
+        ]
+      }
+    },
+    attire: {
+      clothing: [
+        "Layered, functional robes",
+        "Protective armor",
+        "Cultural cloak",
+        "Short, practical hair",
+        "Traditional garments"
+      ],
+      accessories: [
+        "Ornate arm bracers",
+        "Detailed cloak pins",
+        "Symbolic emblem",
+        "Simple necklace",
+        "Minimalist weaponry"
+      ]
+    },
+    characterTraits: {
+      personality: [
+        "Quietly commanding",
+        "Thoughtful observer",
+        "Protective nature",
+        "Disciplined mind",
+        "Gentle authority"
+      ],
+      abilities: [
+        "Defense mastery",
+        "Knowledge protection",
+        "Strategic thinking",
+        "Cultural preservation",
+        "Wisdom sharing"
+      ]
+    }
+  },
+  rasien: {
+    name: "Rasien",
+    role: "Keeper of Knowledge",
+    physicalAttributes: {
+      build: {
+        type: "Lean Frame",
+        details: [
+          "Agile physique",
+          "Elegant bearing",
+          "Graceful movement",
+          "Scholarly posture",
+          "Refined presence"
+        ]
+      },
+      features: {
+        face: [
+          "Curious eyes",
+          "Focused brow",
+          "Slight beard",
+          "Gentle smile",
+          "Contemplative gaze"
+        ],
+        hands: [
+          "Slender fingers",
+          "Ink-stained palms",
+          "Delicate movements",
+          "Precise gestures",
+          "Scholar's touch"
+        ]
+      },
+      movement: {
+        style: [
+          "Calm gestures",
+          "Graceful steps",
+          "Thoughtful pace",
+          "Elegant bearing",
+          "Peaceful presence"
+        ]
+      }
+    },
+    attire: {
+      clothing: [
+        "Elegant robes",
+        "Layered garments",
+        "Wrapped footwear",
+        "Scholarly attire",
+        "Traditional dress"
+      ],
+      accessories: [
+        "Intricate arm bands",
+        "Simple staff",
+        "Detailed neckpiece",
+        "Symbolic cloak pin",
+        "Subtle adornments"
+      ]
+    },
+    characterTraits: {
+      personality: [
+        "Quiet confidence",
+        "Deep contemplation",
+        "Gentle authority",
+        "Patient teacher",
+        "Peaceful nature"
+      ],
+      abilities: [
+        "Knowledge preservation",
+        "Ancient wisdom",
+        "Teaching gift",
+        "Cultural insight",
+        "Historical understanding"
+      ]
+    }
+  },
+  visualDevelopment: {
+    environmentalContext: {
+      lighting: [
+        "Library ambiance",
+        "Archive glow",
+        "Knowledge halls",
+        "Sacred spaces",
+        "Learning chambers"
+      ],
+      settings: [
+        "Ancient academy",
+        "Knowledge repositories",
+        "Sacred archives",
+        "Study halls",
+        "Protected sanctuaries"
+      ]
+    },
+    interactionDynamics: {
+      together: [
+        "Protective alliance",
+        "Knowledge sharing",
+        "United purpose",
+        "Cultural preservation",
+        "Wisdom guardianship"
+      ],
+      contrasts: [
+        "Strength vs. Wisdom",
+        "Protection vs. Preservation",
+        "Action vs. Thought",
+        "Guardian vs. Scholar",
+        "Defense vs. Learning"
+      ]
+    }
+  }
+}; e:Tde2,export const episode4KeyPoints = {
+  title: "Guardians of Knowledge",
+  themes: [
+    "Knowledge academies",
+    "Tana, defender",
+    "Rasien, tech-mage",
+    "Archive of inventions",
+    "Guardianship rituals",
+    "Intellectual treasures",
+    "Cultural preservation",
+    "Protection protocols",
+    "Library siege",
+    "Honor in intellect",
+    "Technological mystery",
+    "Ethical council codes",
+    "Knowledge as currency",
+    "Warrior code evolves",
+    "Code of Knowledge",
+    "Societal unity",
+    "Alliance building",
+    "Generational wisdom",
+    "Shared responsibility",
+    "Seeds of hero lineage"
+  ],
+  setting: "Ancient knowledge academy",
+  era: "Age of wisdom and preservation",
+  mainCharacters: {
+    protagonist: {
+      name: "Tana",
+      role: "Defender of Knowledge",
+      motivation: "Protection of wisdom",
+      strengths: [
+        "Defensive wisdom",
+        "Nonviolent strategy",
+        "Calm leadership",
+        "Trust in community",
+        "Strength in purpose"
+      ]
+    },
+    mentor: {
+      name: "Rasien",
+      role: "Tech-Mage",
+      motivation: "Preservation of knowledge",
+      strengths: [
+        "Dedication to learning",
+        "Humble service",
+        "Ethical scholarship",
+        "Adaptive thinking",
+        "Collaborative spirit"
+      ]
+    }
+  },
+  humanSolutions: {
+    challenges: [
+      {
+        challenge: "Knowledge protection",
+        solution: "Nonviolent defense strategies",
+        outcome: "Preserved wisdom without bloodshed"
+      },
+      {
+        challenge: "Access control",
+        solution: "Transparent but protected archives",
+        outcome: "Balance of openness and security"
+      },
+      {
+        challenge: "Siege threat",
+        solution: "United community defense",
+        outcome: "Strengthened academy bonds"
+      },
+      {
+        challenge: "Knowledge misuse",
+        solution: "Ethical guidelines and oversight",
+        outcome: "Protected intellectual legacy"
+      },
+      {
+        challenge: "Leadership pressure",
+        solution: "Collaborative decision-making",
+        outcome: "Resilient governance structure"
+      }
+    ],
+    coreValues: [
+      "Dedication to learning",
+      "Nonviolent protection",
+      "Community trust",
+      "Intergenerational unity",
+      "Ethical scholarship"
+    ]
+  },
+  plotPoints: {
+    setup: "Establishment of knowledge academies",
+    conflict: "Threats to accumulated wisdom",
+    resolution: "Protection of intellectual heritage",
+    legacy: "Foundation of educational traditions",
+    growth: [
+      "From isolation to community",
+      "Force to wisdom",
+      "Individual to collective",
+      "Fear to purpose",
+      "Knowledge to legacy"
+    ]
+  },
+  storyElements: {
+    primary: "Knowledge preservation",
+    secondary: "Cultural protection",
+    underlying: "Balance of wisdom and strength",
+    lessons: [
+      "Power of nonviolent defense",
+      "Strength of united purpose",
+      "Value of ethical guidelines",
+      "Importance of open access",
+      "Legacy of shared wisdom"
+    ]
+  },
+  artifacts: {
+    symbolic: ["Archive Seal", "Guardian's Badge"],
+    cultural: ["Ancient Texts", "Tech Relics"],
+    practical: ["Defense Systems", "Knowledge Storage"],
+    significance: {
+      "Archive Seal": "Protected wisdom",
+      "Guardian's Badge": "Dedicated service",
+      "Ancient Texts": "Preserved knowledge",
+      "Tech Relics": "Historical innovation",
+      "Defense Systems": "Peaceful protection",
+      "Knowledge Storage": "Shared learning"
+    }
+  }
+}; f:T198a,export const episode4Narration = {
+  title: "Guardians of Knowledge",
+  openingNarration: {
+    text: "As the city-state grew, so did its thirst for knowledge. This was no longer an age defined by survival or conquest but by the pursuit of understanding. In this new era, those who once wielded weapons now wielded wisdom, becoming guardians of knowledge.",
+    voiceDirection: "Reverent and wondering",
+    soundscape: ["Soft footsteps", "Pages turning", "Student murmurs"]
+  },
+  scenes: [
+    {
+      id: 1,
+      title: "The Early Knowledge Academy",
+      timeOfDay: "Golden Hour",
+      narration: {
+        text: "Within the academy's halls, a new kind of strength was taking root—the power of understanding.",
+        voiceDirection: "Reverent establishment",
+        soundscape: ["Stone echoes", "Quiet study", "Gentle breeze"]
+      },
+      ambiance: "Sacred learning atmosphere"
+    },
+    {
+      id: 2,
+      title: "Tana's Introduction",
+      dialogue: {
+        character: "Tana",
+        lines: ["Our minds are our strongest shield. What we learn, we protect—not only for ourselves but for those who will come after us."],
+        delivery: "Firm yet gentle"
+      },
+      narration: {
+        text: "Tana was a warrior in spirit, yet she had traded her blade for a vow—a vow to protect knowledge.",
+        voiceDirection: "Admiring and respectful",
+        soundscape: ["Armor clinking", "Student chatter", "Soft breeze"]
+      }
+    },
+    {
+      id: 3,
+      title: "Raya's Discovery",
+      dialogue: {
+        character: "Raya",
+        lines: ["If the stars move in cycles, perhaps they are more than distant lights. Perhaps they tell us of time itself."],
+        delivery: "Whispered excitement"
+      },
+      narration: {
+        text: "Raya was more than a scribe—she was a seeker of truth.",
+        voiceDirection: "Filled with discovery",
+        soundscape: ["Quill scratching", "Soft murmurs", "Bird calls"]
+      }
+    },
+    {
+      id: 4,
+      title: "The Great Hall",
+      dialogue: {
+        character: "Elder Scholar",
+        lines: ["Knowledge is not a stone to be guarded in silence, but a flame that must be kindled in each heart. Share it freely, and it will burn brighter with every hand that holds it."],
+        delivery: "Calm and wise"
+      },
+      narration: {
+        text: "Within the academy's great hall, scholars gathered not only to learn but to reflect.",
+        voiceDirection: "Reverent and contemplative",
+        soundscape: ["Hushed whispers", "Echoing footsteps", "Staff tapping"]
+      }
+    },
+    {
+      id: 5,
+      title: "Partnership",
+      dialogue: {
+        characters: ["Tana", "Raya"],
+        exchange: [
+          {
+            speaker: "Tana",
+            line: "Raya, you speak of the stars as if they are close enough to touch. But what can they truly teach us?",
+            delivery: "Respectful curiosity"
+          },
+          {
+            speaker: "Raya",
+            line: "The stars are not just lights in the sky, Tana. They are a map—a guide to where we come from and where we may go.",
+            delivery: "Knowing wonder"
+          }
+        ]
+      },
+      narration: {
+        text: "Together, Tana and Raya were like two sides of the same coin—one grounded in the present, the other drawn to the mysteries beyond.",
+        voiceDirection: "Warm and appreciative",
+        soundscape: ["Quiet footsteps", "Scroll rustling", "Ambient chatter"]
+      }
+    },
+    {
+      id: 6,
+      title: "Knowledge Threatened",
+      dialogue: {
+        characters: ["City Official", "Tana"],
+        exchange: [
+          {
+            speaker: "City Official",
+            line: "This pursuit of knowledge—of questions with no answers—is a distraction from duty. It breeds doubt where there should be loyalty.",
+            delivery: "Suspicious antagonism"
+          },
+          {
+            speaker: "Tana",
+            line: "To question is not to disobey. It is to seek truth. And truth is the foundation of loyalty.",
+            delivery: "Quiet strength"
+          }
+        ]
+      },
+      narration: {
+        text: "But as knowledge grew, so too did fear.",
+        voiceDirection: "Tense and urgent",
+        soundscape: ["Distant unrest", "Echoing steps", "Murmured tension"]
+      }
+    },
+    {
+      id: 7,
+      title: "Star Discovery",
+      dialogue: {
+        character: "Raya",
+        lines: ["The stars move as we do... they rise, they fall, they return... Perhaps they show us the path of time itself."],
+        delivery: "Wonder-filled realization"
+      },
+      narration: {
+        text: "Her discovery was more than a simple observation—it was a revelation.",
+        voiceDirection: "Awe and suspense",
+        soundscape: ["Writing sounds", "Gasp of discovery", "Nature ambience"]
+      }
+    },
+    {
+      id: 8,
+      title: "Celebration",
+      dialogue: {
+        character: "Elder Scholar",
+        lines: ["To knowledge! For it is both our guide and our legacy, a gift we give not only to ourselves but to all those yet to come."],
+        delivery: "Warm pride"
+      },
+      narration: {
+        text: "To honor the wisdom they had gathered, the academy held a celebration.",
+        voiceDirection: "Joyful and reverent",
+        soundscape: ["Gentle music", "Soft laughter", "Cup clinking"]
+      }
+    }
+  ],
+  closingNarration: {
+    text: "Through the quiet halls of their academy, a legacy was born—one that would echo through the ages. For knowledge is not just the light of a single flame, but the glow of a thousand candles, each one passed from hand to hand, from heart to heart, until the world is filled with its warmth.",
+    voiceDirection: "Gentle and profound",
+    soundscape: ["Peaceful ambiance", "Distant voices", "Soft echoes"]
+  },
+  productionNotes: {
+    voiceDirection: {
+      narrator: "Reverent, curious, warm tone",
+      modulation: "Emphasize discovery and wisdom",
+      pacing: "Slow, deliberate delivery"
+    },
+    characterVoices: {
+      tana: "Calm, strong, protective",
+      raya: "Curious, wonder-filled",
+      elders: "Wise, kind, guiding"
+    },
+    soundDesign: {
+      primary: ["Academy ambiance", "Study sounds", "Nature"],
+      ambient: ["Page turning", "Quiet voices", "Footsteps"],
+      emphasis: "Create reverent learning atmosphere"
+    },
+    musicCues: {
+      opening: "Gentle, scholarly theme",
+      tension: "Subtle concern",
+      discovery: "Wonder and revelation",
+      closing: "Legacy and wisdom"
+    }
+  }
+}; 10:Tfdb,export const episode4Notes = {
+  title: "Guardians of Knowledge",
+  visualThemes: {
+    lighting: {
+      primary: "Golden enlightenment rays",
+      secondary: "Soft library ambiance",
+      transitions: "Knowledge as illumination",
+      symbolism: "Light representing wisdom"
+    },
+    environment: {
+      setting: "Ancient knowledge academy",
+      atmosphere: "Sacred learning sanctuary",
+      elements: [
+        "Layered architecture",
+        "Reflective surfaces",
+        "Sacred spaces",
+        "Defensive features",
+        "Learning chambers"
+      ],
+      soundscape: [
+        "Quiet footsteps",
+        "Rustling scrolls",
+        "Whispered teachings",
+        "Distant chants",
+        "Peaceful ambience"
+      ]
+    },
+    cinematography: {
+      techniques: [
+        "Reverent framing",
+        "Reflective compositions",
+        "Sacred space emphasis",
+        "Elder respect angles",
+        "Knowledge depth layers"
+      ],
+      focusPoints: [
+        "Sacred artifacts",
+        "Teaching moments",
+        "Defensive preparations",
+        "Council gatherings",
+        "Generational learning"
+      ]
+    }
+  },
+  characterDepth: {
+    tana: {
+      physicalPresence: [
+        "Silent determination",
+        "Calm strength",
+        "Protective stance",
+        "Respectful bearing",
+        "Unwavering resolve"
+      ],
+      emotionalJourney: [
+        "Sense of duty",
+        "Mental resilience",
+        "Sacred commitment",
+        "Protective wisdom",
+        "Legacy mindfulness"
+      ]
+    },
+    rasien: {
+      scholarlySpirit: [
+        "Deep reflection",
+        "Teaching dedication",
+        "Peaceful strength",
+        "Knowledge reverence",
+        "Quiet wisdom"
+      ],
+      characterGrowth: [
+        "Sacred duty",
+        "Protective innovation",
+        "Collaborative spirit",
+        "Ethical guidance",
+        "Legacy building"
+      ]
+    }
+  },
+  culturalElements: {
+    academyLife: {
+      aspects: [
+        "Sacred learning",
+        "Knowledge preservation",
+        "Generational teaching",
+        "Council wisdom",
+        "Protective rituals"
+      ],
+      intellectual: [
+        "Deep discussions",
+        "Knowledge sharing",
+        "Elder teachings",
+        "Sacred studies",
+        "Wisdom preservation"
+      ]
+    },
+    symbolism: {
+      objects: [
+        "Sacred scrolls",
+        "Ancient texts",
+        "Protection symbols",
+        "Teaching tools",
+        "Legacy artifacts"
+      ],
+      spaces: [
+        "Learning sanctuaries",
+        "Council chambers",
+        "Sacred archives",
+        "Defensive walls",
+        "Meditation spaces"
+      ]
+    }
+  },
+  thematicElements: {
+    protection: {
+      methods: [
+        "Nonviolent defense",
+        "Knowledge shields",
+        "Sacred barriers",
+        "Unified protection",
+        "Wisdom preservation"
+      ],
+      legacy: [
+        "Generational teaching",
+        "Knowledge transfer",
+        "Sacred traditions",
+        "Protective codes",
+        "Enduring wisdom"
+      ]
+    },
+    unity: {
+      expressions: [
+        "Council decisions",
+        "Collective defense",
+        "Shared knowledge",
+        "United purpose",
+        "Legacy commitment"
+      ],
+      symbols: [
+        "Sacred seals",
+        "Unity marks",
+        "Protection signs",
+        "Knowledge emblems",
+        "Legacy tokens"
+      ]
+    }
+  },
+  productionNotes: {
+    keyScenes: [
+      "Sacred teachings",
+      "Council gatherings",
+      "Defensive preparation",
+      "Knowledge protection",
+      "Legacy establishment"
+    ],
+    emotionalBeats: [
+      "Sacred duty",
+      "Protective resolve",
+      "United purpose",
+      "Knowledge reverence",
+      "Legacy pride"
+    ],
+    visualPriorities: [
+      "Sacred spaces",
+      "Knowledge depth",
+      "Protective design",
+      "Elder respect",
+      "Legacy symbols"
+    ],
+    audioConsiderations: [
+      "Sacred silence",
+      "Knowledge whispers",
+      "Protective sounds",
+      "Council voices",
+      "Legacy echoes"
+    ]
+  }
+}; 11:T1340,export interface Scene {
+  id: number;
+  title: string;
+  timeOfDay: string;
+  location: string;
+  characters: string[];
+  visualElements: {
+    lighting: string;
+    environment: string[];
+    keyProps: string[];
+    cameraWork: string[];
+  };
+  narration: {
+    text: string;
+    tone: string;
+    soundscape: string[];
+  };
+  action: {
+    mainAction: string;
+    characterActions: {
+      character: string;
+      action: string;
+    }[];
+    backgroundAction: string[];
+  };
+  productionNotes: {
+    visualFocus: string[];
+    audioEmphasis: string[];
+    keyMoments: string[];
+  };
+}
+
+export const episode4Scenes: Scene[] = [
+  {
+    id: 1,
+    title: "The Knowledge Academy",
+    timeOfDay: "Dawn",
+    location: "Academy Grounds",
+    characters: ["Tana", "Students", "Scholars"],
+    visualElements: {
+      lighting: "Soft morning light through columns",
+      environment: [
+        "Stone courtyards",
+        "Learning spaces",
+        "Ancient scrolls",
+        "Study areas"
+      ],
+      keyProps: [
+        "Scrolls and books",
+        "Teaching tools",
+        "Ancient artifacts",
+        "Study materials"
+      ],
+      cameraWork: [
+        "Sweeping establishing shot",
+        "Detail on architecture",
+        "Focus on learning activities"
+      ]
+    },
+    narration: {
+      text: "In an age of enlightenment, knowledge flourished in hallowed halls, safeguarded by those who valued it above all.",
+      tone: "Reverent and establishing",
+      soundscape: [
+        "Quiet study",
+        "Soft footsteps",
+        "Page turning",
+        "Distant discussions"
+      ]
+    },
+    action: {
+      mainAction: "Academy life beginning its day",
+      characterActions: [
+        {
+          character: "Tana",
+          action: "Observing the morning activities"
+        }
+      ],
+      backgroundAction: [
+        "Students studying",
+        "Scholars teaching",
+        "Knowledge sharing"
+      ]
+    },
+    productionNotes: {
+      visualFocus: [
+        "Academy architecture",
+        "Learning atmosphere",
+        "Knowledge preservation"
+      ],
+      audioEmphasis: [
+        "Peaceful study",
+        "Academic activity",
+        "Wisdom sharing"
+      ],
+      keyMoments: [
+        "Academy reveal",
+        "Learning scenes",
+        "Knowledge exchange"
+      ]
+    }
+  },
+  {
+    id: 2,
+    title: "Rasien's Study",
+    timeOfDay: "Morning",
+    location: "Archive Chamber",
+    characters: ["Rasien", "Archive Keepers"],
+    visualElements: {
+      lighting: "Filtered light through high windows",
+      environment: [
+        "Ancient archives",
+        "Study tables",
+        "Knowledge repositories",
+        "Artifact displays"
+      ],
+      keyProps: [
+        "Ancient manuscripts",
+        "Research tools",
+        "Preservation equipment",
+        "Historical records"
+      ],
+      cameraWork: [
+        "Close detail shots",
+        "Character focus",
+        "Environmental storytelling"
+      ]
+    },
+    narration: {
+      text: "Rasien, a guardian of intellect, saw potential where others saw only ink and dust.",
+      tone: "Thoughtful and focused",
+      soundscape: [
+        "Quill scratching",
+        "Paper rustling",
+        "Quiet concentration"
+      ]
+    },
+    action: {
+      mainAction: "Rasien studying ancient knowledge",
+      characterActions: [
+        {
+          character: "Rasien",
+          action: "Examining manuscripts and artifacts"
+        }
+      ],
+      backgroundAction: [
+        "Archive maintenance",
+        "Knowledge preservation",
+        "Research activities"
+      ]
+    },
+    productionNotes: {
+      visualFocus: [
+        "Ancient manuscripts",
+        "Study process",
+        "Knowledge preservation"
+      ],
+      audioEmphasis: [
+        "Research sounds",
+        "Archive ambiance",
+        "Scholarly focus"
+      ],
+      keyMoments: [
+        "Discovery moments",
+        "Knowledge preservation",
+        "Character introduction"
+      ]
+    }
+  }
+  // Additional scenes following same structure...
+];
+
+export const visualThemes = {
+  lighting: {
+    primary: "Natural daylight through windows",
+    secondary: "Candlelight and lanterns",
+    mood: "Academic and reverent"
+  },
+  colorPalette: {
+    primary: ["Parchment whites", "Book browns", "Scholar blues"],
+    accent: ["Knowledge gold", "Wisdom purple", "Archive green"]
+  },
+  cameraStyle: {
+    movement: "Steady and observant",
+    framing: "Academic focus with character moments",
+    focus: "Knowledge and preservation"
+  }
+};
+
+export const productionElements = {
+  soundscape: {
+    natural: ["Study sounds", "Archive ambiance", "Academy life"],
+    human: ["Scholar discussions", "Page turning", "Quiet focus"],
+    emotional: ["Discovery", "Learning", "Protection"]
+  },
+  visualEffects: {
+    environment: ["Dust motes", "Light rays", "Archive atmosphere"],
+    knowledge: ["Scroll details", "Book textures", "Learning visuals"]
+  }
+}; 12:T1763,export const episode4Script = {
+  title: "Guardians of Knowledge",
+  setting: "Ancient knowledge academy",
+  timeframe: "Era of enlightenment and preservation",
+  
+  scenes: [
+    {
+      id: 1,
+      title: "Knowledge Academy Establishment",
+      time: "Morning",
+      visual: "A sprawling academy with stone courtyards and open learning spaces where scholars exchange ideas.",
+      narration: "In an age of enlightenment, knowledge flourished in hallowed halls, safeguarded by those who valued it above all.",
+      dialogue: [
+        {
+          character: "Tana",
+          context: "observing students",
+          line: "The mind's strength grows with every thought shared."
+        }
+      ],
+      keyElements: ["Academy", "Learning", "Knowledge sharing"]
+    },
+    {
+      id: 2,
+      title: "Introducing Rasien",
+      time: "Mid-morning",
+      visual: "Rasien, a tech-mage, examines old manuscripts and ancient inventions, gathering knowledge.",
+      narration: "Rasien, a guardian of intellect, saw potential where others saw only ink and dust.",
+      dialogue: [
+        {
+          character: "Rasien",
+          context: "studying manuscripts",
+          line: "To protect knowledge is to protect the future."
+        }
+      ],
+      keyElements: ["Tech-mage", "Ancient knowledge", "Preservation"]
+    },
+    {
+      id: 3,
+      title: "Tana and Rasien's Alliance",
+      time: "Afternoon",
+      visual: "Tana, a fierce defender, and Rasien discuss their shared duty to protect the academy.",
+      narration: "United by purpose, the warrior and the seer prepared to defend the sanctity of knowledge.",
+      dialogue: [
+        {
+          character: "Tana",
+          context: "determined",
+          line: "You guard the mind; I guard the gate."
+        },
+        {
+          character: "Rasien",
+          context: "resolute",
+          line: "Together, we guard the future."
+        }
+      ],
+      keyElements: ["Alliance", "Protection", "Shared purpose"]
+    },
+    {
+      id: 4,
+      title: "Rumors of a Siege",
+      time: "Late Afternoon",
+      visual: "Whispered rumors of a group planning to take control of the academy's archives reach Tana and Rasien.",
+      narration: "But not all saw knowledge as a gift. Some sought it as power.",
+      dialogue: [
+        {
+          character: "Messenger",
+          context: "urgent",
+          line: "They plan to take the archives by force."
+        }
+      ],
+      keyElements: ["Threat", "Archives", "Power struggle"]
+    },
+    {
+      id: 5,
+      title: "Preparing the Defense",
+      time: "Evening",
+      visual: "Tana organizes defenders, while Rasien sets up defensive traps and protections around the archives.",
+      narration: "With Tana's courage and Rasien's ingenuity, they fortified the academy's walls.",
+      dialogue: [
+        {
+          character: "Tana",
+          context: "commanding",
+          line: "The gate will not yield, nor will we."
+        }
+      ],
+      keyElements: ["Defense", "Strategy", "Preparation"]
+    },
+    {
+      id: 6,
+      title: "The Siege Begins",
+      time: "Night",
+      visual: "The attackers approach, a mass of determined figures armed with weapons and torches.",
+      narration: "And so, under a darkened sky, the academy became a fortress of ideas.",
+      dialogue: [
+        {
+          character: "Lead Attacker",
+          context: "threatening",
+          line: "Open the gates, or knowledge falls under our rule."
+        }
+      ],
+      keyElements: ["Conflict", "Threat", "Defense"]
+    },
+    {
+      id: 7,
+      title: "Tana Leads the Defense",
+      time: "Deep Night",
+      visual: "Tana courageously leads defenders, holding the line against waves of attackers.",
+      narration: "Strength met strength, yet courage met purpose.",
+      dialogue: [
+        {
+          character: "Tana",
+          context: "defiant",
+          line: "Knowledge cannot be ruled by might!"
+        }
+      ],
+      keyElements: ["Leadership", "Courage", "Defense"]
+    },
+    {
+      id: 8,
+      title: "Rasien's Knowledge Traps",
+      time: "Late Night",
+      visual: "Rasien's traps activate, surprising the attackers and breaking their ranks.",
+      narration: "Knowledge, when wielded with wisdom, was a shield unseen.",
+      dialogue: [
+        {
+          character: "Rasien",
+          context: "activating traps",
+          line: "Each trap is a lesson unheeded."
+        }
+      ],
+      keyElements: ["Innovation", "Defense", "Wisdom"]
+    },
+    {
+      id: 9,
+      title: "Attackers Retreat",
+      time: "Dawn",
+      visual: "The attackers fall back, defeated by the academy's defenses and the combined efforts of Tana and Rasien.",
+      narration: "Victory was hard-won, earned by minds and hearts united.",
+      dialogue: [
+        {
+          character: "Lead Attacker",
+          context: "retreating",
+          line: "We underestimated the guardians' resolve."
+        }
+      ],
+      keyElements: ["Victory", "Unity", "Resolution"]
+    },
+    {
+      id: 10,
+      title: "Establishing the Code of Guardianship",
+      time: "Morning",
+      visual: "The council gathers, formalizing the 'Code of Guardianship' to protect knowledge for future generations.",
+      narration: "The code was born, a vow to defend not just knowledge, but the freedom to pursue it.",
+      dialogue: [
+        {
+          character: "Elder Scholar",
+          context: "proclamation",
+          line: "May wisdom be our guide and strength be our shield."
+        }
+      ],
+      keyElements: ["Legacy", "Protection", "Future"]
+    }
+  ],
+  
+  themes: {
+    primary: "Protection of knowledge",
+    secondary: ["Wisdom and strength", "Unity of purpose", "Legacy of learning"],
+    symbols: ["Academy walls", "Ancient archives", "Code of Guardianship"]
+  },
+  
+  artifacts: {
+    introduced: [
+      "Archive Seal",
+      "Guardian's Badge",
+      "Ancient Texts",
+      "Tech Relics",
+      "Defense Systems"
+    ]
+  }
+}; a:["$","$Lc",null,{"episode":"4","title":"Guardians of Knowledge","description":"Preserving wisdom through the ages","files":[{"name":"characters.ts","description":"Character definitions and development","path":"/scripts/season1/episode4/characters.ts","content":"$d"},{"name":"key_points.ts","description":"Major story points and themes","path":"/scripts/season1/episode4/key_points.ts","content":"$e"},{"name":"narration.ts","description":"Episode narration and dialogue","path":"/scripts/season1/episode4/narration.ts","content":"$f"},{"name":"notes.ts","description":"Production notes and considerations","path":"/scripts/season1/episode4/notes.ts","content":"$10"},{"name":"scenelist.ts","description":"Detailed scene breakdowns","path":"/scripts/season1/episode4/scenelist.ts","content":"$11"},{"name":"script.ts","description":"Complete episode script","path":"/scripts/season1/episode4/script.ts","content":"$12"}]}]
