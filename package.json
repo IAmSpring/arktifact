@@ -2,14 +2,14 @@
   "name": "arktifact-chronicles",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arktifact.com",
+  "homepage": "https://iamspring.github.io/arktifact",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "npm run predeploy && touch out/.nojekyll && gh-pages -d out"
+    "deploy": "touch out/.nojekyll && gh-pages -d out"
   },
   "dependencies": {
     "@vercel/analytics": "^1.4.0",
@@ -36,17 +36,5 @@
   },
   "eslintConfig": {
     "extends": "next/core-web-vitals"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
   }
 }
