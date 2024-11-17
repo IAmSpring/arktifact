@@ -38,13 +38,13 @@ jobs:
 
       - name: Install Dependencies
         run: npm install --include=dev
-          
+
       - name: Build
         run: |
           npm run build
           touch out/.nojekyll
           echo "arktifact.com" > out/CNAME
-          
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
