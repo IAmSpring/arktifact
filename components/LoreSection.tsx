@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { fadeInUp, staggerContainer } from '@/utils/animations';
+import { fadeInUp, staggerContainer } from '../utils/animations';
 import Link from 'next/link';
 
 const LoreSection = () => {

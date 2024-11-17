@@ -3,8 +3,8 @@
 import { motion } from 'framer-motion';
 import { NFT } from '@/types/nft';
 import NFTCard from './NFTCard';
-import { fadeInUp, staggerContainer } from '@/utils/animations';
-import { placeholderImages } from '@/utils/placeholders';
+import { fadeInUp, staggerContainer } from '../utils/animations';
+import { placeholderImages } from '../utils/placeholders';
 import Image from 'next/image';
 
 const FeaturedArtifacts = () => {

@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { fadeInUp, staggerContainer } from '@/utils/animations';
+import { fadeInUp, staggerContainer } from '../utils/animations';
 import { useState } from 'react';
 
 const StatsSection = () => {
