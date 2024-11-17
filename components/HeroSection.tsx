@@ -2,19 +2,32 @@
 
 import { motion } from 'framer-motion';
 import { fadeInUp, staggerContainer } from '@/utils/animations';
+import Image from 'next/image';
 
 const HeroSection = () => {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      {/* Gradient background */}
-      <div className="absolute inset-0 bg-gradient-to-b from-gray-900 via-purple-900/20 to-gray-900"></div>
+      {/* Background Image */}
+      <div className="absolute inset-0 z-0">
+        <Image
+          src="/images/story/humanity.jpg"
+          alt="Hero Background"
+          layout="fill"
+          objectFit="cover"
+          quality={100}
+          className="opacity-40"
+        />
+      </div>
+
+      {/* Gradient overlay */}
+      <div className="absolute inset-0 bg-gradient-to-b from-gray-900 via-purple-900/20 to-gray-900 z-10"></div>
 
       {/* Content */}
       <motion.div 
         variants={staggerContainer}
         initial="initial"
         animate="animate"
-        className="relative z-10 text-center px-4 max-w-4xl mx-auto"
+        className="relative z-20 text-center px-4 max-w-4xl mx-auto"
       >
         <motion.div variants={fadeInUp} className="mb-6 text-purple-400 font-cinzel">
           Chapter I
@@ -58,11 +71,11 @@ const HeroSection = () => {
       </motion.div>
 
       {/* Optional: Animated particles or effects */}
-      <div className="absolute inset-0 pointer-events-none">
+      <div className="absolute inset-0 pointer-events-none z-30">
         {/* Add any background effects here */}
       </div>
     </section>
   );
 };
 
-export default HeroSection; 
+export default HeroSection;

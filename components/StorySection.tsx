@@ -3,11 +3,22 @@
 import { motion } from 'framer-motion';
 import { fadeInUp, staggerContainer } from '@/utils/animations';
 import Link from 'next/link';
+import Image from 'next/image';
 
 const StorySection = () => {
   return (
-    <section id="story" className="py-24 bg-gray-800">
-      <div className="container mx-auto px-6">
+    <section id="story" className="py-24 bg-gray-800 relative">
+      <div className="absolute inset-0 z-0">
+        <Image
+          src="/images/story/season1earth.webp"
+          alt="Story Background"
+          layout="fill"
+          objectFit="cover"
+          quality={100}
+          className="opacity-40"
+        />
+      </div>
+      <div className="container mx-auto px-6 relative z-10">
         <motion.div
           variants={staggerContainer}
           initial="initial"

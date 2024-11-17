@@ -14,7 +14,7 @@ const FeaturedArtifacts = () => {
       name: "The Honor Symbol",
       title: "The Honor Symbol",
       description: "An ancient mark of unity among early tribes, symbolizing the first bonds of honor.",
-      image: placeholderImages.nfts.honorSymbol.src,
+      image: "/images/nfts/crest.jpg",
       imageUrl: placeholderImages.nfts.honorSymbol.src,
       openSeaUrl: "https://opensea.io/assets/arktifact/honor-symbol"
     },
@@ -23,7 +23,7 @@ const FeaturedArtifacts = () => {
       name: "Tanek's Portrait",
       title: "Tanek's Portrait",
       description: "The legendary warrior who first united the tribes through strength and wisdom.",
-      image: placeholderImages.nfts.tanekPortrait.src,
+      image: "/images/nfts/tanek.jpg",
       imageUrl: placeholderImages.nfts.tanekPortrait.src,
       openSeaUrl: "https://opensea.io/assets/arktifact/tanek-portrait"
     },
@@ -32,7 +32,7 @@ const FeaturedArtifacts = () => {
       name: "The Ancient Drum",
       title: "The Ancient Drum",
       description: "Used in sacred ceremonies to unite tribes and mark important gatherings.",
-      image: placeholderImages.nfts.ancientDrum.src,
+      image: "/images/nfts/drum.jpg",
       imageUrl: placeholderImages.nfts.ancientDrum.src,
       openSeaUrl: "https://opensea.io/assets/arktifact/ancient-drum"
     }

@@ -50,8 +50,10 @@ const NFTMarketplaceSection = () => {
                 <Image
                   src={nft.image}
                   alt={nft.title || nft.name}
-                  fill
+                  width={400}
+                  height={400}
                   className="object-cover"
+                  priority
                 />
               </div>
               <h3 className="text-xl font-cinzel font-bold mb-2">{nft.title || nft.name}</h3>

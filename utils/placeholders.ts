@@ -3,7 +3,7 @@ import { allNFTs } from '@/data/season1';
 export const placeholderImages = {
   episodes: {
     ep1: {
-      src: "/images/episodes/placeholder.jpg",
+      src: "/images/episodes/episode1.webp",
       fallback: {
         width: "100%",
         height: "400px",
@@ -11,7 +11,7 @@ export const placeholderImages = {
       }
     },
     ep2: {
-      src: "/images/episodes/placeholder.jpg",
+      src: "/images/episodes/episode2.webp",
       fallback: {
         width: "100%",
         height: "400px",
@@ -19,7 +19,7 @@ export const placeholderImages = {
       }
     },
     ep3: {
-      src: "/images/episodes/placeholder.jpg",
+      src: "/images/episodes/episode3.webp",
       fallback: {
         width: "100%",
         height: "400px",
@@ -27,7 +27,7 @@ export const placeholderImages = {
       }
     },
     ep4: {
-      src: "/images/episodes/placeholder.jpg",
+      src: "/images/episodes/episode4.webp",
       fallback: {
         width: "100%",
         height: "400px",
@@ -35,7 +35,7 @@ export const placeholderImages = {
       }
     },
     ep5: {
-      src: "/images/episodes/placeholder.jpg",
+      src: "/images/episodes/episode5.webp",
       fallback: {
         width: "100%",
         height: "400px",
@@ -43,7 +43,7 @@ export const placeholderImages = {
       }
     },
     ep6: {
-      src: "/images/episodes/placeholder.jpg",
+      src: "/images/episodes/episode6.webp",
       fallback: {
         width: "100%",
         height: "400px",
@@ -51,7 +51,7 @@ export const placeholderImages = {
       }
     },
     ep7: {
-      src: "/images/episodes/placeholder.jpg",
+      src: "/images/episodes/episode7.webp",
       fallback: {
         width: "100%",
         height: "400px",
@@ -59,7 +59,7 @@ export const placeholderImages = {
       }
     },
     ep8: {
-      src: "/images/episodes/placeholder.jpg",
+      src: "/images/episodes/episode8.webp",
       fallback: {
         width: "100%",
         height: "400px",
@@ -69,7 +69,7 @@ export const placeholderImages = {
   },
   nfts: {
     honorSymbol: {
-      src: "/images/nfts/placeholder.jpg",
+      src: "/images/story/scroll.jpg",
       fallback: {
         width: "100%",
         height: "300px",
@@ -77,7 +77,7 @@ export const placeholderImages = {
       }
     },
     tanekPortrait: {
-      src: "/images/nfts/placeholder.jpg",
+      src: "/images/story/tanek.jpg",
       fallback: {
         width: "100%",
         height: "300px",
@@ -85,7 +85,7 @@ export const placeholderImages = {
       }
     },
     ancientDrum: {
-      src: "/images/nfts/placeholder.jpg",
+      src: "/images/story/drum.jpg",
       fallback: {
         width: "100%",
         height: "300px",
@@ -93,15 +93,4 @@ export const placeholderImages = {
       }
     }
   }
-}; 
-
-export function getPlaceholderImage(id: string) {
-  return `https://via.placeholder.com/800x800.png?text=NFT+${id}`;
-}
-
-// Update the allNFTs data to use placeholders if images don't exist
-allNFTs.forEach((nft: { image: string; id: string }) => {
-  if (!nft.image.startsWith('http')) {
-    nft.image = getPlaceholderImage(nft.id);
-  }
-}); 
+};

@@ -1,5 +1,6 @@
 import { episodeData } from '@/data/episodes';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function StoryPage() {
   return (
@@ -23,6 +24,13 @@ export default function StoryPage() {
                 <h2 className="text-2xl font-cinzel font-bold mb-4">
                   Episode {episode.number}: {episode.title}
                 </h2>
+                <Image
+                  src={episode.thumbnail}
+                  alt={`Episode ${episode.number} thumbnail`}
+                  width={400}
+                  height={300}
+                  className="w-full h-48 object-cover rounded-lg mb-4"
+                />
                 <p className="text-gray-300 mb-6">{episode.description}</p>
                 <div className="flex gap-4">
                   <Link 

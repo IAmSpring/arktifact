@@ -1,4 +1,4 @@
-import { NFT } from '../types/nft';
+import { NFT } from '@/types/nft';
 
 // Collection Stats
 export const nftCollection = {
@@ -66,7 +66,7 @@ const dummyNFTs: NFT[] = [
     name: "Raska's Vision",
     title: "The First Vision",
     description: "The moment when Raska first glimpsed humanity's potential future.",
-    image: "/images/nfts/raska-vision.jpg",
+    image: "/images/nfts/vision.webp",
     attributes: [
       { trait_type: "Episode", value: "1" },
       { trait_type: "Character", value: "Raska" },
@@ -79,7 +79,7 @@ const dummyNFTs: NFT[] = [
     name: "Tanek's Shield",
     title: "The Protector's Shield",
     description: "The legendary shield used by Tanek to defend the first human settlement.",
-    image: "/images/nfts/tanek-shield.jpg",
+    image: "/images/nfts/shield.webp",
     attributes: [
       { trait_type: "Episode", value: "1" },
       { trait_type: "Character", value: "Tanek" },
@@ -92,7 +92,7 @@ const dummyNFTs: NFT[] = [
     name: "Unity Totem",
     title: "The Unity Totem",
     description: "A sacred artifact symbolizing the unity of all tribes.",
-    image: "/images/nfts/unity-totem.jpg",
+    image: "/images/nfts/totem.jpg",
     attributes: [
       { trait_type: "Episode", value: "1" },
       { trait_type: "Character", value: "All Tribes" },

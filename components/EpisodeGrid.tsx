@@ -5,7 +5,7 @@ import Image from 'next/image';
 const placeholderImages: PlaceholderImages = {
   episodes: {
     ep1: {
-      src: '/images/ep1-placeholder.jpg',
+      src: '/images/episodes/episode1.webp',
       fallback: {
         width: '400',
         height: '300',
@@ -13,14 +13,61 @@ const placeholderImages: PlaceholderImages = {
       }
     },
     ep2: {
-      src: '/images/ep2-placeholder.jpg',
+      src: '/images/episodes/episode2.webp',
       fallback: {
         width: '400',
         height: '300',
         text: 'Episode 2'
       }
+    },
+    ep3: {
+      src: '/images/episodes/episode3.webp',
+      fallback: {
+        width: '400',
+        height: '300',
+        text: 'Episode 3'
+      }
+    },
+    ep4: {
+      src: '/images/episodes/episode4.webp',
+      fallback: {
+        width: '400',
+        height: '300',
+        text: 'Episode 4'
+      }
+    },
+    ep5: {
+      src: '/images/episodes/episode5.webp',
+      fallback: {
+        width: '400',
+        height: '300',
+        text: 'Episode 5'
+      }
+    },
+    ep6: {
+      src: '/images/episodes/episode6.webp',
+      fallback: {
+        width: '400',
+        height: '300',
+        text: 'Episode 6'
+      }
+    },
+    ep7: {
+      src: '/images/episodes/episode7.webp',
+      fallback: {
+        width: '400',
+        height: '300',
+        text: 'Episode 7'
+      }
+    },
+    ep8: {
+      src: '/images/episodes/episode8.webp',
+      fallback: {
+        width: '400',
+        height: '300',
+        text: 'Episode 8'
+      }
     }
-    // Add other episodes as needed
   }
 };
 
@@ -28,17 +75,52 @@ const placeholderImages: PlaceholderImages = {
 const episodeData: Episode[] = [
   {
     number: 1,
-    title: "First Age",
-    subtitle: "The Beginning",
-    openSeaLink: "https://opensea.io/collection/episode-1"
+    title: "Origins of Honor",
+    subtitle: "The dawn of honor and unity",
+    openSeaLink: "https://opensea.io/collection/arktifact-ep1"
   },
   {
     number: 2,
-    title: "Second Age",
-    subtitle: "The Rise",
-    openSeaLink: "https://opensea.io/collection/episode-2"
+    title: "Bonds of Kinship", 
+    subtitle: "The age of community and growth",
+    openSeaLink: "https://opensea.io/collection/arktifact-ep2"
+  },
+  {
+    number: 3,
+    title: "Age of Innovation",
+    subtitle: "The rise of early civilization",
+    openSeaLink: "https://opensea.io/collection/arktifact-ep3"
+  },
+  {
+    number: 4,
+    title: "Guardians of Knowledge",
+    subtitle: "The preservation of wisdom",
+    openSeaLink: "https://opensea.io/collection/arktifact-ep4"
+  },
+  {
+    number: 5,
+    title: "Industrial Resilience",
+    subtitle: "The age of machines and unity",
+    openSeaLink: "https://opensea.io/collection/arktifact-ep5"
+  },
+  {
+    number: 6,
+    title: "New Frontiers",
+    subtitle: "The dawn of digital wisdom",
+    openSeaLink: "https://opensea.io/collection/arktifact-ep6"
+  },
+  {
+    number: 7,
+    title: "The Era of Unity",
+    subtitle: "The cosmic alliance begins",
+    openSeaLink: "https://opensea.io/collection/arktifact-ep7"
+  },
+  {
+    number: 8,
+    title: "The Final Legacy",
+    subtitle: "The culmination of honor",
+    openSeaLink: "https://opensea.io/collection/arktifact-ep8"
   }
-  // Add other episodes as needed
 ];
 
 const EpisodeGrid = () => {
