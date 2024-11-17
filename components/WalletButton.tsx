@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import Image from 'next/image';
 
 const WalletButton = () => {
-  const { account, connectWallet, disconnectWallet, isConnecting, userNFTs } = useWallet();
+  const { wallet, connectWallet, disconnectWallet, isConnecting, userNFTs } = useWallet();
   const [showDropdown, setShowDropdown] = useState(false);
 
   const shortenAddress = (address: string) => {
@@ -15,7 +15,7 @@ const WalletButton = () => {
 
   return (
     <div className="relative">
-      {!account ? (
+      {!wallet ? (
         <button
           onClick={connectWallet}
           disabled={isConnecting}
@@ -30,7 +30,7 @@ const WalletButton = () => {
             className="px-6 py-2 rounded-full bg-gray-800 text-purple-400 font-bold hover:bg-gray-700 transition-all flex items-center gap-2"
           >
             <span className="w-2 h-2 rounded-full bg-green-500"></span>
-            {shortenAddress(account)}
+            {shortenAddress(wallet)}
           </button>
 
           <AnimatePresence>
@@ -43,7 +43,7 @@ const WalletButton = () => {
               >
                 <div className="p-4 border-b border-gray-700">
                   <p className="text-sm text-gray-400">Connected Wallet</p>
-                  <p className="font-mono text-purple-400">{account}</p>
+                  <p className="font-mono text-purple-400">{wallet}</p>
                 </div>
 
                 <div className="p-4 border-b border-gray-700">
