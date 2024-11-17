@@ -12,10 +12,9 @@ const HeroSection = () => {
         <Image
           src="/images/story/humanity.jpg"
           alt="Hero Background"
-          layout="fill"
-          objectFit="cover"
+          fill
           quality={100}
-          className="opacity-40"
+          className="object-cover opacity-40"
         />
       </div>
 

@@ -12,10 +12,9 @@ const StorySection = () => {
         <Image
           src="/images/story/season1earth.webp"
           alt="Story Background"
-          layout="fill"
-          objectFit="cover"
+          fill
           quality={100}
-          className="opacity-40"
+          className="object-cover opacity-40"
         />
       </div>
       <div className="container mx-auto px-6 relative z-10">
